@@ -3,7 +3,7 @@
 <h1 align="center">🧠 Awesome Agent Memory</h1>
 
 <p align="center">
-    <b> Curated collection of papers, projects, and resources on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning </b>
+    <b> A curated collection of papers, projects, and resources on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning </b>
 </p>
 
 <details>
