@@ -93,6 +93,18 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 1. **[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://aclanthology.org/2025.acl-long.413/)**
 
     *Zhen Tan, Jun Yan, I-Hung Hsu, Rujun Han, Zifeng Wang, Long Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Rajan Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister*. ACL, 2025
+    
+2. **[SEDM: Scalable Self-Evolving Distributed Memory for Agents](https://arxiv.org/abs/2509.09498)**
+
+    *Haoran Xu, Jiacong Hu, Ke Zhang, Lei Yu, Yuxin Tang, Xinyuan Song, Yiqun Duan, Lynn Ai, Bill Shi*. Preprint, 2025
+
+5. **[MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](https://arxiv.org/abs/2409.05591)**
+
+   *Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Defu Lian, Zhicheng Dou, Tiejun Huang*. theWebConf, 2025
+
+6. **[Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)**
+
+    *Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang*. ICLR, 2025
 
 
 
@@ -109,7 +121,10 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 3. **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)** [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
     *Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang*. AAAI, 2024
+    
+4. **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
 
+    *Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun*. Preprint, 2024
 
 
 #### 🗓️ 2023
@@ -195,6 +210,9 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang*. ACL, 2025
 
+
+
+
 #### 🗓️ 2024
 1. **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)** [[code](https://github.com/thunlp/InfLLM)]
 
@@ -222,6 +240,9 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 7. **[MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565)**
     *Cunchen Hu, Heyang Huang, Junhao Hu, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan*. Preprint, 2024
+
+8. **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)**
+    *Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen*. NeurIPS,2024
 
 
 #### 🗓️ 2023
@@ -257,6 +278,10 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 5. **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)**
 
     *Mingyang Mao, Mariela M. Perez-Cabarcas, Utteja Kallakuri, Nicholas R. Waytowich, Xiaomin Lin, Tinoosh Mohsenin*.  Preprint, 2025
+    
+5. **[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)**
+
+    *Yitao Liu, Chenglei Si, Karthik Narasimhan, Shunyu Yao*.  Preprint, 2025
 
 
 #### 🗓️ 2024
@@ -293,6 +318,10 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 4. **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
 
     *Hongli Yu, Tinghong Chen, Jiangtao Feng, Jiangjie Chen, Weinan Dai, Qiying Yu, Ya-Qin Zhang, Wei-Ying Ma, Jingjing Liu, Mingxuan Wang, Hao Zhou*. Preprint, 2025
+    
+5. **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
+
+    *Guibin Zhang, Muxin Fu, Shuicheng Yan*. Preprint, 2025
 
 
 
@@ -332,7 +361,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang.* Preprint, 2024
 
 3. **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)
-[[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]**
+   [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]**
 
     *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* ACL, 2024
 
@@ -355,6 +384,10 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 3. **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)** [[code](https://github.com/MME-Benchmarks/Video-MME)]
 
     *Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun*. CVPR, 2025
+    
+4. **[Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)**
+
+    *Tianyu Huai, Jie Zhou, Yuxuan Cai, Qin Chen, Wen Wu, Xingjiao Wu, Xipeng Qiu, Liang He*. Neurips, 2025
 
 
 
@@ -369,7 +402,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Ruchit Rawal, Khalid Saifullah, Miquel Farré, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein*. CVPR, 2024
 
 3.  **[LongVideoBench: A Benchmark for Long-context
-Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)** [[code](https://github.com/longvideobench/LongVideoBench)]
+    Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)** [[code](https://github.com/longvideobench/LongVideoBench)]
 
     *Haoning Wu Dongxu Li Bei Chen Junnan Li*. NeurIPS, 2024
 
