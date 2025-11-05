@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-## 📚 Survey
+<h2 id="survey">📚 Survey</h2>
 
 #### 🗓️ 2025
 
@@ -51,14 +51,14 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Zihong He, Weizhe Lin, Hao Zheng, Fan Zhang, Matt W. Jones, Laurence Aitchison, Xuhai Xu, Miao Liu, Per Ola Kristensson, Junxiao Shen*. Preprint, 2025
 
 
-## 🎓 Workshop
+<h2 id="workshop">🎓 Workshop</h2>
 
 #### 🗓️ 2025
 1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
 
     *Robin Jia, Eric Wallace, Yangsibo Huang, Tiago Pimentel, Pratyush Maini, Verna Dankers, Johnny Wei, Pietro Lesci (Editors)*. 2025
 
-## 🧩 Memory System
+<h2 id="memory-system">🧩 Memory System</h2>
 
 #### 🗓️ 2025
 
@@ -85,7 +85,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 8. **[Memvid](https://github.com/Olow304/memvid)**
 
 
-## 📝 Text Memory
+<h2 id="text-memory">📝 Text Memory</h2>
 
 ### 📖 Text-based Memory
 
@@ -135,6 +135,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 ### 🧠 Graph-based Memory
 
+
 #### 🗓️ 2025
 
 1. **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)** [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
@@ -174,7 +175,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 
 
-## ⚙️ Parameter Memory
+<h2 id="parameter-memory">⚙️ Parameter Memory</h2>
 
 
 #### 🗓️ 2025
@@ -255,7 +256,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica*. Preprint, 2023
 
-## 🎥 Multimodal Memory
+<h2 id="multimodal-memory">🎥 Multimodal Memory</h2>
 
 #### 🗓️ 2025
 
@@ -297,7 +298,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Yuetian Weng, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang*. ECCV, 2024
 
-## 🔍 Memory Retrieval
+<h2 id="memory-retrieval">🔍 Memory Retrieval</h2>
 
 ### 🧭 Reinforcement Learning
 
@@ -327,7 +328,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 
 
-## 📏 Benchmark
+<h2 id="benchmark">📏 Benchmark</h2>
 
 ### 💬 Text-only Benchmarks
 
@@ -416,7 +417,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Karttikeya Mangalam, Raiymbek Akshulakov, Jitendra Malik*. Preprint, 2023
 
-## 📰 Blog
+<h2 id="blog">📰 Blog</h2>
 
 #### 🗓️ 2025
 1. **[Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)**
@@ -436,4 +437,4 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Lilian Weng*, 2023
 
-## 🌐 Other Resources
+<h2 id="other-resources">🌐 Other Resources</h2>
