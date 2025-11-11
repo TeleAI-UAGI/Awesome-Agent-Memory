@@ -18,7 +18,7 @@
     <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
-    <li><a href="#workshops">🎓 Workshops</a></li>
+    <li><a href="#workshops">💬 Workshops</a></li>
   </ol>
 </details>
 
@@ -169,7 +169,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 <h2 id="text-memory">📝 Papers - Text Memory</h2>
 
-### 📖 Text-based Memory
+### 📖 Plain-Text based Memory
 
 #### 🗓️ 2025
 1. **[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://aclanthology.org/2025.acl-long.413/)**
@@ -335,7 +335,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica*. Preprint, 2023
 
-<h2 id="multimodal-memory">🎥 Multimodal Memory</h2>
+<h2 id="multimodal-memory">🎥 Papers - Multimodal Memory</h2>
 
 #### 🗓️ 2025
 
@@ -433,7 +433,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Lilian Weng*, 2023
 
-<h2 id="workshops">🎓 Workshop</h2>
+<h2 id="workshops">💬 Workshop</h2>
 
 #### 🗓️ 2025
 1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
