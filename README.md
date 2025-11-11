@@ -24,29 +24,53 @@
 
 <h2 id="systems">🧩 Systems</h2>
 
-#### 🗓️ 2025
+#### Open-Source
 
-1. **[MemOS](https://github.com/usememos/memos)** [[home](https://www.usememos.com/)]
+1. **[Mem0](https://mem0.ai/)**
+   [[code](https://github.com/mem0ai/mem0)]
+   [[paper](https://arxiv.org/abs/2504.19413)]
+   [[blog]()]
 
-    *MemTensor*. 2025
+2. **[Letta (formerly MemGPT)](https://www.letta.com/)**
+   [[code](https://github.com/getzep/zep)]
 
-2. **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)** [[code](https://github.com/mem0ai/mem0)]
+3. **[Zep](https://github.com/getzep/zep)**
+   [[code](https://github.com/getzep/zep)]
+   [[blog]()]
 
-    *Prateek Chhikara, Dev Khant, Saket Aryan, Taranjeet Singh, Deshraj Yadav*. Preprint, 2025
+4. **[Memobase](https://github.com/memodb-io/memobase)**
 
-3. **[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957)** [[code](https://github.com/Mirix-AI/MIRIX)]
+5. **[Supermemory](https://supermemory.ai/)**
+   [[code](https://github.com/supermemoryai/supermemory)]
+   [[blog]()]
 
-    *Yu Wang, Xi Chen*. Preprint, 2025
+6. **[MemOS](https://www.usememos.com/)** 
+   [[code](https://github.com/usememos/memos)]
+   
+7. **[MIRIX](https://mirix.io/)**
+   [[code](https://github.com/Mirix-AI/MIRIX)]
+   [[paper](https://arxiv.org/abs/2507.07957)]
 
-4. **[Letta (formerly MemGPT)](https://github.com/Mirix-AI/MIRIX)**
+8. **[MemU](https://memu.pro/)**
+   [[code](https://github.com/NevaMind-AI/memU)]
 
-5. **[Zep](https://github.com/getzep/zep)**
+9. **[Memvid](https://www.memvid.com/)**
+   [[code](https://github.com/Olow304/memvid))]
 
-6. **[Memobase](https://github.com/memodb-io/memobase)**
+10. **[TeleMem]()**
+   [[code]()]
+   [[paper]()]
 
-7. **[MemU](https://github.com/NevaMind-AI/memU)** [[home](https://memu.pro/)]
+#### Closed-Source
 
-8. **[Memvid](https://github.com/Olow304/memvid)**
+1. **[Memories.ai](https://memories.ai/)**
+   [[papers](https://memories.ai/research)]
+   [[blog](memories.ai/blogs)]
+
+2. **[Mem 2.0](https://get.mem.ai/)**
+   [[blog](https://get.mem.ai/blog)]
+
+3. **[TwinMind](https://twinmind.com/)**
 
 <h2 id="tutorials">🧑‍🏫 Tutorials</h2>
 
