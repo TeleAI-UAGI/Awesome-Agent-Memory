@@ -29,42 +29,56 @@
 1. **[Mem0](https://mem0.ai/)**
    [[code](https://github.com/mem0ai/mem0)]
    [[paper](https://arxiv.org/abs/2504.19413)]
-   [[blog]()]
+   [[blog](https://get.mem.ai/blog)]
 
 2. **[Letta (formerly MemGPT)](https://www.letta.com/)**
+   [[code](https://github.com/letta-ai/letta)]
+   [[paper](https://arxiv.org/abs/2310.08560)]
+   [[research](https://www.letta.com/research)]
+   [[blog](https://www.letta.com/blog)]
+
+3. **[Zep](https://www.getzep.com/)**
    [[code](https://github.com/getzep/zep)]
+   [[paper](https://arxiv.org/abs/2501.13956)]
+   [[blog](https://blog.getzep.com/)]
 
-3. **[Zep](https://github.com/getzep/zep)**
-   [[code](https://github.com/getzep/zep)]
-   [[blog]()]
-
-4. **[Memobase](https://github.com/memodb-io/memobase)**
-
-5. **[Supermemory](https://supermemory.ai/)**
-   [[code](https://github.com/supermemoryai/supermemory)]
-   [[blog]()]
-
-6. **[MemOS](https://www.usememos.com/)** 
-   [[code](https://github.com/usememos/memos)]
-   
-7. **[MIRIX](https://mirix.io/)**
-   [[code](https://github.com/Mirix-AI/MIRIX)]
-   [[paper](https://arxiv.org/abs/2507.07957)]
-
-8. **[MemU](https://memu.pro/)**
-   [[code](https://github.com/NevaMind-AI/memU)]
-
-9. **[Memvid](https://www.memvid.com/)**
+4. **[Memvid](https://www.memvid.com/)**
    [[code](https://github.com/Olow304/memvid))]
 
-10. **[TeleMem]()**
+5. **[Memobase](https://memobase.io/)**
+   [[code](https://github.com/memodb-io/memobase)]
+   [[blog](https://www.memobase.io/blog)]
+
+6. **[Supermemory](https://supermemory.ai/)**
+   [[code](https://github.com/supermemoryai/supermemory)]
+   [[blog](https://supermemory.ai/blog)]
+
+7. **[MemOS](https://memos.openmem.net/)** 
+   [[code](https://github.com/MemTensor/MemOS)]
+   [[paper](https://arxiv.org/abs/2507.03724)]
+   [[blog](https://supermemory.ai/blog)]
+   
+8. **[Memvid](https://www.memvid.com/)**
+   [[code](https://github.com/Olow304/memvid))]
+
+9. **[MIRIX](https://mirix.io/)**
+   [[code](https://github.com/Mirix-AI/MIRIX)]
+   [[paper](https://arxiv.org/abs/2507.07957)]
+   [[blog](https://mirix.io/blog)]
+
+10. **[MemU](https://memu.pro/)**
+   [[code](https://github.com/NevaMind-AI/memU)]
+   [[blog](https://memu.pro/blog)]
+
+11. **[TeleMem]()**
    [[code]()]
    [[paper]()]
+   [[blog]()]
 
 #### Closed-Source
 
 1. **[Memories.ai](https://memories.ai/)**
-   [[papers](https://memories.ai/research)]
+   [[research](https://memories.ai/research)]
    [[blog](memories.ai/blogs)]
 
 2. **[Mem 2.0](https://get.mem.ai/)**
