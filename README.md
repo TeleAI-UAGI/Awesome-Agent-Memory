@@ -85,22 +85,26 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 ### 💬 Text-only Benchmarks
 
 #### 🗓️ 2025
-1. **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
 
-    *Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan.* Preprint, 2025
-
-2. **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
-[[code](https://github.com/xiaowu0162/LongMemEval)]**
-
-    *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* ICLR, 2025
-
-3. **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)** [[code](https://github.com/THUDM/LongBench)]
-
-    *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li*. ACL 2025
-
-4.  **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
-
-    *Menglin Xia, Victor Ruehle, Saravan Rajmohan, Reza Shokri.* ICML, 2025
+<ol>
+    <li>
+        **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
+        *Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan.* Preprint, 2025
+    </li>
+    <li>
+    **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
+    [[code](https://github.com/xiaowu0162/LongMemEval)]**
+        *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* ICLR, 2025
+    </li>
+    <li>
+    **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)** [[code](https://github.com/THUDM/LongBench)]
+        *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li*. ACL 2025
+    </li>
+    <li>
+    **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
+        *Menglin Xia, Victor Ruehle, Saravan Rajmohan, Reza Shokri.* ICML, 2025
+    </li>
+</ol>
 
 #### 🗓️ 2024
 1. **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)
