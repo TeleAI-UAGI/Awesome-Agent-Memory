@@ -75,7 +75,7 @@ x. **[Memvid](https://www.memvid.com/)**
 #### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
-   [[code](https://github.com/supermemoryai/supermemory)]
+   [[partial-code](https://github.com/supermemoryai/supermemory)]
    [[blog](https://supermemory.ai/blog)]
 
 2. **[Memories.ai](https://memories.ai/)**
