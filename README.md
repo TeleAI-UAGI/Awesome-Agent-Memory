@@ -9,18 +9,48 @@
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#surveys">📚 Surveys</a></li>
-    <li><a href="#workshops">🎓 Workshops</a></li>
     <li><a href="#systems">🧩 Systems</a></li>
+    <li><a href="#tutorials">🧑‍🏫 Tutorials</a></li>
+    <li><a href="#surveys">📚 Surveys</a></li>
+    <li><a href="#benchmarks">📏 Benchmarks</a></li>
     <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
     <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
     <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
-    <li><a href="#benchmarks">📏 Benchmarks</a></li>
-    <li><a href="#blogs">📰 Blogs</a></li>
-    <li><a href="#other">🌐 Other Resources</a></li>
+    <li><a href="#articles">📰 Articles</a></li>
+    <li><a href="#workshops">🎓 Workshops</a></li>
   </ol>
 </details>
+
+<h2 id="systems">🧩 Systems</h2>
+
+#### 🗓️ 2025
+
+1. **[MemOS](https://github.com/usememos/memos)** [[home](https://www.usememos.com/)]
+
+    *MemTensor*. 2025
+
+2. **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)** [[code](https://github.com/mem0ai/mem0)]
+
+    *Prateek Chhikara, Dev Khant, Saket Aryan, Taranjeet Singh, Deshraj Yadav*. Preprint, 2025
+
+3. **[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957)** [[code](https://github.com/Mirix-AI/MIRIX)]
+
+    *Yu Wang, Xi Chen*. Preprint, 2025
+
+4. **[Letta (formerly MemGPT)](https://github.com/Mirix-AI/MIRIX)**
+
+5. **[Zep](https://github.com/getzep/zep)**
+
+6. **[Memobase](https://github.com/memodb-io/memobase)**
+
+7. **[MemU](https://github.com/NevaMind-AI/memU)** [[home](https://memu.pro/)]
+
+8. **[Memvid](https://github.com/Olow304/memvid)**
+
+<h2 id="tutorials">🧑‍🏫 Tutorials</h2>
+
+TBA
 
 <h2 id="surveys">📚 Surveys</h2>
 
@@ -50,42 +80,94 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
    
     *Zihong He, Weizhe Lin, Hao Zheng, Fan Zhang, Matt W. Jones, Laurence Aitchison, Xuhai Xu, Miao Liu, Per Ola Kristensson, Junxiao Shen*. Preprint, 2025
 
+<h2 id="benchmarks">📏 Benchmarks</h2>
 
-<h2 id="workshops">🎓 Workshop</h2>
-
-#### 🗓️ 2025
-1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
-
-    *Robin Jia, Eric Wallace, Yangsibo Huang, Tiago Pimentel, Pratyush Maini, Verna Dankers, Johnny Wei, Pietro Lesci (Editors)*. 2025
-
-<h2 id="systems">🧩 Systems</h2>
+### 💬 Text-only Benchmarks
 
 #### 🗓️ 2025
+1. **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
 
-1. **[MemOS](https://github.com/usememos/memos)** [[home](https://www.usememos.com/)]
+    *Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan.* Preprint, 2025
 
-    *MemTensor*. 2025
+2. **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
+[[code](https://github.com/xiaowu0162/LongMemEval)]**
 
-2. **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)** [[code](https://github.com/mem0ai/mem0)]
+    *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* ICLR, 2025
 
-    *Prateek Chhikara, Dev Khant, Saket Aryan, Taranjeet Singh, Deshraj Yadav*. Preprint, 2025
+3. **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)** [[code](https://github.com/THUDM/LongBench)]
 
-3. **[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957)** [[code](https://github.com/Mirix-AI/MIRIX)]
+    *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li*. ACL 2025
 
-    *Yu Wang, Xi Chen*. Preprint, 2025
+4.  **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
 
-4. **[Letta (formerly MemGPT)](https://github.com/Mirix-AI/MIRIX)**
+    *Menglin Xia, Victor Ruehle, Saravan Rajmohan, Reza Shokri.* ICML, 2025
 
-5. **[Zep](https://github.com/getzep/zep)**
+#### 🗓️ 2024
+1. **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)
+[[code](https://github.com/OpenBMB/InfiniteBench)]**
 
-6. **[Memobase](https://github.com/memodb-io/memobase)**
+    *Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, Maosong Sun.* Preprint, 2024
 
-7. **[MemU](https://github.com/NevaMind-AI/memU)** [[home](https://memu.pro/)]
+2. **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)
+[[code](https://github.com/snap-research/LoCoMo)]**
 
-8. **[Memvid](https://github.com/Olow304/memvid)**
+    *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang.* Preprint, 2024
 
+3. **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)
+   [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]**
 
-<h2 id="text-memory">📝 Text Memory</h2>
+    *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* ACL, 2024
+
+#### 🗓️ 2023
+1.  **[Storybench: A multifaceted benchmark for continuous story visualization ](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f63f5fbed1a4ef08c857c5f377b5d33a-Abstract-Datasets_and_Benchmarks.html)** [[code](https://github.com/google/storybench)]
+
+    *Emanuele Bugliarello, H. Hernan Moraldo, Ruben Villegas, Mohammad Babaeizadeh, Mohammad Taghi Saffar, Han Zhang, Dumitru Erhan, Vittorio Ferrari, Pieter-Jan Kindermans, Paul Voigtlaender.* NeurIPS, 2023
+
+### 🎬 Multimodal Benchmarks
+
+#### 🗓️ 2025
+1.  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)** [[code](https://github.com/TeleAI-UAGI/TeleEgo)] [[project](https://programmergg.github.io/jrliu.github.io/)]
+
+    *Jiaqi Yan, Ruilong Ren, Jingren Liu, Shuning Xu, Ling Wang, Yiheng Wang, Yun Wang, Long Zhang, Xiangyu Chen, Changzhi Sun, Jixiang Luo, Dell Zhang, Hao Sun, Chi Zhang, Xuelong Li*. Preprint, 2025
+
+2.  **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)** [[code](https://github.com/zai-org/LVBench)]
+
+    *Weihan Wang, Zehai He, Wenyi Hong, Yean Cheng, Xiaohan Zhang, Ji Qi, Xiaotao Gu, Shiyu Huang, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang*. Preprint, 2025
+
+3. **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)** [[code](https://github.com/MME-Benchmarks/Video-MME)]
+
+    *Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun*. CVPR, 2025
+    
+4. **[Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)**
+
+    *Tianyu Huai, Jie Zhou, Yuxuan Cai, Qin Chen, Wen Wu, Xingjiao Wu, Xipeng Qiu, Liang He*. Neurips, 2025
+
+#### 🗓️ 2024
+
+1.  **[MovieChat+: Question-aware Sparse Memory for Long Video Question Answering](https://arxiv.org/abs/2404.17176)** [[code](https://github.com/rese1f/MovieChat)]
+
+    *Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang*. Preprint, 2024
+
+2.  **[CinePile: A Long Video Question Answering Dataset and Benchmark](https://arxiv.org/abs/2405.08813)** [[code](https://huggingface.co/datasets/tomg-group-umd/cinepile)]
+
+    *Ruchit Rawal, Khalid Saifullah, Miquel Farré, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein*. CVPR, 2024
+
+3.  **[LongVideoBench: A Benchmark for Long-context
+    Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)** [[code](https://github.com/longvideobench/LongVideoBench)]
+
+    *Haoning Wu Dongxu Li Bei Chen Junnan Li*. NeurIPS, 2024
+
+#### 🗓️ 2023
+
+1. **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)**
+
+    *Hongjie Zhang, Lu Dong, Yi Liu, Yifei Huang, Yali Wang, Limin Wang, Yu Qiao*. Preprint, 2023
+
+2. **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
+
+    *Karttikeya Mangalam, Raiymbek Akshulakov, Jitendra Malik*. Preprint, 2023
+
+<h2 id="text-memory">📝 Papers - Text Memory</h2>
 
 ### 📖 Text-based Memory
 
@@ -174,11 +256,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Petr Anokhin, Nikita Semenov, Artyom Sorokin, Dmitry Evseev, Andrey Kravchenko, Mikhail Burtsev, Evgeny Burnaev*. Preprint, 2024
 
 
-
-
-
-
-<h2 id="parameter-memory">⚙️ Parameter Memory</h2>
+<h2 id="parameter-memory">⚙️ Papers - Parameter Memory</h2>
 
 
 #### 🗓️ 2025
@@ -213,8 +291,6 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 8. **[Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)**
 
     *Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang*. ACL, 2025
-
-
 
 
 #### 🗓️ 2024
@@ -301,7 +377,8 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Yuetian Weng, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang*. ECCV, 2024
 
-<h2 id="memory-retrieval">🔍 Memory Retrieval</h2>
+
+<h2 id="memory-retrieval">🔍 Papers - Memory Retrieval</h2>
 
 ### 🧭 Reinforcement Learning
 
@@ -336,97 +413,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, Xinmiao Yu, Dingchu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou*. Preprint, 2025
 
 
-
-<h2 id="benchmarks">📏 Benchmarks</h2>
-
-### 💬 Text-only Benchmarks
-
-#### 🗓️ 2025
-1. **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
-
-    *Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan.* Preprint, 2025
-
-2. **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
-[[code](https://github.com/xiaowu0162/LongMemEval)]**
-
-    *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* ICLR, 2025
-
-3. **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)** [[code](https://github.com/THUDM/LongBench)]
-
-    *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li*. ACL 2025
-
-4.  **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
-
-    *Menglin Xia, Victor Ruehle, Saravan Rajmohan, Reza Shokri.* ICML, 2025
-
-#### 🗓️ 2024
-1. **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)
-[[code](https://github.com/OpenBMB/InfiniteBench)]**
-
-    *Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, Maosong Sun.* Preprint, 2024
-
-2. **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)
-[[code](https://github.com/snap-research/LoCoMo)]**
-
-    *Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang.* Preprint, 2024
-
-3. **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)
-   [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]**
-
-    *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* ACL, 2024
-
-#### 🗓️ 2023
-1.  **[Storybench: A multifaceted benchmark for continuous story visualization ](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f63f5fbed1a4ef08c857c5f377b5d33a-Abstract-Datasets_and_Benchmarks.html)** [[code](https://github.com/google/storybench)]
-
-    *Emanuele Bugliarello, H. Hernan Moraldo, Ruben Villegas, Mohammad Babaeizadeh, Mohammad Taghi Saffar, Han Zhang, Dumitru Erhan, Vittorio Ferrari, Pieter-Jan Kindermans, Paul Voigtlaender.* NeurIPS, 2023
-
-### 🎬 Multimodal Benchmarks
-
-#### 🗓️ 2025
-1.  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)** [[code](https://github.com/TeleAI-UAGI/TeleEgo)] [[project](https://programmergg.github.io/jrliu.github.io/)]
-
-    *Jiaqi Yan, Ruilong Ren, Jingren Liu, Shuning Xu, Ling Wang, Yiheng Wang, Yun Wang, Long Zhang, Xiangyu Chen, Changzhi Sun, Jixiang Luo, Dell Zhang, Hao Sun, Chi Zhang, Xuelong Li*. Preprint, 2025
-
-2.  **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)** [[code](https://github.com/zai-org/LVBench)]
-
-    *Weihan Wang, Zehai He, Wenyi Hong, Yean Cheng, Xiaohan Zhang, Ji Qi, Xiaotao Gu, Shiyu Huang, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang*. Preprint, 2025
-
-3. **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)** [[code](https://github.com/MME-Benchmarks/Video-MME)]
-
-    *Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun*. CVPR, 2025
-    
-4. **[Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)**
-
-    *Tianyu Huai, Jie Zhou, Yuxuan Cai, Qin Chen, Wen Wu, Xingjiao Wu, Xipeng Qiu, Liang He*. Neurips, 2025
-
-
-
-#### 🗓️ 2024
-
-1.  **[MovieChat+: Question-aware Sparse Memory for Long Video Question Answering](https://arxiv.org/abs/2404.17176)** [[code](https://github.com/rese1f/MovieChat)]
-
-    *Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang*. Preprint, 2024
-
-2.  **[CinePile: A Long Video Question Answering Dataset and Benchmark](https://arxiv.org/abs/2405.08813)** [[code](https://huggingface.co/datasets/tomg-group-umd/cinepile)]
-
-    *Ruchit Rawal, Khalid Saifullah, Miquel Farré, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein*. CVPR, 2024
-
-3.  **[LongVideoBench: A Benchmark for Long-context
-    Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)** [[code](https://github.com/longvideobench/LongVideoBench)]
-
-    *Haoning Wu Dongxu Li Bei Chen Junnan Li*. NeurIPS, 2024
-
-#### 🗓️ 2023
-
-1. **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)**
-
-    *Hongjie Zhang, Lu Dong, Yi Liu, Yifei Huang, Yali Wang, Limin Wang, Yu Qiao*. Preprint, 2023
-
-2. **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
-
-    *Karttikeya Mangalam, Raiymbek Akshulakov, Jitendra Malik*. Preprint, 2023
-
-<h2 id="blogs">📰 Blogs</h2>
+<h2 id="articles">📰 Articles</h2>
 
 #### 🗓️ 2025
 1. **[Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)**
@@ -445,3 +432,11 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 1. **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
 
     *Lilian Weng*, 2023
+
+<h2 id="workshops">🎓 Workshop</h2>
+
+#### 🗓️ 2025
+1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
+
+    *Robin Jia, Eric Wallace, Yangsibo Huang, Tiago Pimentel, Pratyush Maini, Verna Dankers, Johnny Wei, Pietro Lesci (Editors)*. 2025
+
