@@ -65,12 +65,10 @@
    [[paper]()]
    [[blog]()]
 
-<!--
-x. **[Memvid](https://www.memvid.com/)**
+9. ~~**[Memvid](https://www.memvid.com/)**~~
    [[code](https://github.com/Olow304/memvid))]
    [[critique](https://github.com/Olow304/memvid/issues/63)]
    [[critique](https://github.com/Olow304/memvid/issues/49)]
--->
 
 #### Closed-Source
 
