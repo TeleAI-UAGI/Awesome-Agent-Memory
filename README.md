@@ -37,41 +37,38 @@
    [[research](https://www.letta.com/research)]
    [[blog](https://www.letta.com/blog)]
 
-3. **[Zep](https://www.getzep.com/)**
-   [[code](https://github.com/getzep/zep)]
+3. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
+   [[code](https://github.com/getzep/graphiti)]
    [[paper](https://arxiv.org/abs/2501.13956)]
    [[blog](https://blog.getzep.com/)]
 
-4. **[Memvid](https://www.memvid.com/)**
-   [[code](https://github.com/Olow304/memvid))]
-
-5. **[Memobase](https://memobase.io/)**
-   [[code](https://github.com/memodb-io/memobase)]
-   [[blog](https://www.memobase.io/blog)]
-
-6. **[Supermemory](https://supermemory.ai/)**
+4. **[Supermemory](https://supermemory.ai/)**
    [[code](https://github.com/supermemoryai/supermemory)]
    [[blog](https://supermemory.ai/blog)]
 
-7. **[MemOS](https://memos.openmem.net/)** 
+5. **[Memvid](https://www.memvid.com/)**
+   [[code](https://github.com/Olow304/memvid))]
+
+6. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
    [[blog](https://supermemory.ai/blog)]
    
-8. **[Memvid](https://www.memvid.com/)**
-   [[code](https://github.com/Olow304/memvid))]
+7. **[MemU](https://memu.pro/)**
+   [[code](https://github.com/NevaMind-AI/memU)]
+   [[blog](https://memu.pro/blog)]
 
-9. **[MIRIX](https://mirix.io/)**
+8. **[MIRIX](https://mirix.io/)**
    [[code](https://github.com/Mirix-AI/MIRIX)]
    [[paper](https://arxiv.org/abs/2507.07957)]
    [[blog](https://mirix.io/blog)]
 
-10. **[MemU](https://memu.pro/)**
-   [[code](https://github.com/NevaMind-AI/memU)]
-   [[blog](https://memu.pro/blog)]
+9. **[Memobase](https://memobase.io/)**
+   [[code](https://github.com/memodb-io/memobase)]
+   [[blog](https://www.memobase.io/blog)]
 
-11. **[TeleMem]()**
-   [[code]()]
+10. **[TeleMem]()**
+   [[code](https://github.com/TeleAI-UAGI/TeleMem)]
    [[paper]()]
    [[blog]()]
 
