@@ -9,20 +9,20 @@
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#survey">📚 Survey</a></li>
-    <li><a href="#workshop">🎓 Workshop</a></li>
-    <li><a href="#memory-system">🧩 Memory System</a></li>
-    <li><a href="#text-memory">📝 Text Memory</a></li>
-    <li><a href="#parameter-memory">⚙️ Parameter Memory</a></li>
-    <li><a href="#multimodal-memory">🎥 Multimodal Memory</a></li>
-    <li><a href="#memory-retrieval">🔍 Memory Retrieval</a></li>
-    <li><a href="#benchmark">📏 Benchmark</a></li>
-    <li><a href="#blog">📰 Blog</a></li>
-    <li><a href="#other-resources">🌐 Other Resources</a></li>
+    <li><a href="#surveys">📚 Surveys</a></li>
+    <li><a href="#workshops">🎓 Workshops</a></li>
+    <li><a href="#systems">🧩 Systems</a></li>
+    <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
+    <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
+    <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
+    <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
+    <li><a href="#benchmarks">📏 Benchmarks</a></li>
+    <li><a href="#blogs">📰 Blogs</a></li>
+    <li><a href="#other">🌐 Other Resources</a></li>
   </ol>
 </details>
 
-<h2 id="survey">📚 Survey</h2>
+<h2 id="surveys">📚 Surveys</h2>
 
 #### 🗓️ 2025
 
@@ -51,14 +51,14 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
     *Zihong He, Weizhe Lin, Hao Zheng, Fan Zhang, Matt W. Jones, Laurence Aitchison, Xuhai Xu, Miao Liu, Per Ola Kristensson, Junxiao Shen*. Preprint, 2025
 
 
-<h2 id="workshop">🎓 Workshop</h2>
+<h2 id="workshops">🎓 Workshop</h2>
 
 #### 🗓️ 2025
 1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
 
     *Robin Jia, Eric Wallace, Yangsibo Huang, Tiago Pimentel, Pratyush Maini, Verna Dankers, Johnny Wei, Pietro Lesci (Editors)*. 2025
 
-<h2 id="memory-system">🧩 Memory System</h2>
+<h2 id="systems">🧩 Systems</h2>
 
 #### 🗓️ 2025
 
@@ -337,7 +337,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
 
 
-<h2 id="benchmark">📏 Benchmark</h2>
+<h2 id="benchmarks">📏 Benchmarks</h2>
 
 ### 💬 Text-only Benchmarks
 
@@ -426,7 +426,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Karttikeya Mangalam, Raiymbek Akshulakov, Jitendra Malik*. Preprint, 2023
 
-<h2 id="blog">📰 Blog</h2>
+<h2 id="blogs">📰 Blogs</h2>
 
 #### 🗓️ 2025
 1. **[Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)**
@@ -445,5 +445,3 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 1. **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
 
     *Lilian Weng*, 2023
-
-<h2 id="other-resources">🌐 Other Resources</h2>
