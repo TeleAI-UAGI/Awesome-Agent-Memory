@@ -69,8 +69,7 @@ Ordered by current Github stars.
 
 9. **[TeleMem (under construction)]()**
    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
-   [[paper]()]
-   [[blog]()]
+
 
 #### Closed-Source
 
@@ -92,8 +91,7 @@ Ordered by current Github stars.
 
 1. [Memvid](https://www.memvid.com/)
    [[code](https://github.com/Olow304/memvid)]
-   [[critique](https://github.com/Olow304/memvid/issues/63)]
-   [[critique](https://github.com/Olow304/memvid/issues/49)]
+   [[critique1(https://github.com/Olow304/memvid/issues/63),[critique2](https://github.com/Olow304/memvid/issues/49)]
 
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
    [[code](https://github.com/kingjulio8238/memary)]
