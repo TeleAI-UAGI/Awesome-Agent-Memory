@@ -44,11 +44,6 @@
    [[paper](https://arxiv.org/abs/2501.13956)]
    [[blog](https://blog.getzep.com/)]
 
-4. **[Memvid](https://www.memvid.com/)**
-   [[code](https://github.com/Olow304/memvid))]
-   [[critique](https://github.com/Olow304/memvid/issues/63)]
-   [[critique](https://github.com/Olow304/memvid/issues/49)]
-
 5. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
@@ -86,6 +81,16 @@
    [[blog](https://get.mem.ai/blog)]
 
 4. **[TwinMind](https://twinmind.com/)**
+
+#### Archival
+
+1. [Memvid](https://www.memvid.com/)
+   [[code](https://github.com/Olow304/memvid))]
+   [[critique](https://github.com/Olow304/memvid/issues/63)]
+   [[critique](https://github.com/Olow304/memvid/issues/49)]
+
+2. [Memary](https://kingjulio8238.github.io/memarydocs/)
+   [code](https://github.com/kingjulio8238/memary)
 
 <h2 id="tutorials">🧑‍🏫 Tutorials</h2>
 
