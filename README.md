@@ -26,23 +26,23 @@
 
 #### Open-Source
 
-<!-- Ordered by Github stars -->
+Ordered by current Github stars.
 
 1. **[Mem0](https://mem0.ai/)**
    [[code](https://github.com/mem0ai/mem0)]
    [[paper](https://arxiv.org/abs/2504.19413)]
    [[blog](https://get.mem.ai/blog)]
 
-2. **[Letta (formerly MemGPT)](https://www.letta.com/)**
+2. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
+   [[code](https://github.com/getzep/graphiti)]
+   [[paper](https://arxiv.org/abs/2501.13956)]
+   [[blog](https://blog.getzep.com/)]
+
+3. **[Letta (formerly MemGPT)](https://www.letta.com/)**
    [[code](https://github.com/letta-ai/letta)]
    [[paper](https://arxiv.org/abs/2310.08560)]
    [[research](https://www.letta.com/research)]
    [[blog](https://www.letta.com/blog)]
-
-3. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
-   [[code](https://github.com/getzep/graphiti)]
-   [[paper](https://arxiv.org/abs/2501.13956)]
-   [[blog](https://blog.getzep.com/)]
 
 4. **[Congee](https://www.cognee.ai/)**
    [[code](https://github.com/topoteretes/cognee)]
@@ -67,7 +67,7 @@
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-9. **[TeleMem]()**
+9. **[TeleMem (under construction)]()**
    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
    [[paper]()]
    [[blog]()]
