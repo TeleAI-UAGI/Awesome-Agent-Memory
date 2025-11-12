@@ -26,7 +26,7 @@
 
 #### Open-Source
 
-Ordered by current Github stars.
+_Ordered by the number of Github stars._
 
 1. **[Mem0](https://mem0.ai/)**
    [[code](https://github.com/mem0ai/mem0)]
@@ -44,30 +44,34 @@ Ordered by current Github stars.
    [[research](https://www.letta.com/research)]
    [[blog](https://www.letta.com/blog)]
 
-4. **[Congee](https://www.cognee.ai/)**
+4. **[Second Me](https://home.second.me/)**
+   [[code](https://github.com/mindverse/Second-Me)]
+   [[paper](https://arxiv.org/abs/2503.08102)]
+
+5. **[Congee](https://www.cognee.ai/)**
    [[code](https://github.com/topoteretes/cognee)]
    [[paper](https://arxiv.org/abs/2505.24478)]
    [[blog](https://www.cognee.ai/blog)]
 
-5. **[MemOS](https://memos.openmem.net/)** 
+6. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
    [[blog](https://supermemory.ai/blog)]
    
-6. **[MemU](https://memu.pro/)**
+7. **[MemU](https://memu.pro/)**
    [[code](https://github.com/NevaMind-AI/memU)]
    [[blog](https://memu.pro/blog)]
 
-7. **[MIRIX](https://mirix.io/)**
+8. **[MIRIX](https://mirix.io/)**
    [[code](https://github.com/Mirix-AI/MIRIX)]
    [[paper](https://arxiv.org/abs/2507.07957)]
    [[blog](https://mirix.io/blog)]
 
-8. **[Memobase](https://memobase.io/)**
+9. **[Memobase](https://memobase.io/)**
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-9. **[TeleMem (under construction)]()**
+10. **[TeleMem (under construction)]()**
    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
 
 
