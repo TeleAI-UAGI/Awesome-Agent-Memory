@@ -87,7 +87,7 @@
 
 4. **[TwinMind](https://twinmind.com/)**
 
-#### Archival
+#### Archival (Inactive)
 
 1. [Memvid](https://www.memvid.com/)
    [[code](https://github.com/Olow304/memvid))]
@@ -95,7 +95,7 @@
    [[critique](https://github.com/Olow304/memvid/issues/49)]
 
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
-   [code](https://github.com/kingjulio8238/memary)
+   [[code](https://github.com/kingjulio8238/memary)]
 
 <h2 id="tutorials">🧑‍🏫 Tutorials</h2>
 
