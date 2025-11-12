@@ -44,6 +44,11 @@
    [[paper](https://arxiv.org/abs/2501.13956)]
    [[blog](https://blog.getzep.com/)]
 
+4. **[Congee](https://www.cognee.ai/)**
+   [[code](https://github.com/topoteretes/cognee)]
+   [[paper](https://arxiv.org/abs/2505.24478)]
+   [[blog](https://www.cognee.ai/blog)]
+
 5. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
