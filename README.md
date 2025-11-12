@@ -80,12 +80,13 @@ Ordered by current Github stars.
 
 2. **[Memories.ai](https://memories.ai/)**
    [[research](https://memories.ai/research)]
+   [[paper](https://memories.ai/research/Camera)]
    [[blog](memories.ai/blogs)]
 
-3. **[Mem 2.0](https://get.mem.ai/)**
+4. **[Mem 2.0](https://get.mem.ai/)**
    [[blog](https://get.mem.ai/blog)]
 
-4. **[TwinMind](https://twinmind.com/)**
+5. **[TwinMind](https://twinmind.com/)**
 
 #### Archival (Inactive)
 
