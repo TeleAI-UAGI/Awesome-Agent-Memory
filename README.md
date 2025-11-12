@@ -26,6 +26,8 @@
 
 #### Open-Source
 
+<!-- Ordered by Github stars -->
+
 1. **[Mem0](https://mem0.ai/)**
    [[code](https://github.com/mem0ai/mem0)]
    [[paper](https://arxiv.org/abs/2504.19413)]
@@ -42,33 +44,33 @@
    [[paper](https://arxiv.org/abs/2501.13956)]
    [[blog](https://blog.getzep.com/)]
 
-4. **[MemOS](https://memos.openmem.net/)** 
+4. **[Memvid](https://www.memvid.com/)**
+   [[code](https://github.com/Olow304/memvid))]
+   [[critique](https://github.com/Olow304/memvid/issues/63)]
+   [[critique](https://github.com/Olow304/memvid/issues/49)]
+
+5. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
    [[blog](https://supermemory.ai/blog)]
    
-5. **[MemU](https://memu.pro/)**
+6. **[MemU](https://memu.pro/)**
    [[code](https://github.com/NevaMind-AI/memU)]
    [[blog](https://memu.pro/blog)]
 
-6. **[MIRIX](https://mirix.io/)**
+7. **[MIRIX](https://mirix.io/)**
    [[code](https://github.com/Mirix-AI/MIRIX)]
    [[paper](https://arxiv.org/abs/2507.07957)]
    [[blog](https://mirix.io/blog)]
 
-7. **[Memobase](https://memobase.io/)**
+8. **[Memobase](https://memobase.io/)**
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-8. **[TeleMem]()**
+9. **[TeleMem]()**
    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
    [[paper]()]
    [[blog]()]
-
-9. **[Memvid](https://www.memvid.com/)**
-   [[code](https://github.com/Olow304/memvid))]
-   [[critique](https://github.com/Olow304/memvid/issues/63)]
-   [[critique](https://github.com/Olow304/memvid/issues/49)]
 
 #### Closed-Source
 
