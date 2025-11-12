@@ -497,7 +497,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Lilian Weng*, 2023
 
-<h2 id="workshops">💬 Workshop</h2>
+<h2 id="workshops">💬 Workshops</h2>
 
 #### 🗓️ 2025
 1. **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
