@@ -271,7 +271,7 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 
     *Ali Modarressi, Ayyoob Imani, Mohsen Fayyaz, Hinrich Schütze*. Preprint, 2023
 
-### 🧠 Graph-based Memory
+### 🧠 Graph based Memory
 
 
 #### 🗓️ 2025
