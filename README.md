@@ -72,9 +72,11 @@ _Ordered by the number of Github stars._
    [[blog](https://www.memobase.io/blog)]
 
 10. **[TeleMem (under construction)]()**
-   [[code](https://github.com/TeleAI-UAGI/TeleMem)]
+      [[code](https://github.com/TeleAI-UAGI/TeleMem)]
 
-
+11. **[Second Me](https://home.second.me/)**
+      [[code](https://github.com/Mindverse/Second-Me)]
+      [[paper](https://arxiv.org/pdf/2503.08102)]
 #### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
@@ -151,12 +153,12 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
    _Qingyao Ai, Yichen Tang, Changyue Wang, Jianming Long, Weihang Su, Yiqun Liu._ Preprint, 2025
    
 3. **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
-    
+   
     *Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan.* Preprint, 2025
 
 4. **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
    [[dataset](https://github.com/xiaowu0162/LongMemEval)]
-    
+   
     *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* ICLR, 2025
 
 5. **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)**
@@ -310,6 +312,10 @@ Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)** [[code](h
 6. **[HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://aclanthology.org/2025.acl-long.1575/)**
 
     *Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, Ping Luo*. ACL, 2025
+    
+7. **[Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning](https://arxiv.org/abs/2505.24478)**
+
+    *Vasilije Markovic, Lazar Obradovic, Laszlo Hajdu, Jovan Pavlovic*. ACL, 2025
 
 #### 🗓️ 2024
 
