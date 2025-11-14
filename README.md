@@ -305,6 +305,10 @@ TBA
 
 #### 🗓️ 2025
 
+- **[From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory](https://www.arxiv.org/abs/2511.07800)**
+
+    _Siyu Xia, Zekun Xu, Jiajun Chai, Wentian Fan, Yan Song, Xiaohan Wang, Guojun Yin, Wei Lin, Haifeng Zhang, Jun Wang_. Preprint, 2025.
+
 - **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**
     [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
 
