@@ -307,6 +307,8 @@ TBA
 
 #### 🗓️ 2025
 
+- **[Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)**
+  
 - **[Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)**
 
 - **[R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)**
