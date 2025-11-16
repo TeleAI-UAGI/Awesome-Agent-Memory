@@ -71,12 +71,15 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-10. **[TeleMem (under construction)]()**
-      [[code](https://github.com/TeleAI-UAGI/TeleMem)]
+10. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+    [[code](https://github.com/EverMind-AI/EverMemOS/)]
+    [[blog](https://evermind-ai.com/blog/)]
 
-11. **[Second Me](https://home.second.me/)**
-      [[code](https://github.com/Mindverse/Second-Me)]
-      [[paper](https://arxiv.org/pdf/2503.08102)]
+12. **[TeleMem (under construction)]()**
+    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
+    _TO be realeased soon. Stay tuned._
+
+
 #### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
