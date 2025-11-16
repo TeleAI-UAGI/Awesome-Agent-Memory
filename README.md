@@ -408,3 +408,10 @@ TBA
 
 - **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
 
+<div align="center">
+
+**If this project helps you, please give us a ⭐️.**
+
+Made with ❤️ by the TeleMem Team.
+
+</div>
