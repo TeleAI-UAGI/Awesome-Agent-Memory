@@ -137,6 +137,10 @@ TBA
 
 #### 🗓️ 2025
 
+- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)**
+  [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
+  [[dataset](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
+  
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
    [[code](https://github.com/MemTensor/HaluMem)]
    [[dataset](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
