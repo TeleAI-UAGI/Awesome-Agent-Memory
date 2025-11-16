@@ -8,7 +8,7 @@
 
 <details open>
   <summary>🗂️ Table of Contents</summary>
-  <ol>
+  <ul>
     <li><a href="#systems">🧩 Systems</a></li>
     <li><a href="#tutorials">🧑‍🏫 Tutorials</a></li>
     <li><a href="#surveys">📚 Surveys</a></li>
@@ -19,7 +19,7 @@
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
     <li><a href="#workshops">💬 Workshops</a></li>
-  </ol>
+  </ul>
 </details>
 
 <h2 id="systems">🧩 Systems</h2>
@@ -71,11 +71,15 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-10. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+10. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+    [[code](https://github.com/langchain-ai/langmem)]
+    [[blog](https://blog.langchain.com/)]
+
+12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-11. **[TeleMem (under construction)]()**
+12. **[TeleMem (under construction)]()**
     [[code](https://github.com/TeleAI-UAGI/TeleMem)]
 
      _To be realeased soon. Stay tuned._
