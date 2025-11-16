@@ -212,11 +212,13 @@ TBA
 
 #### 🗓️ 2025
 
-- **[Nemori: Self-Organizing Agent Memory Inspired by Cognitive Scienc](https://arxiv.org/abs/2508.03341)e**
-    [[code](https://github.com/nemori-ai/nemori)]
-
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
    [[code](https://github.com/zjunlp/LightMem)]
+
+- **[Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)**
+    [[code](https://github.com/nemori-ai/nemori)]
+
+- **[Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering](https://arxiv.org/abs/2508.17330)**
 
 - **[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://aclanthology.org/2025.acl-long.413/)**
 
