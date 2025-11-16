@@ -22,6 +22,8 @@
   </ul>
 </details>
 
+<hr>
+
 <h2 id="systems">🧩 Systems</h2>
 
 #### Open-Source
@@ -408,10 +410,10 @@ TBA
 
 - **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
 
-<div align="center">
+<hr>
 
 **If this project helps you, please give us a ⭐️.**
 
-Made with ❤️ by the TeleMem Team.
+Made with ❤️ by the TeleMem team at TeleAI.
 
-</div>
+<hr>
