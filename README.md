@@ -14,8 +14,8 @@
     <li><a href="#surveys">📚 Surveys</a></li>
     <li><a href="#benchmarks">📏 Benchmarks</a></li>
     <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
-    <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
     <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
+    <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
     <li><a href="#workshops">💬 Workshops</a></li>
@@ -274,56 +274,6 @@ TBA
 - **[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)**
     [[code](https://github.com/AIRI-Institute/AriGraph)]
 
-<h2 id="parameter-memory">⚙️ Papers - Parameter Memory</h2>
-
-#### 🗓️ 2025
-
-- **[R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)**
-
-- **[May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)**
-
-- **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
-
-- **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
-
-- **[MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/)**
-
-- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
-
-- **[EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://aclanthology.org/2025.acl-long.574/)**
-
-- **[Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)**
-
-#### 🗓️ 2024
-
-- **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
-    [[code](https://github.com/thunlp/InfLLM)]
-
-- **[Memory<sup>3</sup>: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178v1)**
-
-- **[MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/He_MA-LMM_Memory-Augmented_Large_Multimodal_Model_for_Long-Term_Video_Understanding_CVPR_2024_paper.pdf)**
-    [[code](https://github.com/boheumd/MA-LMM)]
-
-- **[MemoryLLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624)**
-    [[code](https://github.com/wangyu-ustc/MemoryLLM)]
-
-- **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)**
-    [[code](https://github.com/zjunlp/EasyEdit)]
-
-- **[Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)**
-
-- **[MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565)**
-
-- **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)**
-
-#### 🗓️ 2023
-
-- **[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)**
-    [[code](https://github.com/Victorwz/LongMem)]
-
-- **[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)**
-    [[code](https://github.com/vllm-project/vllm)]
-
 <h2 id="multimodal-memory">🎥 Papers - Multimodal Memory</h2>
 
 #### 🗓️ 2025
@@ -352,6 +302,60 @@ TBA
 
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
+
+<h2 id="parameter-memory">⚙️ Papers - Parameter Memory</h2>
+
+#### 🗓️ 2025
+
+- **[Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)**
+
+- **[R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)**
+
+- **[May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)**
+
+- **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
+
+- **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
+
+- **[MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/)**
+
+- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
+
+- **[EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://aclanthology.org/2025.acl-long.574/)**
+
+- **[Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)**
+
+#### 🗓️ 2024
+
+- **[Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)**
+
+- **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
+    [[code](https://github.com/thunlp/InfLLM)]
+
+- **[Memory<sup>3</sup>: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178v1)**
+
+- **[MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/He_MA-LMM_Memory-Augmented_Large_Multimodal_Model_for_Long-Term_Video_Understanding_CVPR_2024_paper.pdf)**
+    [[code](https://github.com/boheumd/MA-LMM)]
+
+- **[MemoryLLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624)**
+    [[code](https://github.com/wangyu-ustc/MemoryLLM)]
+
+- **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)**
+    [[code](https://github.com/zjunlp/EasyEdit)]
+
+- **[Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)**
+
+- **[MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565)**
+
+- **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)**
+
+#### 🗓️ 2023
+
+- **[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)**
+    [[code](https://github.com/Victorwz/LongMem)]
+
+- **[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)**
+    [[code](https://github.com/vllm-project/vllm)]
 
 <h2 id="memory-retrieval">🔍 Papers - Memory Retrieval</h2>
 
