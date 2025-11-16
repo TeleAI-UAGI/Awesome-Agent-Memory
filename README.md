@@ -75,9 +75,10 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-12. **[TeleMem (under construction)]()**
+11. **[TeleMem (under construction)]()**
     [[code](https://github.com/TeleAI-UAGI/TeleMem)]
-    _TO be realeased soon. Stay tuned._
+
+     _To be realeased soon. Stay tuned._
 
 
 #### Closed-Source
@@ -120,7 +121,7 @@ TBA
 - **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)**
    [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
 
-    *Zeyu Zhang, Quanyu Dai, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen.* ACM Transactions on Information Systems, 2025
+    *Zeyu Zhang, Quanyu Dai, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen.* ACM TOIS, 2025
 
 - **[Cognitive Memory in Large Language Models](https://arxiv.org/abs/2504.02441)**
 
