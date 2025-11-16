@@ -139,23 +139,23 @@ TBA
 
 - **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)**
   [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
-  [[dataset](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
+  [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
   
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
    [[code](https://github.com/MemTensor/HaluMem)]
-   [[dataset](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
+   [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
 - **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
    [[code](https://github.com/LittleDinoC/MemoryBench)]
-   [[dataset](https://huggingface.co/datasets/THUIR/MemoryBench)]
+   [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
 
 - **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
    
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
-   [[dataset](https://github.com/xiaowu0162/LongMemEval)]
+   [[data](https://github.com/xiaowu0162/LongMemEval)]
    
 - **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)**
-   [[dataset](https://github.com/THUDM/LongBench)]
+   [[data](https://github.com/THUDM/LongBench)]
 
 - **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
 
@@ -164,8 +164,9 @@ TBA
 - **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
     [[code](https://github.com/OpenBMB/InfiniteBench)]
 
-- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)**
+- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
     [[code](https://github.com/snap-research/LoCoMo)]
+    [[data](https://github.com/snap-research/locomo/tree/main/data)]
 
 - **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
     [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
