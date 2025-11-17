@@ -414,6 +414,6 @@ TBA
 
 **If this project helps you, please give us a ⭐️.**
 
-Made with ❤️ by the TeleMem team at TeleAI.
+Made with ❤️ by the Ubiquitous AGI team at TeleAI.
 
 <hr>
