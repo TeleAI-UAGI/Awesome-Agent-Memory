@@ -22,7 +22,7 @@
   </ul>
 </details>
 
-<hr>
+---
 
 <h2 id="systems">🧩 Systems</h2>
 
@@ -410,10 +410,18 @@ TBA
 
 - **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
 
-<hr>
+---
 
-**If this project helps you, please give us a ⭐️.**
+<div align="center">
+
+**If you find this project helpful, please give us a ⭐️.**
 
 Made with ❤️ by the Ubiquitous AGI team at TeleAI.
 
-<hr>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+    <img src="assets/TeleAI.jpg" alt="TeleAI Logo" width="120px" />
+
+</div>
