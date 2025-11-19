@@ -218,8 +218,8 @@ TBA
 - **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
 
 
-<h2 id="nonparametric-memory">🔤 Papers - Nonparametric Memory</
-                                                                 h2>
+<h2 id="nonparametric-memory">🔤 Papers - Nonparametric Memory</h2>
+
 ### 📝 Text Memory
 
 #### 🗓️ 2025
