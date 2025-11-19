@@ -25,6 +25,7 @@
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
+    <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
     <li><a href="#-articles">📰 Articles</a></li>
     <li><a href="#-workshops">👥 Workshops</a></li>
   </ul>
@@ -121,7 +122,9 @@ _Ordered by the number of Github stars._
 
 ## 📖 Tutorials
 
-TBA
+#### 🗓️ 2025
+
+ - **[SIGIR-AP'25](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
 
 ## 📚 Surveys
 
@@ -385,9 +388,6 @@ TBA
    
 - **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
 
-- **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
-    [[code](https://github.com/bytedance-seed/m3-agent)]
-
 - **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
 
 - **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
@@ -395,6 +395,12 @@ TBA
 - **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
 
 - **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)**
+
+## 🔬 Papers - Memory in Cognitive Science
+
+#### 🗓️ 2025
+
+TBA
 
 ## 📰 Articles
 
