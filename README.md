@@ -13,13 +13,20 @@
     <li><a href="#tutorials">🧑‍🏫 Tutorials</a></li>
     <li><a href="#surveys">📚 Surveys</a></li>
     <li><a href="#benchmarks">📏 Benchmarks</a></li>
-    <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
-    <li><a href="#graph-memory">📝 Papers - Graph Memory</a></li>
-    <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
-    <li><a href="#parameteric-memory">⚙️ Papers - Parameteric Memory</a></li>
+    <ul>
+        <li>💬 Plain-Text Benchmarks</li>
+        <li>🎬 Multimodal Benchmarks</li>
+    </ul>
+    <li><a href="#nonparametric-memory">🔤 Papers - NonParameteric Memory</a></li>
+    <ul>
+        <li>📝 Text Memory</li>
+        <li>🕸️ Graph Memory</li>
+        <li>🎥 Multimodal Memory</li>
+    </ul>
+    <li><a href="#parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
-    <li><a href="#workshops">💬 Workshops</a></li>
+    <li><a href="#workshops">👥 Workshops</a></li>
   </ul>
 </details>
 
@@ -136,7 +143,7 @@ TBA
    
 <h2 id="benchmarks">📏 Benchmarks</h2>
 
-### 💬 Text-only Benchmarks
+### 💬 Plain-Text Benchmarks
 
 #### 🗓️ 2025
 
@@ -210,7 +217,10 @@ TBA
 
 - **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
 
-<h2 id="text-memory">📝 Papers - Text Memory</h2>
+
+<h2 id="nonparametric-memory">🔤 Papers - Nonparametric Memory</
+                                                                 h2>
+### 📝 Text Memory
 
 #### 🗓️ 2025
 
@@ -246,7 +256,7 @@ TBA
 
 - **[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)**
 
-<h2 id="graph-memory">📝 Papers - Graph Memory</h2>
+### 🕸️ Graph Memory
 
 #### 🗓️ 2025
 
@@ -275,7 +285,7 @@ TBA
 - **[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)**
     [[code](https://github.com/AIRI-Institute/AriGraph)]
 
-<h2 id="multimodal-memory">🎥 Papers - Multimodal Memory</h2>
+### 🎥 Multimodal Memory
 
 #### 🗓️ 2025
 
@@ -304,7 +314,7 @@ TBA
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
 
-<h2 id="parameteric-memory">⚙️ Papers - Parameteric Memory</h2>
+<h2 id="parameteric-memory">🔢 Papers - Parameteric Memory</h2>
 
 #### 🗓️ 2025
 
@@ -403,7 +413,7 @@ TBA
 
 - **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
 
-<h2 id="workshops">💬 Workshops</h2>
+<h2 id="workshops">👥 Workshops</h2>
 
 #### 🗓️ 2025
 
