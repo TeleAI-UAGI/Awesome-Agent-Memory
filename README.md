@@ -14,8 +14,9 @@
     <li><a href="#surveys">📚 Surveys</a></li>
     <li><a href="#benchmarks">📏 Benchmarks</a></li>
     <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
+    <li><a href="#graph-memory">📝 Papers - Graph Memory</a></li>
     <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
-    <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
+    <li><a href="#parameteric-memory">⚙️ Papers - Parameter Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
     <li><a href="#workshops">💬 Workshops</a></li>
