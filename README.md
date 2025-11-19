@@ -379,14 +379,14 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
+   [[code](https://github.com/Agent-on-the-Fly/Memento)]
+   
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
    [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
 - **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
 
-- **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
-   [[code](https://github.com/Agent-on-the-Fly/Memento)]
-   
 - **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
 
 - **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
