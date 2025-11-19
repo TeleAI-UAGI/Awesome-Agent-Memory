@@ -16,7 +16,7 @@
     <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
     <li><a href="#graph-memory">📝 Papers - Graph Memory</a></li>
     <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
-    <li><a href="#parameteric-memory">⚙️ Papers - Parameter Memory</a></li>
+    <li><a href="#parameteric-memory">⚙️ Papers - Parameteric Memory</a></li>
     <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
     <li><a href="#articles">📰 Articles</a></li>
     <li><a href="#workshops">💬 Workshops</a></li>
@@ -212,8 +212,6 @@ TBA
 
 <h2 id="text-memory">📝 Papers - Text Memory</h2>
 
-### 📖 Plain-Text based Memory
-
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
@@ -248,7 +246,7 @@ TBA
 
 - **[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)**
 
-### 🧠 Graph based Memory
+<h2 id="graph-memory">📝 Papers - Graph Memory</h2>
 
 #### 🗓️ 2025
 
@@ -306,7 +304,7 @@ TBA
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
 
-<h2 id="parameter-memory">⚙️ Papers - Parameter Memory</h2>
+<h2 id="parameteric-memory">⚙️ Papers - Parameteric Memory</h2>
 
 #### 🗓️ 2025
 
