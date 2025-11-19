@@ -9,32 +9,32 @@
 <details open>
   <summary>🗂️ Table of Contents</summary>
   <ul>
-    <li><a href="#systems">🧩 Systems</a></li>
-    <li><a href="#tutorials">🧑‍🏫 Tutorials</a></li>
-    <li><a href="#surveys">📚 Surveys</a></li>
-    <li><a href="#benchmarks">📏 Benchmarks</a></li>
+    <li><a href="#-systems">🧩 Systems</a></li>
+    <li><a href="#-tutorials">📖 Tutorials</a></li>
+    <li><a href="#-surveys">📚 Surveys</a></li>
+    <li><a href="#-benchmarks">📏 Benchmarks</a></li>
     <ul>
-        <li>💬 Plain-Text Benchmarks</li>
-        <li>🎬 Multimodal Benchmarks</li>
+        <li><a href="#-plain-text-benchmarks">💬 Plain-Text Benchmarks</a></li>
+        <li><a href="#-multimodal-benchmarks">🎬 Multimodal Benchmarks</a></li>
     </ul>
-    <li><a href="#nonparametric-memory">🔤 Papers - NonParameteric Memory</a></li>
+    <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparameteric Memory</a></li>
     <ul>
-        <li>📝 Text Memory</li>
-        <li>🕸️ Graph Memory</li>
-        <li>🎥 Multimodal Memory</li>
+        <li><a href="#-text-memory">📝 Text Memory</a></li>
+        <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
+        <li><a href="#-multimodal-memory">🎥 Multimodal Memory</a></li>
     </ul>
-    <li><a href="#parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
-    <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
-    <li><a href="#articles">📰 Articles</a></li>
-    <li><a href="#workshops">👥 Workshops</a></li>
+    <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
+    <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
+    <li><a href="#-articles">📰 Articles</a></li>
+    <li><a href="#-workshops">👥 Workshops</a></li>
   </ul>
 </details>
 
 ---
 
-<h2 id="systems">🧩 Systems</h2>
+## 🧩 Systems
 
-#### Open-Source
+### Open-Source
 
 _Ordered by the number of Github stars._
 
@@ -94,8 +94,7 @@ _Ordered by the number of Github stars._
 
      _To be realeased soon. Stay tuned._
 
-
-#### Closed-Source
+### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
    [[partial-code](https://github.com/supermemoryai/supermemory)]
@@ -111,7 +110,7 @@ _Ordered by the number of Github stars._
 
 5. **[TwinMind](https://twinmind.com/)**
 
-#### Archival (Inactive)
+### Archival (Inactive)
 
 1. [Memvid](https://www.memvid.com/)
    [[code](https://github.com/Olow304/memvid)]
@@ -120,11 +119,11 @@ _Ordered by the number of Github stars._
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
    [[code](https://github.com/kingjulio8238/memary)]
 
-<h2 id="tutorials">🧑‍🏫 Tutorials</h2>
+## 📖 Tutorials
 
 TBA
 
-<h2 id="surveys">📚 Surveys</h2>
+## 📚 Surveys
 
 #### 🗓️ 2025
 
@@ -141,7 +140,7 @@ TBA
 
 - **[Human-inspired Perspectives: A Survey on AI Long-term Memory](https://arxiv.org/abs/2411.00489)**
    
-<h2 id="benchmarks">📏 Benchmarks</h2>
+## 📏 Benchmarks
 
 ### 💬 Plain-Text Benchmarks
 
@@ -218,7 +217,7 @@ TBA
 - **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
 
 
-<h2 id="nonparametric-memory">🔤 Papers - Nonparametric Memory</h2>
+## 🔤 Papers - Nonparametric Memory
 
 ### 📝 Text Memory
 
@@ -256,7 +255,7 @@ TBA
 
 - **[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)**
 
-### 🕸️ Graph Memory
+### 🌐 Graph Memory
 
 #### 🗓️ 2025
 
@@ -314,7 +313,7 @@ TBA
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
 
-<h2 id="parameteric-memory">🔢 Papers - Parameteric Memory</h2>
+## 🔢 Papers - Parameteric Memory
 
 #### 🗓️ 2025
 
@@ -370,34 +369,34 @@ TBA
 - **[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)**
     [[code](https://github.com/vllm-project/vllm)]
 
-<h2 id="memory-retrieval">🔍 Papers - Memory Retrieval</h2>
+## 📈 Papers - Memory for Agent Evolution
 
-### 🧭 Reinforcement Learning
+### 🧭 Reinforcement Learning & Continual Learning 
 
 #### 🗓️ 2025
 
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
    [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
--  **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
+- **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
 
--  **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
+- **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
    [[code](https://github.com/Agent-on-the-Fly/Memento)]
    
--  **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
+- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
 
--  **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
-     [[code](https://github.com/bytedance-seed/m3-agent)]
+- **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
+    [[code](https://github.com/bytedance-seed/m3-agent)]
 
--  **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
+- **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
 
--  **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
+- **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
 
--  **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
+- **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
 
 - **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)**
 
-<h2 id="articles">📰 Articles</h2>
+## 📰 Articles
 
 #### 🗓️ 2025
 
@@ -413,7 +412,7 @@ TBA
 
 - **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
 
-<h2 id="workshops">👥 Workshops</h2>
+## 👥 Workshops
 
 #### 🗓️ 2025
 
