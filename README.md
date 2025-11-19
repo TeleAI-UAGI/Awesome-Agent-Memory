@@ -125,6 +125,7 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
  - **[SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
+   <!-- [paper] -->
 
 ## 📚 Surveys
 
@@ -422,8 +423,8 @@ TBA
 
 #### 🗓️ 2025
 
-- **[ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)**
-  [proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)
+- **[ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)** 
+  [[proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)]
 
 ---
 
