@@ -150,10 +150,14 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)**
+- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
   [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
   [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
   
+- **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
+    [[code](https://github.com/adobe-research/NoLiMa)]
+    [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
+
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
    [[code](https://github.com/MemTensor/HaluMem)]
    [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
@@ -174,12 +178,12 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2024
 
-- **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
-    [[code](https://github.com/OpenBMB/InfiniteBench)]
-
 - **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
     [[code](https://github.com/snap-research/LoCoMo)]
     [[data](https://github.com/snap-research/locomo/tree/main/data)]
+
+- **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
+    [[code](https://github.com/OpenBMB/InfiniteBench)]
 
 - **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
     [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
