@@ -413,7 +413,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-TBA
+- **[How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(25)00189-4)**
+
+- **[Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)**
 
 ## 📰 Articles
 
