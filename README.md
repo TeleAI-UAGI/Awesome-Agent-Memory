@@ -399,6 +399,8 @@ _Ordered by the number of Github stars._
 
 - **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
 
+- **[Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)**
+
 - **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
 
 - **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
