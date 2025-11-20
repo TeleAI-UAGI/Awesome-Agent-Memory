@@ -249,13 +249,19 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2024
 
-- **[Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)** [[code](https://github.com/nuochenpku/COMEDY)]
+- **[Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)**
+    [[code](https://github.com/nuochenpku/COMEDY)]
 
-- **[Agent Workflow Memory](https://arxiv.org/abs/2409.07429)** [[code](https://github.com/zorazrw/agent-workflow-memory)]
+- **[Agent Workflow Memory](https://arxiv.org/abs/2409.07429)**
+    [[code](https://github.com/zorazrw/agent-workflow-memory)]
 
-- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)** [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
+- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)**
+    [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
 - **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
+
+- **[Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)**
+    [[data](https://github.com/Zyphra/TemporalMemoryDataset)]
 
 #### 🗓️ 2023
 
