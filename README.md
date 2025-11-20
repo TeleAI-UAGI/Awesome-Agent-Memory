@@ -392,7 +392,10 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
 - **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
-   [[code](https://github.com/Agent-on-the-Fly/Memento)]
+    [[code](https://github.com/Agent-on-the-Fly/Memento)]
+
+- **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**
+    [[code](https://github.com/modelscope/AgentEvolver)]
    
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
    [[code](https://github.com/GenSI-THUAIR/FLEX)]
