@@ -227,6 +227,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)**
+
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
    [[code](https://github.com/zjunlp/LightMem)]
 
