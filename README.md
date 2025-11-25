@@ -92,7 +92,7 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+11. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
@@ -399,6 +399,9 @@ _Ordered by the number of Github stars._
 
 - **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
     [[code](https://github.com/Agent-on-the-Fly/Memento)]
+
+- **[General Agentic Memory via Deep Research](https://arxiv.org/abs/2511.18423)**
+    [[code](https://github.com/VectorSpaceLab/general-agentic-memory/)]
 
 - **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**
     [[code](https://github.com/modelscope/AgentEvolver)]
