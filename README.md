@@ -405,9 +405,12 @@ _Ordered by the number of Github stars._
 
 - **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**
     [[code](https://github.com/modelscope/AgentEvolver)]
+
+- **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
+    [[code](https://github.com/wangyu-ustc/Mem-alpha)]
    
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
-   [[code](https://github.com/GenSI-THUAIR/FLEX)]
+    [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
 - **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
 
