@@ -9,7 +9,7 @@
 <details open>
   <summary>🗂️ Table of Contents</summary>
   <ul>
-    <li><a href="#-products">📦 Products</a></li>
+    <li><a href="#-products">💿 Products</a></li>
     <li><a href="#-tutorials">📖 Tutorials</a></li>
     <li><a href="#-surveys">📚 Surveys</a></li>
     <li><a href="#-benchmarks">📏 Benchmarks</a></li>
@@ -39,7 +39,7 @@
 
 ---
 
-## 📦 Products
+## 💿 Products
 
 ### Open-Source
 
