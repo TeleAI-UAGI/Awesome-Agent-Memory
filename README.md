@@ -110,7 +110,7 @@ _Ordered by the number of Github stars._
 2. **[Memories.ai](https://memories.ai/)**
    [[research](https://memories.ai/research)]
    [[paper](https://memories.ai/research/Camera)]
-   [[blog](memories.ai/blogs)]
+   [[blog](https://memories.ai/blogs)]
 
 4. **[Mem 2.0](https://get.mem.ai/)**
    [[blog](https://get.mem.ai/blog)]
