@@ -316,19 +316,19 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)** 
-
 - **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
     [[code](https://github.com/bytedance-seed/m3-agent)]
 
 - **[HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding](https://arxiv.org/abs/2504.10739)**
     [[code](https://github.com/linyueqian/HippoMM)]
 
-- **[Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)**
+-[Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)*
 
-- **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)**
+-[Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)
 
-- **[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)**
+-[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)
+
+-[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)
 
 #### 🗓️ 2024
 
@@ -345,34 +345,30 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)**
+- [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)
   
-- **[Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)**
+- [Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)
 
-- **[R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)**
+- [R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)
 
-- **[May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)**
+- [May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)
 
-- **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
+- [MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)
 
-- **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
+- [Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)
 
-- **[MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/)**
+- [MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/)
 
-- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
+- [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
 
-- **[EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://aclanthology.org/2025.acl-long.574/)**
+- [EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://aclanthology.org/2025.acl-long.574/)
 
-- **[Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)**
+- [Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)
 
 #### 🗓️ 2024
 
-- **[Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)**
-
 - **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
     [[code](https://github.com/thunlp/InfLLM)]
-
-- **[Memory<sup>3</sup>: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178v1)**
 
 - **[MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/He_MA-LMM_Memory-Augmented_Large_Multimodal_Model_for_Long-Term_Video_Understanding_CVPR_2024_paper.pdf)**
     [[code](https://github.com/boheumd/MA-LMM)]
@@ -383,11 +379,15 @@ _Ordered by the number of Github stars._
 - **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)**
     [[code](https://github.com/zjunlp/EasyEdit)]
 
-- **[Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)**
+- [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 
-- **[MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565)**
+- [Memory<sup>3</sup>: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178v1)
+  
+- [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)
 
-- **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)**
+- [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565)
+
+- [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)
 
 #### 🗓️ 2023
 
@@ -418,21 +418,21 @@ _Ordered by the number of Github stars._
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
     [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
-- **[Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)**
+- [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
 
-- **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
+- [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
 
-- **[Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)**
+- [Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)
 
-- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
+- [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
 
-- **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
+- [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)
 
-- **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
+- [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)
 
-- **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
+- [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)
 
-- **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)**
+- [MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)
 
 - [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
 
