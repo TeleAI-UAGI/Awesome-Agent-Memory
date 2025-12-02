@@ -3,8 +3,12 @@
 <h1 align="center">🧠 Awesome Agent Memory</h1>
 
 <p align="center">
-    <b> A curated collection of systems, benchmarks, and papers et. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning </b>
+    A curated collection of systems, benchmarks, and papers et. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning.
 </p>
+<p align="center">
+   👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font.
+</p>
+
 
 <details open>
   <summary>🗂️ Table of Contents</summary>
@@ -228,10 +232,10 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2023
 
-- **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)**
+- **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)**
+    [[code](https://github.com/egoschema/egoschema)]
 
-- **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
-
+- [LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)
 
 ## 🔤 Papers - Nonparametric Memory
 
@@ -239,25 +243,25 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)**
-
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
    [[code](https://github.com/zjunlp/LightMem)]
 
 - **[Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)**
     [[code](https://github.com/nemori-ai/nemori)]
 
-- **[Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering](https://arxiv.org/abs/2508.17330)**
+- [O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)
 
-- **[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://aclanthology.org/2025.acl-long.413/)**
+- [Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering](https://arxiv.org/abs/2508.17330)
 
-- **[SEDM: Scalable Self-Evolving Distributed Memory for Agents](https://arxiv.org/abs/2509.09498)**
+- [In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://aclanthology.org/2025.acl-long.413/)
 
-- **[MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](https://arxiv.org/abs/2409.05591)**
+- [SEDM: Scalable Self-Evolving Distributed Memory for Agents](https://arxiv.org/abs/2509.09498)
 
-- **[Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)**
+- [MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](https://arxiv.org/abs/2409.05591)
 
-- **[Towards LifeSpan Cognitive Systems](https://arxiv.org/abs/2409.13265)**
+- [Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)
+
+- [Towards LifeSpan Cognitive Systems](https://arxiv.org/abs/2409.13265)
 
 #### 🗓️ 2024
 
@@ -270,20 +274,18 @@ _Ordered by the number of Github stars._
 - **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)**
     [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
-- **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
-
 - **[Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)**
     [[data](https://github.com/Zyphra/TemporalMemoryDataset)]
 
+- [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)
+
 #### 🗓️ 2023
 
-- **[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)**
+- [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)
 
 ### 🌐 Graph Memory
 
 #### 🗓️ 2025
-
-- **[From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory](https://www.arxiv.org/abs/2511.07800)**
 
 - **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**
     [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
@@ -294,11 +296,13 @@ _Ordered by the number of Github stars._
 - **[Hierarchical Memory Organization for Wikipedia Generation](https://aclanthology.org/2025.acl-long.1423/)**
     [[code](https://github.com/eugeneyujunhao/mog)]
 
-- **[Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory](https://aclanthology.org/2025.findings-acl.901/)**
+- [From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory](https://www.arxiv.org/abs/2511.07800)
 
-- **[HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://aclanthology.org/2025.acl-long.1575/)**
+- [Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory](https://aclanthology.org/2025.findings-acl.901/)
 
-- **[Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning](https://arxiv.org/abs/2505.24478)**
+- [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://aclanthology.org/2025.acl-long.1575/)
+
+- [Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning](https://arxiv.org/abs/2505.24478)
 
 #### 🗓️ 2024
 
