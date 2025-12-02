@@ -142,15 +142,17 @@ _Ordered by the number of Github stars._
   
 - [From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965)
 
-- **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)**
-    [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
-
 - [Cognitive Memory in Large Language Models](https://arxiv.org/abs/2504.02441)
 
 - [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems (Chapter 3)](https://arxiv.org/abs/2504.01990)
 
 - [Human-inspired Perspectives: A Survey on AI Long-term Memory](https://arxiv.org/abs/2411.00489)
    
+#### 🗓️ 2024
+
+- **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)**
+    [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
+
 ## 📏 Benchmarks
 
 ### 💬 Plain-Text Benchmarks
@@ -158,8 +160,8 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
 - **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
-  [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
-  [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
+    [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
+    [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
   
 - **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
     [[code](https://github.com/adobe-research/NoLiMa)]
