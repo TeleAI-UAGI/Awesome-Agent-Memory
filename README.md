@@ -346,17 +346,17 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)
+- **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
+    [[code](https://github.com/Rubin-Wei/MLPMemory)]
+
+- **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
+    [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
   
 - [Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)
 
 - [R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)
 
 - [May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)
-
-- [MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)
-
-- [Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)
 
 - [MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/)
 
@@ -435,6 +435,8 @@ _Ordered by the number of Github stars._
 
 - [MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)
 
+- [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)
+  
 - [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
 
 ## 🔬 Papers - Memory in Cognitive Science
