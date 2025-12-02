@@ -175,8 +175,6 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/LittleDinoC/MemoryBench)]
    [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
 
-- **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)**
-   
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
    [[data](https://github.com/xiaowu0162/LongMemEval)]
    
@@ -184,7 +182,10 @@ _Ordered by the number of Github stars._
    [[data](https://github.com/THUDM/LongBench)]
 
 - **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
+    [[code](https://github.com/microsoft/minerva_memory_test)]
 
+- [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)
+   
 #### 🗓️ 2024
 
 - **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
@@ -213,8 +214,6 @@ _Ordered by the number of Github stars._
 
 - **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)**
    [[code](https://github.com/MME-Benchmarks/Video-MME)]
-
-- **[Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)**
 
 #### 🗓️ 2024
 
@@ -431,35 +430,37 @@ _Ordered by the number of Github stars._
 
 - **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)**
 
+- [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
+
 ## 🔬 Papers - Memory in Cognitive Science
 
 #### 🗓️ 2025
 
-- **[How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(25)00189-4)**
+- [How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(25)00189-4)
 
-- **[Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)**
+- [Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)
 
 ## 📰 Articles
 
 #### 🗓️ 2025
 
-- **[Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)**
+- [Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)
 
 #### 🗓️ 2024
 
-- **[Memory in Language Model-Enabled Agents](https://yuweisunn.github.io/blog-1-06-24.html)**
+- [Memory in Language Model-Enabled Agents](https://yuweisunn.github.io/blog-1-06-24.html)
 
-- **[Mastering LLM Memory: A Comprehensive Guide](https://www.strongly.ai/blog/mastering-llm-memory-a-comprehensive-guide.html)**
+- [Mastering LLM Memory: A Comprehensive Guide](https://www.strongly.ai/blog/mastering-llm-memory-a-comprehensive-guide.html)
 
 #### 🗓️ 2023
 
-- **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## 👥 Workshops
 
 #### 🗓️ 2025
 
-- **[ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)** 
+- [ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)
   [[proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)]
 
 ---
