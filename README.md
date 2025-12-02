@@ -103,19 +103,19 @@ _Ordered by the number of Github stars._
 
 ### Closed-Source
 
-1. **[Supermemory](https://supermemory.ai/)**
+1. [Supermemory](https://supermemory.ai/)
    [[partial-code](https://github.com/supermemoryai/supermemory)]
    [[blog](https://supermemory.ai/blog)]
 
-2. **[Memories.ai](https://memories.ai/)**
+2. [Memories.ai](https://memories.ai/)
    [[research](https://memories.ai/research)]
    [[paper](https://memories.ai/research/Camera)]
    [[blog](https://memories.ai/blogs)]
 
-4. **[Mem 2.0](https://get.mem.ai/)**
+3. [Mem 2.0](https://get.mem.ai/)
    [[blog](https://get.mem.ai/blog)]
 
-5. **[TwinMind](https://twinmind.com/)**
+4. [TwinMind](https://twinmind.com/)
 
 ### Archival (Inactive)
 
@@ -137,18 +137,19 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965)**
-
-- **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://dl.acm.org/doi/10.1145/3748302)**
-   [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
-
-- **[Cognitive Memory in Large Language Models](https://arxiv.org/abs/2504.02441)**
-
-- **[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems (Chapter 3)](https://arxiv.org/abs/2504.01990)**
-
 - **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/abs/2505.00675)**
+    [[code](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI)]
+  
+- [From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965)
 
-- **[Human-inspired Perspectives: A Survey on AI Long-term Memory](https://arxiv.org/abs/2411.00489)**
+- **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)**
+    [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
+
+- [Cognitive Memory in Large Language Models](https://arxiv.org/abs/2504.02441)
+
+- [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems (Chapter 3)](https://arxiv.org/abs/2504.01990)
+
+- [Human-inspired Perspectives: A Survey on AI Long-term Memory](https://arxiv.org/abs/2411.00489)
    
 ## 📏 Benchmarks
 
