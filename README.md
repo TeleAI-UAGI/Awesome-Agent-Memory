@@ -323,13 +323,13 @@ _Ordered by the number of Github stars._
 - **[HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding](https://arxiv.org/abs/2504.10739)**
     [[code](https://github.com/linyueqian/HippoMM)]
 
--[Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)*
+- [Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)*
 
--[Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)
+- [Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)
 
--[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)
+- [Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)
 
--[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)
+- [Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)
 
 #### 🗓️ 2024
 
