@@ -6,7 +6,7 @@
     A curated collection of systems, benchmarks, and papers et. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning.
 </p>
 <p align="center">
-   👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font.
+   👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font and ranked higher.
 </p>
 
 
