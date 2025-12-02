@@ -10,7 +10,6 @@
    👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font and ranked higher.
 </p>
 
-
 <details open>
   <summary>🗂️ Table of Contents</summary>
   <ul>
@@ -418,6 +417,8 @@ _Ordered by the number of Github stars._
 
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
     [[code](https://github.com/GenSI-THUAIR/FLEX)]
+
+- [Latent Learning: Episodic Memory Complements Parametric Learning by Enabling Flexible Reuse of Experiences](https://arxiv.org/abs/2509.16189)
 
 - [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
 
