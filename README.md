@@ -121,7 +121,7 @@ _Ordered by the number of Github stars._
 
 4. [TwinMind](https://twinmind.com/)
 
-5. [ReadbearAI](https://www.redbearai.com/memoryScience)
+5. [Readbear AI](https://www.redbearai.com/memoryScience)
 
 ### Archival (Inactive)
 
