@@ -168,6 +168,11 @@ _Ordered by the number of Github stars._
 - **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
     [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
     [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
+
+- **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)** (The PersonaMem and ImplicitPersona Paper)
+    [[code](https://github.com/bowen-upenn/PersonaMem)]
+    [[data11](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
+    [[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
   
 - **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
     [[code](https://github.com/adobe-research/NoLiMa)]
