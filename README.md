@@ -100,10 +100,9 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-12. **[TeleMem (under construction)]()**
-    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
-
-     _To be realeased soon. Stay tuned._
+12. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
+      [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
+      🆕 _Newly released. Rising star._ 😜
 
 ### Closed-Source
 
