@@ -417,7 +417,7 @@ _Ordered by the number of Github stars._
 
 - **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
     [[code](https://github.com/wangyu-ustc/Mem-alpha)]
-   
+
 - **[General Agentic Memory via Deep Research](https://arxiv.org/abs/2511.18423)**
     [[code](https://github.com/VectorSpaceLab/general-agentic-memory/)]
 
@@ -427,6 +427,8 @@ _Ordered by the number of Github stars._
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
     [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
+- [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)
+   
 - [Latent Learning: Episodic Memory Complements Parametric Learning by Enabling Flexible Reuse of Experiences](https://arxiv.org/abs/2509.16189)
 
 - [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
