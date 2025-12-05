@@ -100,15 +100,9 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-12. **[TeleMem]()**
-      [[code]()] 
-      _To be released on 5th Dec 2025. Stay tuned._
-
-<!--
 12. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
       🆕 _Newly released. Rising star._ 😜
--->
 
 ### Closed-Source
 
