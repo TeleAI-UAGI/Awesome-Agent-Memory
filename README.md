@@ -412,12 +412,12 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
-    [[code](https://github.com/wangyu-ustc/Mem-alpha)]
-   
 - **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
     [[code](https://github.com/Agent-on-the-Fly/Memento)]
 
+- **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
+    [[code](https://github.com/wangyu-ustc/Mem-alpha)]
+   
 - **[General Agentic Memory via Deep Research](https://arxiv.org/abs/2511.18423)**
     [[code](https://github.com/VectorSpaceLab/general-agentic-memory/)]
 
