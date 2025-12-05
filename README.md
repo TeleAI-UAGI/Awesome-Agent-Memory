@@ -36,7 +36,7 @@
 </details>
 
 <div align="left">
-
+    
 **If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
 
 </div>
