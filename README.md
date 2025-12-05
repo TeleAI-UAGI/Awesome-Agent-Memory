@@ -177,13 +177,13 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/adobe-research/NoLiMa)]
     [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
 
-- **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
-   [[code](https://github.com/MemTensor/HaluMem)]
-   [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
-
 - **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
    [[code](https://github.com/LittleDinoC/MemoryBench)]
    [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
+
+- **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
+   [[code](https://github.com/MemTensor/HaluMem)]
+   [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
    [[data](https://github.com/xiaowu0162/LongMemEval)]
@@ -193,6 +193,9 @@ _Ordered by the number of Github stars._
 
 - **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
     [[code](https://github.com/microsoft/minerva_memory_test)]
+
+- **[MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents](https://arxiv.org/abs/2506.21605)**
+   [[code](https://github.com/import-myself/Membench)]
 
 - [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)
    
