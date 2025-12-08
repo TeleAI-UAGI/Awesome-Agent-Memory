@@ -92,15 +92,19 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-10. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+10. **[MemMachine](https://memmachine.ai/)**
+    [[code](https://github.com/MemMachine/MemMachine)]
+    [[blog](https://memmachine.ai/blog/)]
+
+11. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-11. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-12. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
+13. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
       🆕 _Newly released. Rising star._ 😜
 
