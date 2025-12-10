@@ -30,8 +30,8 @@
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
     <ul>
-        <li><a href="#-reinforcement-learning---continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
-        <li><a href="#-agentic-context-engineering">🏗️ Agentic Context Engineering</a></li>
+        <li><a href="#-reinforcement-learning--continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
+        <li><a href="#-context-engineering">🧩 Context Engineering</a></li>
     </ul>
     <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
     <li><a href="#-articles">📰 Articles</a></li>
@@ -464,7 +464,7 @@ _Ordered by the number of Github stars._
   
 - [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
 
-### 🏗️ Context Engineering 
+### 🧩 Context Engineering 
 
 #### 🗓️ 2025
 
