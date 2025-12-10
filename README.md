@@ -29,6 +29,10 @@
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
+    <ul>
+        <li><a href="#-reinforcement-learning---continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
+        <li><a href="#-agentic-context-engineering">🏗️ Agentic Context Engineering</a></li>
+    </ul>
     <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
     <li><a href="#-articles">📰 Articles</a></li>
     <li><a href="#-workshops">👥 Workshops</a></li>
@@ -459,6 +463,14 @@ _Ordered by the number of Github stars._
 - [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)
   
 - [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
+
+### 🏗️ Context Engineering 
+
+#### 🗓️ 2025
+
+- [Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)
+
+- [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618)
 
 ## 🔬 Papers - Memory in Cognitive Science
 
