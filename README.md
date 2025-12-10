@@ -126,9 +126,12 @@ _Ordered by the number of Github stars._
 3. [Mem 2.0](https://get.mem.ai/)
    [[blog](https://get.mem.ai/blog)]
 
-4. [TwinMind](https://twinmind.com/)
+4. [Macaron Mind Lab](https://macaron.im/mindlab)
+   [[blog](https://macaron.im/mindlab/research)]
+   
+5. [TwinMind](https://twinmind.com/)
 
-5. [Readbear AI](https://www.redbearai.com/memoryScience)
+6. [Readbear AI](https://www.redbearai.com/memoryScience)
 
 ### Archival (Inactive)
 
