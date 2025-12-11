@@ -25,7 +25,8 @@
     <ul>
         <li><a href="#-text-memory">📝 Text Memory</a></li>
         <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
-        <li><a href="#-multimodal-memory">🎥 Multimodal Memory</a></li>
+        <li><a href="#-multimodal-memory">🎥 Multimodal Memory (for Understanding)</a></li>
+        <li><a href="#-multimodal-memory">🎥 Multimodal Memory (for Generation)</a></li>
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
@@ -332,7 +333,7 @@ _Ordered by the number of Github stars._
 - **[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)**
     [[code](https://github.com/AIRI-Institute/AriGraph)]
 
-### 🎥 Multimodal Memory
+### 🎥 Multimodal Memory (for Understanding)
 
 #### 🗓️ 2025
 
@@ -360,6 +361,23 @@ _Ordered by the number of Github stars._
 
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
+
+### 🎥 Multimodal Memory (for Generation)
+
+#### 🗓️ 2025
+
+- [Pack and Force Your Memory: Long-form and Consistent Video Generation](http://arxiv.org/abs/2510.01784)
+
+- [Video World Models with Long-term Spatial Memory](http://arxiv.org/abs/2506.05284)
+
+- [MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391)
+
+- [VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)
+
+- [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058)
+
+- [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141)
+
 
 ## 🔢 Papers - Parameteric Memory
 
