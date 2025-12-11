@@ -366,13 +366,15 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391)**
+  [[code](https://github.com/MCG-NJU/MotionRAG)]
+
+- **[VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)**
+  [[code](https://github.com/starsuzi/VideoRAG)]
+  
 - [Pack and Force Your Memory: Long-form and Consistent Video Generation](http://arxiv.org/abs/2510.01784)
 
 - [Video World Models with Long-term Spatial Memory](http://arxiv.org/abs/2506.05284)
-
-- [MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391)
-
-- [VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)
 
 - [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058)
 
