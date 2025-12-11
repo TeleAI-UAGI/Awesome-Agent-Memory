@@ -25,8 +25,8 @@
     <ul>
         <li><a href="#-text-memory">📝 Text Memory</a></li>
         <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
-        <li><a href="#-multimodal-memory">🎥 Multimodal Memory (for Understanding)</a></li>
-        <li><a href="#-multimodal-memory">🎥 Multimodal Memory (for Generation)</a></li>
+        <li><a href="#-multimodal-memory-for-understanding">🎥 Multimodal Memory (for Understanding)</a></li>
+        <li><a href="#-multimodal-memory-for-generation">🎥 Multimodal Memory (for Generation)</a></li>
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
