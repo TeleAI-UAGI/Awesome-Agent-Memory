@@ -471,7 +471,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- [Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)
+- **[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**
+  [[code](https://github.com/AIGNE-io/aigne-framework)]
 
 - [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618)
 
