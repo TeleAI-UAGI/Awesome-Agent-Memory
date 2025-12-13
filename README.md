@@ -209,6 +209,8 @@ _Ordered by the number of Github stars._
 - **[MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents](https://arxiv.org/abs/2506.21605)**
    [[code](https://github.com/import-myself/Membench)]
 
+- [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
+
 - [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://arxiv.org/abs/2508.09124)
    
 #### 🗓️ 2024
