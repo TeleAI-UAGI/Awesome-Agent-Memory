@@ -529,15 +529,9 @@ _Ordered by the number of Github stars._
 
 ---
 
-<div align="left">
-    
-**If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
-
-</div>
-
----
-
 <div align="center">
+
+**If you find this project helpful, please give us a ⭐️.**
 
 Made with ❤️ by the Ubiquitous AGI team at TeleAI.
 
