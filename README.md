@@ -348,6 +348,7 @@ _Ordered by the number of Github stars._
 
 - **[MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627)**
     [[code](https://github.com/KnowledgeXLab/MemVerse)]
+    [[blog](https://dw2283.github.io/memverse.ai/research)]
 
 - **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
     [[code](https://github.com/bytedance-seed/m3-agent)]
