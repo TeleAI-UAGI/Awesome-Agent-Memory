@@ -148,7 +148,7 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
  - **[SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
-   <!-- [paper] -->
+     [[paper](https://dl.acm.org/doi/10.1145/3767695.3769671)]
 
 ## 📚 Surveys
 
