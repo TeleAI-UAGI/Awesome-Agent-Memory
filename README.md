@@ -154,6 +154,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)**
+    [[code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)]
+
 - **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/abs/2505.00675)**
     [[code](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI)]
   
