@@ -100,13 +100,13 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/MemMachine/MemMachine)]
     [[blog](https://memmachine.ai/blog/)]
 
-11. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
-    [[code](https://github.com/EverMind-AI/EverMemOS/)]
-    [[blog](https://evermind-ai.com/blog/)]
-
-12. **[Memobase](https://memobase.io/)**
+11. **[Memobase](https://memobase.io/)**
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
+
+12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+    [[code](https://github.com/EverMind-AI/EverMemOS/)]
+    [[blog](https://evermind-ai.com/blog/)]
 
 13. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
     [[code](https://github.com/langchain-ai/langmem)]
