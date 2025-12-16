@@ -93,9 +93,8 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/NevaMind-AI/memU)]
    [[blog](https://memu.pro/blog)]
 
-9. **[Memobase](https://memobase.io/)**
-   [[code](https://github.com/memodb-io/memobase)]
-   [[blog](https://www.memobase.io/blog)]
+9. **[OpenMemory](https://openmemory.cavira.app/)**
+    [[code](https://github.com/caviraoss/openmemory)]
 
 10. **[MemMachine](https://memmachine.ai/)**
     [[code](https://github.com/MemMachine/MemMachine)]
@@ -105,11 +104,15 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-12. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+12. **[Memobase](https://memobase.io/)**
+   [[code](https://github.com/memodb-io/memobase)]
+   [[blog](https://www.memobase.io/blog)]
+
+13. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-13. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
+14. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
       🆕 _Newly released. Rising star._ 😜
 
