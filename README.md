@@ -350,6 +350,9 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/KnowledgeXLab/MemVerse)]
     [[blog](https://dw2283.github.io/memverse.ai/research)]
 
+- **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168)**
+    [[code](https://github.com/MintyCo0kie/MGA4OSWorld)]
+
 - **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
     [[code](https://github.com/bytedance-seed/m3-agent)]
 
