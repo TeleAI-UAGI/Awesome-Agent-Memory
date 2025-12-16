@@ -445,6 +445,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696)**
+    [[code](https://github.com/agentscope-ai/ReMe)]
+
 - **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
     [[code](https://github.com/wangyu-ustc/Mem-alpha)]
 
