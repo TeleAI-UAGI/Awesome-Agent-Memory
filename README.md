@@ -112,7 +112,11 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-14. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
+14. **[Hindsight](https://hindsight.vectorize.io/)**
+    [[code](https://github.com/vectorize-io/hindsight)]
+    [[paper](https://arxiv.org/abs/2512.12818)]
+
+16. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
       🆕 _Newly released. Rising star._ 😜
 
