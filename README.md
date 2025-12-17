@@ -241,7 +241,7 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**
-    [[code](https://github.com/TeleAI-UAGI/TeleEgo)] [[project](https://programmergg.github.io/jrliu.github.io/)]
+    [[code](https://github.com/TeleAI-UAGI/TeleEgo)] [[proj](https://programmergg.github.io/jrliu.github.io/)]
 
 -  **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)**
     [[code](https://github.com/zai-org/LVBench)]
