@@ -462,6 +462,9 @@ _Ordered by the number of Github stars._
 - **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696)**
     [[code](https://github.com/agentscope-ai/ReMe)]
 
+- **[Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks](https://arxiv.org/abs/2510.08002)**
+    [[code](https://github.com/KnowledgeXLab/MUSE)]
+
 - **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
     [[code](https://github.com/wangyu-ustc/Mem-alpha)]
 
