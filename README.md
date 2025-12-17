@@ -153,6 +153,11 @@ _Ordered by the number of Github stars._
  - **[ACM SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
      [[paper](https://dl.acm.org/doi/10.1145/3767695.3769671)]
      [[code](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory)]
+ 
+ - **A Practical Deep Dive Into Memory Optimization for Agentic Systems**
+     [[Part-A](https://www.dailydoseofds.com/ai-agents-crash-course-part-15-with-implementation/)]
+     [[Part-B](https://www.dailydoseofds.com/ai-agents-crash-course-part-16-with-implementation/)]
+     [[Part-C](https://www.dailydoseofds.com/ai-agents-crash-course-part-17-with-implementation/)]
 
 ## 📚 Surveys
 
