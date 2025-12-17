@@ -415,9 +415,11 @@ _Ordered by the number of Github stars._
 
 - **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
     [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
-  
+
 - [Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)
 
+- [Improving Factuality with Explicit Working Memory](https://arxiv.org/abs/2412.18069)
+  
 - [R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)
 
 - [May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3721146.3721951)
