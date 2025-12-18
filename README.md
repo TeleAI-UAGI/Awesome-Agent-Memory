@@ -194,7 +194,7 @@ _Ordered by the number of Github stars._
 
 - **[Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](https://arxiv.org/abs/2510.27246)** (The BEAM Paper)
     [[code](https://github.com/mohammadtavakoli78/BEAM)]
-    [[data](https://github.com/mohammadtavakoli78/BEAM)]
+    [[data](https://huggingface.co/datasets/Mohammadta/BEAM)]
   
 - **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
     [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
