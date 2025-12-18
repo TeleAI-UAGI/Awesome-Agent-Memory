@@ -217,9 +217,6 @@ _Ordered by the number of Github stars._
    [[code](https://github.com/MemTensor/HaluMem)]
    [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
-- **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
-   [[data](https://github.com/xiaowu0162/LongMemEval)]
-   
 - **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)**
    [[data](https://github.com/THUDM/LongBench)]
 
@@ -235,6 +232,9 @@ _Ordered by the number of Github stars._
    
 #### 🗓️ 2024
 
+- **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
+   [[data](https://github.com/xiaowu0162/LongMemEval)]
+   
 - **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
     [[code](https://github.com/snap-research/LoCoMo)]
     [[data](https://github.com/snap-research/locomo/tree/main/data)]
