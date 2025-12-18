@@ -391,6 +391,9 @@ _Ordered by the number of Github stars._
 - **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
     [[code](https://github.com/ziplab/LongVLM)]
 
+- **[KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)**
+    [[code](https://github.com/WZX0Swarm0Robotics/KARMA/tree/master)]
+
 ### 🎥 Multimodal Memory (for Generation)
 
 #### 🗓️ 2025
