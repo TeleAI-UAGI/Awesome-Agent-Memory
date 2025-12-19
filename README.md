@@ -574,6 +574,12 @@ _Ordered by the number of Github stars._
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TeleAI-UAGI/Awesome-Agent-Memory&type=date&legend=top-left)](https://www.star-history.com/#TeleAI-UAGI/Awesome-Agent-Memory&type=date&legend=top-left)
+
+---
+
 <div align="center">
 
 **If you find this project helpful, please give us a ⭐️.**
