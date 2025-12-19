@@ -79,46 +79,49 @@ _Ordered by the number of Github stars._
    [[paper](https://arxiv.org/abs/2505.24478)]
    [[blog](https://www.cognee.ai/blog)]
 
-6. **[MIRIX](https://mirix.io/)**
+6. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
+   [[code](https://github.com/thedotmack/claude-mem)]
+
+7. **[MIRIX](https://mirix.io/)**
    [[code](https://github.com/Mirix-AI/MIRIX)]
    [[paper](https://arxiv.org/abs/2507.07957)]
    [[blog](https://mirix.io/blog)]
 
-7. **[MemOS](https://memos.openmem.net/)** 
+8. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
    [[blog](https://supermemory.ai/blog)]
    
-8. **[MemU](https://memu.pro/)**
+9. **[MemU](https://memu.pro/)**
    [[code](https://github.com/NevaMind-AI/memU)]
    [[blog](https://memu.pro/blog)]
 
-9. **[OpenMemory](https://openmemory.cavira.app/)**
+10. **[OpenMemory](https://openmemory.cavira.app/)**
     [[code](https://github.com/caviraoss/openmemory)]
 
-10. **[MemMachine](https://memmachine.ai/)**
+11. **[MemMachine](https://memmachine.ai/)**
     [[code](https://github.com/MemMachine/MemMachine)]
     [[blog](https://memmachine.ai/blog/)]
 
-11. **[Memobase](https://memobase.io/)**
+12. **[Memobase](https://memobase.io/)**
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-13. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-14. **[Hindsight](https://hindsight.vectorize.io/)**
+15. **[Hindsight](https://hindsight.vectorize.io/)**
     [[code](https://github.com/vectorize-io/hindsight)]
     [[paper](https://arxiv.org/abs/2512.12818)]
 
 16. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
-      🆕 _Newly released. Rising star._ 😜
+      🆕 _Newly released. Rising star. Tech-Report will be on arXiv soon. Stay tuned!_ 😜
 
 ### Closed-Source
 
