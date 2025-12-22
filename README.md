@@ -207,7 +207,15 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/bowen-upenn/PersonaMem)]
     [[data11](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
     [[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
-  
+
+- **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257)** (The MemoryAgentBench Paper)
+    [[code](https://github.com/HUST-AI-HYZ/MemoryAgentBench)]
+    [[data](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)]
+
+- **[LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners](https://arxiv.org/abs/2505.11942)**
+    [[code](https://github.com/caixd-220529/LifelongAgentBench)]
+    [[data](https://huggingface.co/datasets/csyq/LifelongAgentBench)]
+
 - **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
     [[code](https://github.com/adobe-research/NoLiMa)]
     [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
