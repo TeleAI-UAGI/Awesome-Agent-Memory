@@ -59,69 +59,72 @@ _Ordered by the number of Github stars._
    [[paper](https://arxiv.org/abs/2504.19413)]
    [[blog](https://get.mem.ai/blog)]
 
-2. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
+    - **[TeleMem: A Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
+      [[code](https://github.com/TeleAI-UAGI/TeleMem)]
+      <mark>`import vendor.TeleMem as mem0`</mark>
+
+      🆕 _Newly released. Rising star. Tech-Report will be on arXiv soon. Stay tuned!_ 😜
+
+
+3. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
    [[code](https://github.com/getzep/graphiti)]
    [[paper](https://arxiv.org/abs/2501.13956)]
    [[blog](https://blog.getzep.com/)]
 
-3. **[Letta (formerly MemGPT)](https://www.letta.com/)**
+4. **[Letta (formerly MemGPT)](https://www.letta.com/)**
    [[code](https://github.com/letta-ai/letta)]
    [[paper](https://arxiv.org/abs/2310.08560)]
    [[research](https://www.letta.com/research)]
    [[blog](https://www.letta.com/blog)]
 
-4. **[Second Me](https://home.second.me/)**
+5. **[Second Me](https://home.second.me/)**
    [[code](https://github.com/mindverse/Second-Me)]
    [[paper](https://arxiv.org/abs/2503.08102)]
 
-5. **[Congee](https://www.cognee.ai/)**
+6. **[Congee](https://www.cognee.ai/)**
    [[code](https://github.com/topoteretes/cognee)]
    [[paper](https://arxiv.org/abs/2505.24478)]
    [[blog](https://www.cognee.ai/blog)]
 
-6. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
+7. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
    [[code](https://github.com/thedotmack/claude-mem)]
 
-7. **[MIRIX](https://mirix.io/)**
+8. **[MIRIX](https://mirix.io/)**
    [[code](https://github.com/Mirix-AI/MIRIX)]
    [[paper](https://arxiv.org/abs/2507.07957)]
    [[blog](https://mirix.io/blog)]
 
-8. **[MemOS](https://memos.openmem.net/)** 
+9. **[MemOS](https://memos.openmem.net/)** 
    [[code](https://github.com/MemTensor/MemOS)]
    [[paper](https://arxiv.org/abs/2507.03724)]
    [[blog](https://supermemory.ai/blog)]
    
-9. **[MemU](https://memu.pro/)**
+10. **[MemU](https://memu.pro/)**
    [[code](https://github.com/NevaMind-AI/memU)]
    [[blog](https://memu.pro/blog)]
 
-10. **[OpenMemory](https://openmemory.cavira.app/)**
+11. **[OpenMemory](https://openmemory.cavira.app/)**
     [[code](https://github.com/caviraoss/openmemory)]
 
-11. **[MemMachine](https://memmachine.ai/)**
+12. **[MemMachine](https://memmachine.ai/)**
     [[code](https://github.com/MemMachine/MemMachine)]
     [[blog](https://memmachine.ai/blog/)]
 
-12. **[Memobase](https://memobase.io/)**
+13. **[Memobase](https://memobase.io/)**
    [[code](https://github.com/memodb-io/memobase)]
    [[blog](https://www.memobase.io/blog)]
 
-13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+14. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+15. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
     [[code](https://github.com/langchain-ai/langmem)]
     [[blog](https://blog.langchain.com/)]
 
-15. **[Hindsight](https://hindsight.vectorize.io/)**
+16. **[Hindsight](https://hindsight.vectorize.io/)**
     [[code](https://github.com/vectorize-io/hindsight)]
     [[paper](https://arxiv.org/abs/2512.12818)]
-
-16. **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)**
-      [[code](https://github.com/TeleAI-UAGI/TeleMem)] 
-      🆕 _Newly released. Rising star. Tech-Report will be on arXiv soon. Stay tuned!_ 😜
 
 ### Closed-Source
 
