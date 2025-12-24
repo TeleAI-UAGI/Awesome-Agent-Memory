@@ -418,6 +418,8 @@ _Ordered by the number of Github stars._
 - **[VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)**
   [[code](https://github.com/starsuzi/VideoRAG)]
   
+- [EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)
+
 - [Pack and Force Your Memory: Long-form and Consistent Video Generation](http://arxiv.org/abs/2510.01784)
 
 - [Video World Models with Long-term Spatial Memory](http://arxiv.org/abs/2506.05284)
