@@ -491,6 +491,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[MemEvolve: Meta-Evolution of Agent Memory Systems](https://arxiv.org/abs/2512.18746)**
+    [[code](https://github.com/bingreeky/MemEvolve)]
+  
 - **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696)**
     [[code](https://github.com/agentscope-ai/ReMe)]
 
