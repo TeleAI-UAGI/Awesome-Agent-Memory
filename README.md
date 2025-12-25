@@ -496,6 +496,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[ML-Master: Towards AI-for-AI via Integration of Exploration and Reasoning](https://arxiv.org/abs/2506.16499)**
+    [[code](https://github.com/sjtu-sai-agents/ML-Master)]
+  
 - **[MemEvolve: Meta-Evolution of Agent Memory Systems](https://arxiv.org/abs/2512.18746)**
     [[code](https://github.com/bingreeky/MemEvolve)]
   
