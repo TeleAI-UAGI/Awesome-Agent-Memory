@@ -412,11 +412,14 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699)**
+    [[code](https://github.com/KlingTeam/MemFlow)]
+
 - **[MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391)**
-  [[code](https://github.com/MCG-NJU/MotionRAG)]
+    [[code](https://github.com/MCG-NJU/MotionRAG)]
 
 - **[VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)**
-  [[code](https://github.com/starsuzi/VideoRAG)]
+    [[code](https://github.com/starsuzi/VideoRAG)]
   
 - [EgoLCD: Egocentric Video Generation with Long Context Diffusion](https://arxiv.org/abs/2512.04515)
 
