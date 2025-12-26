@@ -526,10 +526,11 @@ _Ordered by the number of Github stars._
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
     [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
+- [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf)
+  [[blog](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)]
+  
 - [LightSearcher: Efficient DeepSearch via Experiential Memory](https://www.arxiv.org/abs/2512.06653)
 
-- [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf)
-  
 - [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)
    
 - [Latent Learning: Episodic Memory Complements Parametric Learning by Enabling Flexible Reuse of Experiences](https://arxiv.org/abs/2509.16189)
