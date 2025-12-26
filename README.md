@@ -143,9 +143,10 @@ _Ordered by the number of Github stars._
 4. [Macaron Mind Lab](https://macaron.im/mindlab)
    [[blog](https://macaron.im/mindlab/research)]
    
-5. [TwinMind](https://twinmind.com/)
+5. [Readbear AI](https://www.redbearai.com/memoryScience)
+   [[paper](https://arxiv.org/abs/2512.20651)]
 
-6. [Readbear AI](https://www.redbearai.com/memoryScience)
+6. [TwinMind](https://twinmind.com/)
 
 ### Archival (Inactive)
 
