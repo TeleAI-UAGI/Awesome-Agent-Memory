@@ -749,3 +749,5 @@ Made with ❤️ by the Ubiquitous AGI team at TeleAI.
 <div align="center" style="margin-top: 10px;">
     <img src="https://github.com/TeleAI-UAGI/TeleEgo/blob/main/assets/TeleAI.jpg" alt="TeleAI Logo" width="120px" />
 </div>
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
