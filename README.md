@@ -263,6 +263,7 @@ _Ordered by the number of Github stars._
 
 ## 📏 Benchmarks
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with persistent memory and knowledge graph for Claude Code multi-agent orchestration. MIT licensed.
 ### 💬 Plain-Text Benchmarks
 
 #### 🗓️ 2025
