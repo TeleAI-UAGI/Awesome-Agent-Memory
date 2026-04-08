@@ -199,6 +199,11 @@ _Ordered by the number of Github stars._
    
 6. [TwinMind](https://twinmind.com/)
 
+7. [Sonzai](https://sonz.ai/)
+   [[platform](https://platform.sonz.ai/)]
+   [[docs](https://sonz.ai/docs/en/home)]
+   _Memory and personality API for stateful AI agents — hierarchical persistent memory, Big Five (OCEAN) personality, 4D mood, and relationships via REST and MCP._
+
 ### Archival (Inactive)
 
 1. [Memvid](https://www.memvid.com/)
