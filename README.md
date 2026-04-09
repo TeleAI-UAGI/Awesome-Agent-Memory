@@ -177,6 +177,10 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
 
+25. **[Agent Brain](https://agentbrain.ch/)** ![Star](https://img.shields.io/github/stars/kaderosio/agent-brain.svg?style=social&label=Star)
+      [[code](https://github.com/kaderosio/agent-brain)]
+      _7-layer cognitive memory system for AI agents with perception gate, dream cycle, and predictive capabilities. Built with FastAPI, PostgreSQL/pgvector, sentence-transformers, and spaCy._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
