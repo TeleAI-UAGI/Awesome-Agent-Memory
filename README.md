@@ -179,6 +179,10 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
 
+25. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+     [[code](https://github.com/ModernRelay/omnigraph)]
+     _Typed graph database for agent memory. Branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
