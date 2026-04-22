@@ -179,6 +179,11 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
 
+25. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      [[pypi](https://pypi.org/project/archon-memory-core/)]
+      _Apache 2.0 memory library for LLM agents with supersede-aware consolidation, type-aware salience, and active forgetting. Resolves contradictory facts at retrieval time. AMB v2.3 benchmark: 99.2% top-1 over 90 simulated days. Local-first on ChromaDB + Ollama._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
