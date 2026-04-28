@@ -829,6 +829,14 @@ _Ordered by the number of Github stars._
 
 ## 📰 Articles
 
+#### 🗓️ 2026
+
+- [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture) — Analyzes why sliding context windows fail for long-term AI companions and proposes a 5-component persistent memory architecture (separate store, retrieval, writeback, conflict resolution, user isolation).
+
+- [221 Agents: Multi-Agent Coordination Lessons](https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons) — Production lessons from running 221 concurrent agents, including per-agent memory namespacing, importance scoring with time decay, and memory isolation patterns.
+
+- [OpenClaw Multi-Tenancy: Why VM-Per-User Does Not Scale](https://blog.kinthai.ai/openclaw-multi-tenancy-why-vm-per-user-doesnt-scale) — Addresses memory partitioning in multi-tenant agent deployments, why vector similarity search leaks across tenant boundaries, and namespace-level isolation patterns.
+
 #### 🗓️ 2025
 
 - [Survey of AI Agent Memory Frameworks](https://www.graphlit.com/blog/survey-of-ai-agent-memory-frameworks)
