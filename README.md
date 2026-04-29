@@ -188,6 +188,11 @@ _Ordered by the number of Github stars._
 28. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
 
+29. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+      [[code](https://github.com/puppyone-ai/puppyone)]
+      [[docs](https://www.puppyone.ai/doc)]
+      _Structural agent memory as a file system: auto-versioned writes, per-agent ACLs (File Level Security), audit logs, 15+ data connectors. Native MCP / REST / CLI. Apache 2.0._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
