@@ -188,6 +188,10 @@ _Ordered by the number of Github stars._
 28. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+29. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+      [[code](https://github.com/fpytloun/mnemory)]
+      _Persistent memory for AI agents with facts, preferences, episodic/context memory, TTLs, user/agent scoping, artifact-backed long-form memory, and an MCP server._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
