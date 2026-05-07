@@ -188,6 +188,11 @@ _Ordered by the number of Github stars._
 28. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+29. **[Dakera](https://dakera.ai/)** ![Star](https://img.shields.io/github/stars/Dakera-AI/dakera-mcp.svg?style=social&label=Star)
+      [[code](https://github.com/Dakera-AI/dakera)]
+      [[mcp-server](https://github.com/Dakera-AI/dakera-mcp)]
+      _Production-grade AI agent memory server. 83 MCP tools for store, recall, hybrid BM25+vector search, knowledge graphs, and cross-agent memory sharing. Decay-weighted importance scoring. Built in Rust._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
