@@ -201,6 +201,11 @@ _Ordered by the number of Github stars._
 29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+29. **[Dakera](https://dakera.ai/)** ![Star](https://img.shields.io/github/stars/dakera-ai/dakera-mcp.svg?style=social&label=Star)
+      [[code](https://github.com/dakera-ai/dakera-mcp)]
+      [[docs](https://docs.dakera.ai/)]
+    - Self-hosted agent memory server achieving **87.8% on LoCoMo**, the standard long-term conversational memory benchmark. Decay-weighted recall, hybrid BM25+HNSW retrieval, 83 MCP tools, and a knowledge graph layer — built in Rust with zero external LLM dependencies.
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
