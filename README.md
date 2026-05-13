@@ -201,6 +201,11 @@ _Ordered by the number of Github stars._
 29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+30. **[Tenure](https://github.com/jeffreyflynt/tenure)** ![Star](https://img.shields.io/github/stars/jeffreyflynt/tenure.svg?style=social&label=Star)
+      [[code](https://github.com/jeffreyflynt/tenure)]
+      [[paper](https://arxiv.org/abs/2605.11325)]
+      _Privacy-first local proxy that gives any OpenAI-compatible LLM persistent, structured memory across sessions. No re-explaining your stack, decisions, or voice ever again._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
