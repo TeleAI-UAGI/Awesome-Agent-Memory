@@ -201,6 +201,10 @@ _Ordered by the number of Github stars._
 29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+30. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
+      [[code](https://github.com/sunnja69/akephalos)]
+      _Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
