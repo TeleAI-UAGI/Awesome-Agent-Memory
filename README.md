@@ -232,6 +232,10 @@ _Ordered by the number of Github stars._
    [[blog](https://penfieldlabs.substack.com/)]
 
 8. [Sonzai](https://sonz.ai/)
+9. [Threadline](https://threadline.to)
+   [[partial-code](https://github.com/vidursharma202-del/threadline-mcp)]
+   [[schema](https://github.com/vidursharma202-del/context-schema)]
+   [[docs](https://threadline.to/docs/quickstart)] 
 
 ### Archival
 
