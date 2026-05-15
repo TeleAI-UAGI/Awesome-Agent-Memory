@@ -205,6 +205,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git._
 
+31. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
+      [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
+      [[docs](https://docs.maximem.ai)]
+      _Managed long-term memory layer for AI agents — automatically extracts and structures knowledge from conversations (facts, preferences, episodes, emotions, temporal events) and retrieves only what is relevant. First-party integrations for LangChain, LangGraph, LlamaIndex, Haystack, LiveKit, Vercel AI SDK, Pipecat (merged), NeMo Agent Toolkit (merged), Microsoft Agent Framework, Claude Agent SDK, Google ADK, OpenAI Agents, AutoGen, Semantic Kernel, Agno, CrewAI, Pydantic AI, and Mastra._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
