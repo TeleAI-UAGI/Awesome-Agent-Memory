@@ -187,35 +187,41 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-26. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
+26. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social&label=Star)
+      [[code](https://github.com/moorcheh-ai/memanto)]
+      [[paper](https://arxiv.org/abs/2604.22085)]
+      [[docs](https://docs.memanto.ai)]
+      _Typed semantic memory for AI agents — `remember`, `recall`, and `answer` operations with information-theoretic retrieval and low-latency ingestion._
+
+27. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/omega-memory)]
       [[blog](https://omegamax.co/blog)]
       _Persistent memory for AI coding agents._
 
-27. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+28. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
       [[code](https://github.com/fpytloun/mnemory)]
       _Persistent memory for AI agents with facts, preferences, episodic/context memory, TTLs, user/agent scoping, artifact-backed long-form memory, and an MCP server._
 
-28. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+29. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
 
-29. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+30. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Structural agent memory as a file system: auto-versioned writes, per-agent ACLs (File Level Security), audit logs, 15+ data connectors. Native MCP / REST / CLI. Apache 2.0._
 
-30. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+31. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
 
-31. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
+32. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Managed long-term memory layer for AI agents — automatically extracts and structures knowledge from conversations (facts, preferences, episodes, emotions, temporal events) and retrieves only what is relevant. First-party integrations for LangChain, LangGraph, LlamaIndex, Haystack, LiveKit, Vercel AI SDK, Pipecat, NeMo Agent Toolkit, Microsoft Agent Framework, Claude Agent SDK, Google ADK, OpenAI Agents, AutoGen, Semantic Kernel, Agno, CrewAI, Pydantic AI, and Mastra._
 
-32. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+33. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
-33. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
+34. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git._
 
@@ -497,6 +503,9 @@ _Ordered by the number of Github stars._
 
 - **[Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory](https://arxiv.org/abs/2605.11325)**
     [[code](https://github.com/jeffreyflynt/tenure)]
+
+- **[Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents](https://arxiv.org/abs/2604.22085)**
+    [[code](https://github.com/moorcheh-ai/memanto)]
 
 #### 🗓️ 2025
 
