@@ -219,6 +219,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories across Codex, Claude Code, Cursor, Hermes, OpenClaw, MCP clients, and machines via plain files/Git._
 
+34. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+      [[code](https://github.com/Ikalus1988/MisakaNet)]
+      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
+      _Git-based distributed swarm memory for AI agents. Cross-agent lesson sharing via GitHub Issues — when one agent solves a problem, every node on the network learns from it. 104+ shared lessons, 21+ registered nodes, supports Hermes/Claude/Codex/OpenClaw/OpenCode._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
