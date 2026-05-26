@@ -254,6 +254,10 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
+36. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+      [[code](https://github.com/Intelligent-Internet/CommonGround)]
+      _Memory-ready public work-record substrate for human-agent and multi-agent systems, preserving durable Turn-owned facts, handoff context, causal lineage, and recovery/audit records across runtimes._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
