@@ -223,40 +223,40 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/fpytloun/mnemory)]
       _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
-29. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+29. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+      [[code](https://github.com/Intelligent-Internet/CommonGround)]
+      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
+
+30. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
-30. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+31. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
 
-31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+32. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
       [[code](https://github.com/Ikalus1988/MisakaNet)]
       [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
       _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
-32. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+33. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-33. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
+34. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-34. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+35. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-35. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
+36. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
-
-36. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
-      [[code](https://github.com/Intelligent-Internet/CommonGround)]
-      _Memory-ready public work-record substrate for human-agent and multi-agent systems, preserving durable Turn-owned facts, handoff context, causal lineage, and recovery/audit records across runtimes._
 
 ### Closed-Source
 
