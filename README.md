@@ -291,6 +291,12 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
+37. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)** 
+      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
+      [[code](https://github.com/renezander030/agentic-task-system)]
+      [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
+      _Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to agents via a CLI with pluggable storage adapters._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
