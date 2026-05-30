@@ -370,6 +370,9 @@ _Ordered by the number of Github stars._
      [[Part-B](https://www.dailydoseofds.com/ai-agents-crash-course-part-16-with-implementation/)]
      [[Part-C](https://www.dailydoseofds.com/ai-agents-crash-course-part-17-with-implementation/)]
 
+ - **Agent Memory Techniques** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
+     [[code](https://github.com/NirDiamant/Agent_Memory_Techniques)]
+
 ---
 
 ## 📚 Surveys
