@@ -173,32 +173,37 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/FlowElement-ai/m_flow)]
       _Bio-inspired cognitive memory engine for Graph RAG._
 
-16. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
+16. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)** 
+      ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
+      [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
+      _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
+
+17. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
       ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]
       [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
-17. **[MemoryBear](https://www.memorybear.ai/)** 
+18. **[MemoryBear](https://www.memorybear.ai/)** 
       ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
 
-18. **[OpenMemory](https://openmemory.cavira.app/)** 
+19. **[OpenMemory](https://openmemory.cavira.app/)** 
       ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
       [[code](https://github.com/caviraoss/openmemory)]
       _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
 
-19. **[MIRIX](https://mirix.io/)** 
+20. **[MIRIX](https://mirix.io/)** 
       ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
       [[code](https://github.com/Mirix-AI/MIRIX)]
       [[paper](https://arxiv.org/abs/2507.07957)]
       [[blog](https://mirix.io/#/blog)]
       _Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory._
 
-20. **[MemMachine](https://memmachine.ai/)** 
+21. **[MemMachine](https://memmachine.ai/)** 
       ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
       [[code](https://github.com/MemMachine/MemMachine)]
       [[blog](https://memmachine.ai/blog/)]
