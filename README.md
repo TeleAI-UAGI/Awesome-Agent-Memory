@@ -313,6 +313,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
+41. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
+      ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
+      [[code](https://github.com/build-on-ai/consciousness-server)]
+      _Self-hosted HTTP services that give multiple local agents one shared memory: notes, chat, tasks, semantic search, agent registry, and opt-in ed25519 auth. Runs fully local (embeddings via Ollama); nothing leaves the host._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
