@@ -323,6 +323,11 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
       [[code](https://github.com/build-on-ai/consciousness-server)]
       _Self-hosted HTTP services that give multiple local agents one shared memory: notes, chat, tasks, semantic search, agent registry, and opt-in ed25519 auth. Runs fully local (embeddings via Ollama); nothing leaves the host._
+43. **[taOSmd](https://github.com/jaylfc/taosmd)**
+      ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
+      [[code](https://github.com/jaylfc/taosmd)]
+      [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
+      _Local-first, offline agent memory built on an append-only transcript (user + agent messages, tool calls and results, decisions, errors). A librarian derives a typed temporal knowledge graph from it; corrected facts supersede old ones via invalidation. Hybrid vector + BM25 retrieval, tuned for small local models (97% on LongMemEval-S, runs on an 8GB Pi)._
 
 ### Closed-Source
 
