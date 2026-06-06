@@ -332,6 +332,10 @@ _Ordered by the number of Github stars._
 
 ### Closed-Source
 
+-  [TWZRD Agent Intel](https://intel.twzrd.xyz)
+   [[pypi](https://pypi.org/project/twzrd-agent-intel/)]
+   _Trust infrastructure MCP server for AI agents. On-chain agent scoring, pre-dispatch trust gating, and signed V5 receipts on Solana. Zero-install: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`_
+
 -  [MemoryLake](https://www.memorylake.ai/en)
    [[blog](https://www.memorylake.ai/en/blogs)]
 
