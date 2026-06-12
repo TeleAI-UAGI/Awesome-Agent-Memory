@@ -378,6 +378,9 @@ _Ordered by the number of Github stars._
    [[schema](https://github.com/vidursharma202-del/context-schema)]
    [[docs](https://threadline.to/docs)]
 
+-  [Remio](https://remio.ai/)
+   _Local-first personal knowledge base for AI agents. Remio pre-parses local files, webpages, recordings, notes, emails, and messages, then builds local indexes and vector retrieval over them so agents can fetch grounded context through search and RAG instead of repeatedly scanning files with ad-hoc `grep` or native file reads, reducing context tokens and model-call cost._
+
 ### Archival
 
 -  [MemPalace](https://github.com/MemPalace/mempalace) ❌ (Debunked)
