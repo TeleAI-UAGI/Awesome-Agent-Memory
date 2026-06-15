@@ -341,17 +341,22 @@ _Ordered by the number of Github stars._
       [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
       _Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to agents via a CLI with pluggable storage adapters._
 
-44. **[Akephalos](https://github.com/sunnja69/akephalos)** 
+44. **[AccInt](https://accint.xyz)**
+      ![Star](https://img.shields.io/github/stars/maxbaluev/accreted-intelligence.svg?style=social&label=Star)
+      [[code](https://github.com/maxbaluev/accreted-intelligence)]
+      _Local-first MCP Work Model for coding agents that retrieves scored memory, records actions, and credits real outcomes._
+
+45. **[Akephalos](https://github.com/sunnja69/akephalos)**
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-45. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+46. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-46. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
+47. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
       ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
       [[code](https://github.com/build-on-ai/consciousness-server)]
       _Self-hosted HTTP services that give multiple local agents one shared memory: notes, chat, tasks, semantic search, agent registry, and opt-in ed25519 auth. Runs fully local (embeddings via Ollama); nothing leaves the host._
