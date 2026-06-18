@@ -399,6 +399,9 @@ _Ordered by the number of Github stars._
    [[partial-code](https://github.com/maxbaluev/accreted-intelligence)]
    _Local-first MCP Work Model for coding agents that retrieves scored memory, records actions, and credits real outcomes; engine is a closed-source binary._
 
+-  [agentage Memory](https://memory.agentage.io)
+   _Remote MCP memory server (OAuth 2.1 + PKCE + DCR) giving Claude, Cursor, and ChatGPT one shared markdown memory mirrored locally as files you own._
+
 ### Archival
 
 -  [MemPalace](https://github.com/MemPalace/mempalace) ❌ (Debunked)
