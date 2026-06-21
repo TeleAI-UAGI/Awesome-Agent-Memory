@@ -295,7 +295,7 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
       [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
-      _Local-first, offline agent memory built on an append-only transcript (user + agent messages, tool calls and results, decisions, errors). A librarian derives a typed temporal knowledge graph from it; corrected facts supersede old ones via invalidation. Hybrid vector + BM25 retrieval, tuned for small local models (97% on LongMemEval-S, runs on an 8GB Pi)._
+      _Local-first, offline agent memory built on an append-only, zero-loss transcript (user + agent messages, tool calls and results, decisions, errors); every extracted fact links back to its source span, and a verifier demotes the ones it cannot support before they are served. A librarian derives a typed temporal knowledge graph; corrected facts supersede old ones via invalidation. Hybrid vector + BM25 retrieval, tuned for small local models (97% Recall@5 and 74.6% end-to-end Judge on LongMemEval-S, runs on an 8GB Pi)._
 
 36. **[Origin](https://useorigin.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)
