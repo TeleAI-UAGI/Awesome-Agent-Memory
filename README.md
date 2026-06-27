@@ -352,17 +352,23 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-46. **[Akephalos](https://github.com/sunnja69/akephalos)** 
+46. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)** 
+      ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social&label=Star)
+      [[code](https://github.com/voxmastery/FluctlightDB)]
+      [[paper](https://doi.org/10.5281/zenodo.20949890)]
+      _Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation._
+
+47. **[Akephalos](https://github.com/sunnja69/akephalos)** 
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-47. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+48. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-48. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
+49. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
       ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
       [[code](https://github.com/build-on-ai/consciousness-server)]
       _Self-hosted services giving multiple local agents one shared memory — notes, chat, tasks, semantic search, agent registry, ed25519 auth — running fully local with Ollama embeddings._
