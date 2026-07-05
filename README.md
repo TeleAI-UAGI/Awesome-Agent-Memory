@@ -1313,3 +1313,5 @@ Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiqui
     &nbsp;&nbsp;&nbsp;
     <img src="assets/TeleAI.png" alt="TeleAI Logo" width="120px" />
 </div> 
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
