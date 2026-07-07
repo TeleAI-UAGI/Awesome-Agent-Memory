@@ -360,15 +360,15 @@ _Ordered by the number of Github stars._
       [[paper](https://doi.org/10.5281/zenodo.20949890)]
       _Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation._
 
-47. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
-      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
-      [[code](https://github.com/kevdogg102396-afk/packrat)]
-      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-48. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
+47. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
       ![Star](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory.svg?style=social&label=Star)
       [[code](https://github.com/TerminallyLazy/Tree-Ring-Memory)]
       _Local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, audit, forgetting, consolidation, and Ratatui TUI._
+
+48. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
 49. **[Context Kit](https://github.com/JDDavenport/context-kit)**
       ![Star](https://img.shields.io/github/stars/JDDavenport/context-kit.svg?style=social&label=Star)
