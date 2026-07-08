@@ -385,6 +385,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/build-on-ai/consciousness-server)]
       _Self-hosted services giving multiple local agents one shared memory — notes, chat, tasks, semantic search, agent registry, ed25519 auth — running fully local with Ollama embeddings._
 
+52. **[Data Olympus](https://github.com/knaisoma/data-olympus)**
+      ![Star](https://img.shields.io/github/stars/knaisoma/data-olympus.svg?style=social&label=Star)
+      [[code](https://github.com/knaisoma/data-olympus)]
+      _Governed project memory for AI coding agents: agents can propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks._
+
 ### Closed-Source
 
 -  [MemoryLake](https://www.memorylake.ai/en)
