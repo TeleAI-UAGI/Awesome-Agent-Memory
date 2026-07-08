@@ -298,8 +298,14 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
-
-36. **[taOSmd](https://github.com/jaylfc/taosmd)**
+36. **[projectmem](https://projectmem.dev)** 
+      ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
+      [[code](https://github.com/riponcm/projectmem)]
+      [[docs](https://projectmem.dev/guide)]
+      [[paper](https://arxiv.org/abs/2606.12329)]
+      _Local-first, event-sourced memory + judgment layer for AI coding agents (Claude Code, Cursor, Antigravity, Codex): an append-only plain-text event log fed back via MCP, plus a deterministic pre-commit gate that warns before repeating a failed fix. MIT, 100% local._
+    
+37. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
       [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
