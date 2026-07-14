@@ -433,6 +433,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
+55. **[ZenBrain](https://zensation.ai/en)** 
+      ![Star](https://img.shields.io/github/stars/zensation-ai/zenbrain.svg?style=social&label=Star)
+      [[code](https://github.com/zensation-ai/zenbrain)]
+      [[paper](https://arxiv.org/abs/2604.23878)]
+      _Neuroscience-inspired 7-layer memory architecture for autonomous agents; zero-dependency TypeScript, Apache-2.0. FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation._
+
 </details>
 
 ### Closed-Source
