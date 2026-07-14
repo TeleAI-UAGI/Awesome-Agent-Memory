@@ -317,14 +317,14 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-34. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
+34. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+      [[code](https://github.com/fpytloun/mnemory)]
+      _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
+
+35. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/omega-memory)]
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
-
-35. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
-      [[code](https://github.com/fpytloun/mnemory)]
-      _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
 36. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
@@ -480,6 +480,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [Agentage Memory](https://memory.agentage.io)
    _Remote MCP memory server (OAuth 2.1 + PKCE + DCR) giving Claude, Cursor, and ChatGPT one shared markdown memory mirrored locally as files you own._
+
+-  [screenpipe](https://screenpipe.com)
+   [[source-available](https://github.com/screenpipe/screenpipe)]
+   [[license](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md)]
+   [[docs](https://docs.screenpi.pe)]
+   _Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval._
 
 ### Archival
 
