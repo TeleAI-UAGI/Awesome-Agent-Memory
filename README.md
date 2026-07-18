@@ -428,21 +428,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/TerminallyLazy/Tree-Ring-Memory)]
       _Local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, audit, forgetting, consolidation, and Ratatui TUI._
 
-54. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
+54. **[mnemo](https://github.com/DanceNitra/mnemo)**
+      ![Star](https://img.shields.io/github/stars/DanceNitra/mnemo.svg?style=social&label=Star)
+      [[code](https://github.com/DanceNitra/mnemo)]
+      [[pypi](https://pypi.org/project/agora-mnemo/)]
+      _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
+
+55. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
       [[code](https://github.com/shimo4228/agent-knowledge-cycle)]
       [[paper](https://doi.org/10.5281/zenodo.20578272)]
       _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
-55. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
+56. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-56. **[Akephalos](https://github.com/sunnja69/akephalos)**
-      ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
-      [[code](https://github.com/sunnja69/akephalos)]
-      _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
 57. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
@@ -450,7 +451,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[benchmark](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
 
-58. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+58. **[Akephalos](https://github.com/sunnja69/akephalos)**
+      ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
+      [[code](https://github.com/sunnja69/akephalos)]
+      _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
+
+59. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
@@ -619,6 +625,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **LoCoMo Refined: Recalibrating LoCoMo with Stricter LLM Judging and A Cleaned Dataset**
     [[code](https://github.com/mem-eval-suite/LoCoMo_refined)]
+
+- **Agent-Memory Integrity Benchmark**
+    [[code](https://github.com/DanceNitra/agent-memory-integrity)]
 
 #### 🗓️ 2025
 
