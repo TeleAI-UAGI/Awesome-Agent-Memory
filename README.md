@@ -1307,6 +1307,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587)**
     [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
 
+- **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)**
+    [[code](https://github.com/qzzqzzb/Self-Harness)]
+
 - [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)
 
 - [M\*: Every Task Deserves Its Own Memory Harness](https://arxiv.org/abs/2604.11811)
