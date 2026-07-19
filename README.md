@@ -331,17 +331,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/fpytloun/mnemory)]
       _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
-37. **[projectmem](https://projectmem.dev)**
+37. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
+      [[code](https://github.com/omega-memory/omega-memory)]
+      [[blog](https://omegamax.co/blog)]
+      _MCP server exposing 25 memory tools for AI coding agents._
+
+38. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
       [[code](https://github.com/riponcm/projectmem)]
       [[docs](https://projectmem.dev/guide)]
       [[paper](https://arxiv.org/abs/2606.12329)]
       _Local-first, event-sourced memory and judgment layer for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
-
-38. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
-      [[code](https://github.com/omega-memory/omega-memory)]
-      [[blog](https://omegamax.co/blog)]
-      _MCP server exposing 25 memory tools for AI coding agents._
 
 39. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
       ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
@@ -422,16 +422,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/TerminallyLazy/Tree-Ring-Memory)]
       _Local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, audit, forgetting, consolidation, and Ratatui TUI._
 
-53. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
-      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
-      [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-54. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
+53. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
       ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social&label=Star)
       [[code](https://github.com/voxmastery/FluctlightDB)]
       [[paper](https://doi.org/10.5281/zenodo.20949890)]
       _Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation._
+
+54. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
 55. **[mnemo](https://github.com/DanceNitra/mnemo)**
       ![Star](https://img.shields.io/github/stars/DanceNitra/mnemo.svg?style=social&label=Star)
