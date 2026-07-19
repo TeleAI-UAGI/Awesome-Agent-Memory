@@ -732,6 +732,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/MiG-NJU/PersonaVLM)]
     [[data](https://huggingface.co/datasets/ClareNie/Persona-MME)]
 
+- **[RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design](https://arxiv.org/abs/2603.01229)**
+    [[code](https://github.com/robotwin-Platform/rmbench)]
+    [[proj](https://rmbench.github.io/)]
+
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)** †
