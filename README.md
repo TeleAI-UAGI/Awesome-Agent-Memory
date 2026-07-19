@@ -466,6 +466,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
+61. **[Panella](https://panella.tech)**
+      ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
+      [[code](https://github.com/panellatech/panella)]
+      _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
+
 </details>
 
 ### Closed-Source
