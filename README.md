@@ -398,7 +398,6 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 48. **[Mnemoverse](https://mnemoverse.com)**
       ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
       [[code](https://github.com/mnemoverse/mcp-memory-server)]
-      [[paper](https://arxiv.org/abs/2603.08965)]
       _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
 
 49. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
