@@ -456,17 +456,25 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[benchmark](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
 
-59. **[Akephalos](https://github.com/sunnja69/akephalos)**
+59. **[Talamus](https://ampres-ai.github.io/talamus/)**
+      ![Star](https://img.shields.io/github/stars/ampres-ai/talamus.svg?style=social&label=Star)
+      [[code](https://github.com/ampres-ai/talamus)]
+      [[docs](https://ampres-ai.github.io/talamus/)]
+      [[benchmarks](https://ampres-ai.github.io/talamus/benchmarks/)]
+      [[pypi](https://pypi.org/project/talamus/)]
+      _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
+
+60. **[Akephalos](https://github.com/sunnja69/akephalos)**
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-60. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+61. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-61. **[Panella](https://panella.tech)**
+62. **[Panella](https://panella.tech)**
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
