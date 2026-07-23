@@ -482,7 +482,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 63. **[kgai](https://kgai.dev)**
       ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
       [[code](https://github.com/kgaidev/kgai)]
-      _Local-first immutable knowledge graph of engineering decisions for AI coding agents: deterministic supersession keeps the old decision and the reason it died, so the agent stops re-proposing what the team already rejected; embedded graph DB, opt-in team sync._
+      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
 </details>
 
