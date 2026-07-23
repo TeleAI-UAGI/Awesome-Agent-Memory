@@ -484,6 +484,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/kgaidev/kgai)]
       _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
+64. **[engRAM](https://github.com/MaxFreedomPollard/engRAM)**
+      ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/engRAM.svg?style=social&label=Star)
+      [[code](https://github.com/MaxFreedomPollard/engRAM)]
+      _Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log._
+
 </details>
 
 ### Closed-Source
