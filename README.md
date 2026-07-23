@@ -484,6 +484,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       _Fully offline, encrypted-at-rest vector memory for AI agents via MCP server or Python/CLI; AEAD-encrypted embeddings, hybrid vector + keyword recall, per-record crypto-shred deletion, hash-chained audit log, optional keyfile two-factor unlock._
 
 
+63. **[kgai](https://kgai.dev)**
+      ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
+      [[code](https://github.com/kgaidev/kgai)]
+      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
+
 </details>
 
 ### Closed-Source
