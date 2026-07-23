@@ -478,6 +478,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
+63. **[engRAM](https://github.com/MaxFreedomPollard/engRAM)**
+      ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/engRAM.svg?style=social&label=Star)
+      [[code](https://github.com/MaxFreedomPollard/engRAM)]
+      _Fully offline, encrypted-at-rest vector memory for AI agents via MCP server or Python/CLI; AEAD-encrypted embeddings, hybrid vector + keyword recall, per-record crypto-shred deletion, hash-chained audit log, optional keyfile two-factor unlock._
+
 
 </details>
 
