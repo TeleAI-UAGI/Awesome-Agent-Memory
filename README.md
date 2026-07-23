@@ -438,7 +438,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Darwin-Agent/Mi-Memory)]
       [[docs](https://darwin-agent.github.io/Mi-Memory/)]
       [[paper](https://arxiv.org/abs/2607.18975)]
-      _Lifecycle memory framework for personal assistant agents by Xiaomi's Darwin Agent team — organizes durable user state from multi-source evidence with provenance, treats correction and forgetting as editable lifecycle events, and adapts deployment to device constraints._
+      _Lifecycle memory framework for personal assistant agents from Xiaomi's Darwin Agent team; multi-source user state with provenance, editable correction and forgetting, device-adaptive deployment._
 
 56. **[mnemo](https://github.com/DanceNitra/mnemo)**
       ![Star](https://img.shields.io/github/stars/DanceNitra/mnemo.svg?style=social&label=Star)
