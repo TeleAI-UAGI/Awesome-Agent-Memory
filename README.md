@@ -1006,6 +1006,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
     [[code](https://github.com/Little-Fridge/M2A)]
 
+- [NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2607.06678)
+    [[proj](https://opendrivelab.com/NativeMEM/)]
+
 #### 🗓️ 2025
 
 - **[WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)**
