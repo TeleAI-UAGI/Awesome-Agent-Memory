@@ -496,6 +496,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/MaxFreedomPollard/engRAM)]
       _Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log._
 
+66. **[memgres](https://github.com/mozgsml/memgres)**
+      ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
+      [[code](https://github.com/mozgsml/memgres)]
+      _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
+
 </details>
 
 ### Closed-Source
