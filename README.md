@@ -501,6 +501,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
       _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
+67. **[memgres](https://github.com/mozgsml/memgres)**
+      ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
+      [[code](https://github.com/mozgsml/memgres)]
+      _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
+
 </details>
 
 ### Closed-Source
