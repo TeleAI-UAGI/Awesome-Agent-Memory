@@ -368,11 +368,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-43. **[Origin](https://useorigin.app/)**
-      ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)
-      [[code](https://github.com/7xuanlu/origin)]
-      [[docs](https://useorigin.app/docs)]
-      _Local-first AI work memory for coding agents and MCP clients: session handoffs, source-backed wiki pages, graph context, and hybrid retrieval via one local daemon._
+43. **[Wenlan](https://wenlan.app/)**
+      ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
+      [[code](https://github.com/7xuanlu/wenlan)]
+      [[docs](https://wenlan.app/docs)]
+      _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
 
 44. **[memclaw (Felo)](https://memclaw.me)**
       ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social&label=Star)
