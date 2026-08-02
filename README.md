@@ -247,10 +247,9 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://memmachine.ai/blog/)]
       _Interoperable memory layer providing extensible storage and retrieval primitives for AI agents._
 
-22. **[Memobase](https://memobase.io/)**
+22. **[Memobase](https://docs.memobase.io/)**
       ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]
-      [[blog](https://www.memobase.io/blog)]
       _User profile-based long-term memory for AI chatbot applications._
 
 23. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social&label=Star)
@@ -445,10 +444,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-57. **[mnemo](https://github.com/DanceNitra/mnemo)**
-      ![Star](https://img.shields.io/github/stars/DanceNitra/mnemo.svg?style=social&label=Star)
-      [[code](https://github.com/DanceNitra/mnemo)]
-      [[pypi](https://pypi.org/project/agora-mnemo/)]
+57. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
+      ![Star](https://img.shields.io/github/stars/DanceNitra/inspeximus.svg?style=social&label=Star)
+      [[code](https://github.com/DanceNitra/inspeximus)]
+      [[pypi](https://pypi.org/project/inspeximus/)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
 
 58. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
@@ -1417,9 +1416,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents](https://arxiv.org/abs/2606.04329)
     (The MPBench Paper)
 
-- **[mnemo poisoning probes](https://github.com/DanceNitra/agora/tree/main/mnemo/probes)**
-    [[attack](https://github.com/DanceNitra/agora/blob/main/mnemo/probes/memory_defense_layer_probe.py)]
-    [[defense](https://github.com/DanceNitra/agora/blob/main/mnemo/probes/memory_gate_defense_probe.py)]
+- **[inspeximus (formerly mnemo) poisoning probes](https://github.com/DanceNitra/agora/tree/main/research/probes)**
+    [[attack](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_defense_layer_probe.py)]
+    [[defense](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_gate_defense_probe.py)]
     _Runnable probe scripts demonstrating that provenance written into a memory record is forgeable, and that a retrieval-time corroboration gate raises the cost of memory-poisoning attacks._
 
 ---
@@ -1430,11 +1429,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
 
-- [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture)
+- [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://web.archive.org/web/20260429101535/https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture) (archived; original site currently unreachable)
 
-- [221 Agents: Multi-Agent Coordination Lessons](https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons)
+- [221 Agents: Multi-Agent Coordination Lessons](https://web.archive.org/web/20260427040129/https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons) (archived; original site currently unreachable)
 
-- [OpenClaw Multi-Tenancy: Why VM-Per-User Does Not Scale](https://blog.kinthai.ai/openclaw-multi-tenancy-why-vm-per-user-doesnt-scale)
+- [OpenClaw Multi-Tenancy: Why VM-Per-User Does Not Scale](https://web.archive.org/web/20260429092735/https://blog.kinthai.ai/openclaw-multi-tenancy-why-vm-per-user-doesnt-scale) (archived; original site currently unreachable)
 
 #### 🗓️ 2025
 
