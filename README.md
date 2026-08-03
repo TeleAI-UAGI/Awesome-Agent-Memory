@@ -1219,6 +1219,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.14777)**
+    [[code](https://github.com/jinyangwu/SEED)]
+    [[proj](https://jinyangwu.github.io/seed/)]
+
 - **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473)**
     [[code](https://github.com/InternScience/MLEvolve)]
 
