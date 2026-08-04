@@ -1264,6 +1264,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
     [[code](https://github.com/MemTensor/MemRL)]
 
+- [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](https://arxiv.org/abs/2607.26017)
+
 - [Self-Evolving Multi-Agent Systems via Decentralized Memory](https://arxiv.org/abs/2605.22721)
 
 - [Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2605.30159)
