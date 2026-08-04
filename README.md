@@ -915,7 +915,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/zorazrw/agent-workflow-memory)]
 
 - **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250)**
-    (AAAI 2024)
     [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
 - **[Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)**
@@ -1159,7 +1158,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
 
 - **[Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](https://arxiv.org/abs/2506.21035)**
-    (ICML 2026)
     [[code](https://github.com/Artificer-AI-Lab/MoRAM)]
     [[proj](https://artificer-ai-lab.github.io/MoRAM/)]
 
@@ -1189,7 +1187,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/thunlp/InfLLM)]
 
 - **[MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://arxiv.org/abs/2404.05726)**
-    (CVPR 2024)
     [[code](https://github.com/boheumd/MA-LMM)]
 
 - **[MemoryLLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624)**
