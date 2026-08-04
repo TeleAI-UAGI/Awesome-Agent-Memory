@@ -1158,6 +1158,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
     [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
 
+- **[Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](https://arxiv.org/abs/2506.21035)**
+    (ICML 2026)
+    [[code](https://github.com/Artificer-AI-Lab/MoRAM)]
+    [[proj](https://artificer-ai-lab.github.io/MoRAM/)]
+
 - [How Much Do Language Models Memorize?](https://arxiv.org/abs/2505.24832)
 
 - [Memory Retrieval and Consolidation in Large Language Models through Function Tokens](https://arxiv.org/abs/2510.08203)
