@@ -615,6 +615,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
     [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
 
+- [Memory for Large Language Models](https://arxiv.org/abs/2607.25380)
+
 - [LLM Agent Memory: A Survey from a Unified Representation–Management Perspective](https://www.preprints.org/manuscript/202603.0359)
 
 - [Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers](https://arxiv.org/abs/2603.07670)
