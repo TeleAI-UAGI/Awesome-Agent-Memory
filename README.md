@@ -615,6 +615,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
     [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
 
+- **[Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations](https://arxiv.org/abs/2602.19320)**
+    [[code](https://github.com/FredJiang0324/Anatomy-of-Agentic-Memory)]
+
 - [Memory for Large Language Models](https://arxiv.org/abs/2607.25380)
 
 - [LLM Agent Memory: A Survey from a Unified Representation–Management Perspective](https://www.preprints.org/manuscript/202603.0359)
@@ -659,6 +662,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Agent Memory Leaderboard](https://agentmemories.ai/home)**
+    [[code](https://github.com/AML-memory/agent-memory-leaderboard)]
+    _Public evaluation platform: participants expose Add/Search APIs and are scored on textual-memory and coding-agent-memory tracks._
+
 - **OmniMemEval**
     [[code](https://github.com/MemTensor/OmniMemEval)]
 
@@ -674,6 +681,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **Agent-Memory Integrity Benchmark**
     [[code](https://github.com/DanceNitra/agent-memory-integrity)]
+
+- **[Cost and Accuracy of Long-Term Memory in Distributed Multi-Agent Systems Based on Large Language Models](https://arxiv.org/abs/2601.07978)**
+    [[code](https://github.com/wolffbe/dmas-memory)]
 
 #### 🗓️ 2025
 
