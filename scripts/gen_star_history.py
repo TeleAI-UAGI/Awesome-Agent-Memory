@@ -101,7 +101,7 @@ def cumulative_by_day(dates):
 
 def nice_ticks(vmax):
     """Y-axis ticks: 4-6 round steps from 0 covering vmax."""
-    for step in (10, 20, 25, 50, 100, 150, 200, 250, 500, 1000, 2000, 2500, 5000):
+    for step in (1, 2, 5, 10, 20, 25, 50, 100, 150, 200, 250, 500, 1000, 2000, 2500, 5000):
         if vmax / step <= 5:
             break
     top = ((vmax + step - 1) // step) * step
@@ -163,8 +163,12 @@ def render_svg(points, theme, as_of):
         f'<line x1="{ML}" y1="{y(0):.1f}" x2="{ML + pw}" y2="{y(0):.1f}" '
         f'stroke="{c["axis"]}" stroke-width="1"/>'
     )
-    for m in month_ticks(d0, d1):
-        label = m.strftime("%b %Y") if m.month == 1 or m == month_ticks(d0, d1)[0] else m.strftime("%b")
+    ticks = month_ticks(d0, d1)
+    for m in ticks:
+        if span > 450 or m.month == 1 or m == ticks[0]:
+            label = m.strftime("%b %Y")
+        else:
+            label = m.strftime("%b")
         parts.append(
             f'<text x="{x(m):.1f}" y="{H - MB + 20}" text-anchor="middle" '
             f'fill="{c["muted"]}">{label}</text>'
@@ -201,6 +205,7 @@ def main():
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     for theme, rel in OUT.items():
         out_path = os.path.join(root, rel)
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(render_svg(points, theme, as_of))
         print(f"wrote {rel} ({points[-1][1]} stars, {len(points)} points)")
