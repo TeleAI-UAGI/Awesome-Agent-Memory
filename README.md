@@ -1429,6 +1429,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)
 
+#### 🗓️ 2024
+
+- [A Generative Model of Memory Construction and Consolidation](https://www.nature.com/articles/s41562-023-01799-z)
+
 ---
 
 ## 🔒 Memory Security & Defense
