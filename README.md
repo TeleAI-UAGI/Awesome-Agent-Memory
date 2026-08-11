@@ -469,28 +469,28 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[pypi](https://pypi.org/project/talamus/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
 
-61. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
-      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
-      [[code](https://github.com/kevdogg102396-afk/packrat)]
-      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-62. **[Lians agent memory](https://www.lians.ai/)**
+61. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
       [[code](https://github.com/Lians-ai/Lians)]
       [[benchmark](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
 
-63. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
-      ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social&label=Star)
-      [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
-      _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
-
-64. **[RE-call](https://github.com/GiulioDER/RE-call)**
+62. **[RE-call](https://github.com/GiulioDER/RE-call)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
       [[benchmarks](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
       _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
+
+63. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
+
+64. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
+      ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social&label=Star)
+      [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
+      _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
 65. **[kgai](https://kgai.dev)**
       ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
