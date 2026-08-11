@@ -485,27 +485,34 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
       _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
-64. **[kgai](https://kgai.dev)**
+64. **[RE-call](https://github.com/GiulioDER/RE-call)**
+      ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
+      [[code](https://github.com/GiulioDER/RE-call)]
+      [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
+      [[benchmarks](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
+      _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
+
+65. **[kgai](https://kgai.dev)**
       ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
       [[code](https://github.com/kgaidev/kgai)]
       _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
-65. **[memgres](https://github.com/mozgsml/memgres)**
+66. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-66. **[Akephalos](https://github.com/sunnja69/akephalos)**
+67. **[Akephalos](https://github.com/sunnja69/akephalos)**
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-67. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+68. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-68. **[Panella](https://panella.tech)**
+69. **[Panella](https://panella.tech)**
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
