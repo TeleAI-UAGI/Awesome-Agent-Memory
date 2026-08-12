@@ -1418,6 +1418,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[A Neural Network Model of Free Recall Learns Multiple Memory Strategies](https://www.nature.com/articles/s42256-026-01274-0)**
+    [[code](https://github.com/Veritaria/rnn-free-recall)]
+
 - [Subspace Communication in the Hippocampal–Retrosplenial Axis](https://www.nature.com/articles/s41586-026-10481-z)
 
 - [A Neural State Space for Episodic Memories](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00284-0)
