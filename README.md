@@ -502,20 +502,70 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-67. **[Akephalos](https://github.com/sunnja69/akephalos)**
+67. **[ReFind](https://github.com/imlrz/ReFind)**
+      ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
+      [[code](https://github.com/imlrz/ReFind)]
+      _Agentic long-term memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+68. **[Akephalos](https://github.com/sunnja69/akephalos)**
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-68. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+69. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-69. **[Panella](https://panella.tech)**
+70. **[Panella](https://panella.tech)**
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
+
+71. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
+      ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
+      [[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)]
+      _Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+72. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
+      ![Star](https://img.shields.io/github/stars/linxuhao/ActiveMemoryIndex.svg?style=social&label=Star)
+      [[code](https://github.com/linxuhao/ActiveMemoryIndex)]
+      _Stores memories twice — verbatim timestamped turns and atomic first-person facts — and retrieves by matching the log's own first-person register; #3 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+73. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
+      ![Star](https://img.shields.io/github/stars/cydd-1972/hybrid_search.svg?style=social&label=Star)
+      [[code](https://github.com/cydd-1972/hybrid_search)]
+      _Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and BM25 + dense fused ranking; #4 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+74. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
+      ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social&label=Star)
+      [[code](https://github.com/Tin11Mn/chrono-hybrid-mem)]
+      _Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+75. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
+      ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
+      [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
+      _Fully deterministic memory service fusing BM25 and dense retrieval over raw conversational turns via weighted reciprocal rank fusion, with no LLM in the memory path; #6 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+76. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
+      ![Star](https://img.shields.io/github/stars/simple-boy/Chronicle-Memory.svg?style=social&label=Star)
+      [[code](https://github.com/simple-boy/Chronicle-Memory)]
+      _Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+77. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
+      ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
+      [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
+      _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked source evidence with traceable retrieval views; #8 on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+78. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)**
+      ![Star](https://img.shields.io/github/stars/llLAlisa/memory-agent-submission.svg?style=social&label=Star)
+      [[code](https://github.com/llLAlisa/memory-agent-submission)]
+      _FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 (as LLLMemoryAgent) on the Agent Memory Leaderboard academic textual track (2026-08)._
+
+79. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
+      ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
+      [[code](https://github.com/0xboyu/aml-memory-mvp)]
+      _Evidence-only retriever indexing English and CJK text with SQLite FTS5 plus character n-grams, typo-tolerant semantic retrieval, and conversation-neighbor expansion; #10 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 </details>
 
@@ -570,6 +620,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[license](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md)]
    [[docs](https://docs.screenpi.pe)]
    _Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval._
+
+-  [MemoraX](https://memorax.ai/)
+   [[spec](https://memorax.ai/spec/)]
+   [[partial-code](https://github.com/memorax-ai/memorax-code)]
+   _Memory layer for long-horizon agents from MemoraX AI; core system is API-only, with an open-source coding-memory plugin; #1 on the Agent Memory Leaderboard industry textual track (2026-08)._
 
 ### Archival
 
