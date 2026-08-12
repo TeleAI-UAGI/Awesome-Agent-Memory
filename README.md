@@ -954,6 +954,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Rethinking Memory as Continuously Evolving Connectivity](https://arxiv.org/abs/2605.28773)** (FluxMem)
+    [[code](https://github.com/zjunlp/LightMem)]
+
 - **[GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs](https://arxiv.org/abs/2604.23626)**
     [[code](https://github.com/ulab-uiuc/GraphPlanner)]
 
