@@ -670,16 +670,16 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
+    [[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]
+
 - **[Memory in the LLM Era: Modular Architectures and Strategies within a Unified Framework](https://arxiv.org/abs/2604.01707)**
     [[code](https://github.com/Yanchen398/Memory-in-the-LLM-Era)]
 
 - **[From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/abs/2605.06716)**
     [[code](https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey)]
 
-- **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
-    [[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]
-
-- **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
+- **[Toward Efficient Agents: Memory, Tool Learning, and Planning](https://arxiv.org/abs/2601.14192)**
     [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
 
 - **[Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations](https://arxiv.org/abs/2602.19320)**
