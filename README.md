@@ -41,7 +41,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>📰 <b>In the News</b></summary>
 
 - 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
