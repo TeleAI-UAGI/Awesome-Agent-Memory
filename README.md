@@ -567,6 +567,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/0xboyu/aml-memory-mvp)]
       _Evidence-only retriever indexing English and CJK text with SQLite FTS5 plus character n-grams, typo-tolerant semantic retrieval, and conversation-neighbor expansion; #10 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
+80. **[Lint-AI](https://github.com/RooAGI/Lint-AI)**
+      ![Star](https://img.shields.io/github/stars/RooAGI/Lint-AI.svg?style=social&label=Star)
+      [[code](https://github.com/RooAGI/Lint-AI)]
+      _Open-source agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions._
+
 </details>
 
 ### Closed-Source
