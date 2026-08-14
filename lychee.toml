@@ -14,6 +14,10 @@ exclude = [
   # Badge/chart services — dynamic images, not content links
   "img\\.shields\\.io",
   "api\\.star-history\\.com",
+  # Stargazers page behind the star-history chart — GitHub restricted stargazer
+  # listings to repo admins and collaborators in June 2026, so it 404s for
+  # anonymous fetchers including CI, regardless of link health.
+  "github\\.com/TeleAI-UAGI/Awesome-Agent-Memory/stargazers",
   # Login-walled or hard bot blocks (always fail from CI regardless of link health)
   "x\\.com",
   "twitter\\.com",
