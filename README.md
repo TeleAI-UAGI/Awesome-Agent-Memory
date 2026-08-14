@@ -44,6 +44,8 @@
 <details open>
   <summary>📰 <b>In the News</b></summary>
 
+- 📰 [[Agent Memory Leaderboard (2026-08-13)] First public results: 136 teams registered and 69 memory systems completed the first text-memory evaluation](https://news.ycombinator.com/item?id=49281370)
+    *  _Boards_: [open-source methods](https://agentmemories.ai/leaderboard/academic/textual), [commercial products](https://agentmemories.ai/leaderboard/industry/textual)
 - 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
 - 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
 - 📰 [[Bloo-Mind AI (2026-05-20)] The Benchmark Theatre: Why Almost Nothing You’ve Read About Agent Memory Scores Is True](https://essays.bloo-mind.ai/posts/2026-05-20-mem-eval/) †
