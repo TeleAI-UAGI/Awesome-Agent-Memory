@@ -584,6 +584,13 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Paoladev45/feedrecall)]
       _Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents._
 
+83. **[Remnic](https://remnic.ai/)**
+      ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social&label=Star)
+      [[code](https://github.com/joshuaswarren/remnic)]
+      [[docs](https://remnic.ai/guides/)]
+      [[paper](https://doi.org/10.5281/zenodo.21922631)]
+      _Local-first memory layer where one markdown-on-disk store is shared by Claude Code, Codex CLI, Cursor, Pi, Hermes, OpenClaw, and any MCP client, with per-result provenance, a correction contract, and the MemCorrect benchmark._
+
 </details>
 
 ### Closed-Source
