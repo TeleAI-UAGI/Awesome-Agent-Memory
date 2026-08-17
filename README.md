@@ -601,6 +601,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Paoladev45/feedrecall)]
       _Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents._
 
+86. **[AI Unified Memory](https://github.com/yaowanxiang/ai-unified-memory)**
+      ![Star](https://img.shields.io/github/stars/yaowanxiang/ai-unified-memory.svg?style=social&label=Star)
+      [[code](https://github.com/yaowanxiang/ai-unified-memory)]
+      _Filesystem-native shared memory across multiple AI agents: authoritative public library + per-AI private mirrors + exchange area for cross-AI messaging + automated scheduler (scan → promote → dispatch → index → snapshot); zero third-party dependencies._
+
 </details>
 
 ### Closed-Source
