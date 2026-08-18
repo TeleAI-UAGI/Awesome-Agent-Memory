@@ -1566,8 +1566,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
 
-- [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://web.archive.org/web/20260429101535/https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture) (archived; original site currently unreachable)
-
 - [221 Agents: Multi-Agent Coordination Lessons](https://web.archive.org/web/20260427040129/https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons) (archived; original site currently unreachable)
 
 - [OpenClaw Multi-Tenancy: Why VM-Per-User Does Not Scale](https://web.archive.org/web/20260429092735/https://blog.kinthai.ai/openclaw-multi-tenancy-why-vm-per-user-doesnt-scale) (archived; original site currently unreachable)
