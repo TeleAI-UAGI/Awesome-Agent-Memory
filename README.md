@@ -610,6 +610,14 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 ### Closed-Source
 
+-  [MemoraX](https://memorax.ai/)
+   [[spec](https://memorax.ai/spec/)]
+   _Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1 on the Agent Memory Leaderboard industry textual track (2026-08)._
+   -  [MemoraX Code](https://code.memorax.net/)
+      [[memory-platform](https://platform.memorax.net/)]
+      [[code](https://github.com/memorax-ai/memorax-code)]
+      _Coding-agent memory product—not a text-chatbot memory layer—that carries engineering experience, repository knowledge, preferences, and procedures across tasks and sessions._
+
 -  [MemoryLake](https://www.memorylake.ai/en)
    [[blog](https://www.memorylake.ai/en/blogs)]
 
@@ -658,11 +666,6 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[license](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md)]
    [[docs](https://docs.screenpi.pe)]
    _Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval._
-
--  [MemoraX](https://memorax.ai/)
-   [[spec](https://memorax.ai/spec/)]
-   [[partial-code](https://github.com/memorax-ai/memorax-code)]
-   _Memory layer for long-horizon agents from MemoraX AI; core system is API-only, with an open-source coding-memory plugin; #1 on the Agent Memory Leaderboard industry textual track (2026-08)._
 
 ### Archival
 
