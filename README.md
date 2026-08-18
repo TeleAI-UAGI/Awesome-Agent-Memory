@@ -536,6 +536,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
       _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
+87. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
+      ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social&label=Star)
+      [[code](https://github.com/tonydzi/claude-memory-tidy)]
+      _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, verbatim folding into warm sub-indexes; guards against silent truncation of the memory an agent loads every turn._
+
 73. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
