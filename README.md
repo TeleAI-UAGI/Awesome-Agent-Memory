@@ -612,9 +612,9 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [MemoraX](https://memorax.ai/)
    [[spec](https://memorax.ai/spec/)]
+   [[platform](https://platform.memorax.net/)]
    _Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1 on the Agent Memory Leaderboard industry textual track (2026-08)._
-   -  [MemoraX Code](https://code.memorax.net/)
-      [[memory-platform](https://platform.memorax.net/)]
+   -  [MemoraX Code](https://code.memorax.net/)   
       [[code](https://github.com/memorax-ai/memorax-code)]
       _Coding-agent memory product—not a text-chatbot memory layer—that carries engineering experience, repository knowledge, preferences, and procedures across tasks and sessions._
 
