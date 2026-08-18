@@ -554,7 +554,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 76. **[AI Unified Memory](https://github.com/yaowanxiang/ai-unified-memory)**
       ![Star](https://img.shields.io/github/stars/yaowanxiang/ai-unified-memory.svg?style=social&label=Star)
       [[code](https://github.com/yaowanxiang/ai-unified-memory)]
-      _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, automated synchronization, snapshots, and no third-party dependencies._
+      [[📥 Download (Win/macOS/Linux)](https://github.com/yaowanxiang/ai-unified-memory/releases)]
+      _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, automated synchronization, snapshots, and no third-party dependencies. Ships with a no-code desktop GUI (memory browser, semantic search, scheduling, cross-AI messages, hot memory) packaged for Windows/macOS/Linux._
+
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/yaowanxiang/ai-unified-memory/main/docs/screenshots/gui-main.png" width="85%" alt="AI Unified Memory GUI">
+      </p>
 
 77. **[Akephalos](https://github.com/sunnja69/akephalos)**
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
