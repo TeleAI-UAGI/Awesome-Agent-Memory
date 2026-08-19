@@ -616,6 +616,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, verbatim folding into warm sub-indexes; guards against silent truncation of the memory an agent loads every turn._
 
+88. **[engram](https://github.com/FBISiri/engram)**
+      ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
+      [[code](https://github.com/FBISiri/engram)]
+      _Cognitive memory system for autonomous AI agents with typed memories, vector search, reflection engine, and MCP server._
+
 </details>
 
 ### Closed-Source
