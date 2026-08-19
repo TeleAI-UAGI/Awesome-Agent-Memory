@@ -217,7 +217,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-17. **[engram](https://github.com/Gentleman-Programming/engram)**
+17. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram)**
       ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social&label=Star)
       [[code](https://github.com/Gentleman-Programming/engram)]
       _Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI._
@@ -554,21 +554,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 76. **[AI Unified Memory](https://github.com/yaowanxiang/ai-unified-memory)**
       ![Star](https://img.shields.io/github/stars/yaowanxiang/ai-unified-memory.svg?style=social&label=Star)
       [[code](https://github.com/yaowanxiang/ai-unified-memory)]
-      [[📥 Download (Win/macOS/Linux)](https://github.com/yaowanxiang/ai-unified-memory/releases)]
       _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, automated synchronization, snapshots, and no third-party dependencies. Ships with a no-code desktop GUI (memory browser, semantic search, scheduling, cross-AI messages, hot memory) packaged for Windows/macOS/Linux._
 
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/yaowanxiang/ai-unified-memory/main/docs/screenshots/gui-main.png" width="85%" alt="AI Unified Memory GUI">
-      </p>
-
-77. **[Engram (FBISiri)](https://github.com/FBISiri/engram)**
+77. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
       [[code](https://github.com/FBISiri/engram)]
       _Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces._
 
-78. **[Akephalos](https://github.com/sunnja69/akephalos)**
-      ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
-      [[code](https://github.com/sunnja69/akephalos)]
+78. **[Akephalos](https://github.com/daveinturkey15-byte/akephalos)**
+      ![Star](https://img.shields.io/github/stars/daveinturkey15-byte/akephalos.svg?style=social&label=Star)
+      [[code](https://github.com/daveinturkey15-byte/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
 79. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
