@@ -183,7 +183,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 11. **[Context Mode](https://context-mode.com/)**
       ![Star](https://img.shields.io/github/stars/mksglu/context-mode.svg?style=social&label=Star)
       [[code](https://github.com/mksglu/context-mode)]
-      _Context-window optimization for AI coding agents — diverts large tool outputs into a locally searchable store and persists session memory across agent platforms via MCP and hooks._
+      _Context-window optimization for AI coding agents: diverts large tool outputs into a locally searchable store and persists session memory across platforms via MCP and hooks._
 
 12. **[Second Me](https://home.second.me/)**
       ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
@@ -307,7 +307,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/riponcm/projectmem)]
       [[docs](https://projectmem.dev/guide)]
       [[paper](https://arxiv.org/abs/2606.12329)]
-      _Local-first, event-sourced memory and judgment layer for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
+      _Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
 
 33. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
       ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
@@ -470,7 +470,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 61. **[ReFind](https://github.com/imlrz/ReFind)**
       ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
       [[code](https://github.com/imlrz/ReFind)]
-      _Agentic long-term memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns evidence blocks; #2 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 62. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
       ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
@@ -503,7 +503,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 67. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
       ![Star](https://img.shields.io/github/stars/linxuhao/ActiveMemoryIndex.svg?style=social&label=Star)
       [[code](https://github.com/linxuhao/ActiveMemoryIndex)]
-      _Stores memories twice — verbatim timestamped turns and atomic first-person facts — and retrieves by matching the log's own first-person register; #3 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 68. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
@@ -549,7 +549,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 75. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
       ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
       [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
-      _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked source evidence with traceable retrieval views; #8 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 76. **[AI Unified Memory](https://github.com/yaowanxiang/ai-unified-memory)**
       ![Star](https://img.shields.io/github/stars/yaowanxiang/ai-unified-memory.svg?style=social&label=Star)
@@ -579,7 +579,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 81. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
       ![Star](https://img.shields.io/github/stars/cydd-1972/hybrid_search.svg?style=social&label=Star)
       [[code](https://github.com/cydd-1972/hybrid_search)]
-      _Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and BM25 + dense fused ranking; #4 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 82. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
       ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social&label=Star)
@@ -589,7 +589,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 83. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
       ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
       [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
-      _Fully deterministic memory service fusing BM25 and dense retrieval over raw conversational turns via weighted reciprocal rank fusion, with no LLM in the memory path; #6 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Deterministic BM25 and dense fusion over raw conversational turns, with no LLM in the path; #6 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 84. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
       ![Star](https://img.shields.io/github/stars/simple-boy/Chronicle-Memory.svg?style=social&label=Star)
@@ -604,7 +604,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 86. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
       ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
       [[code](https://github.com/0xboyu/aml-memory-mvp)]
-      _Evidence-only retriever indexing English and CJK text with SQLite FTS5 plus character n-grams, typo-tolerant semantic retrieval, and conversation-neighbor expansion; #10 on the Agent Memory Leaderboard academic textual track (2026-08)._
+      _Evidence-only retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10 on the Agent Memory Leaderboard academic textual track (2026-08)._
 
 87. **[FeedRecall](https://github.com/Paoladev45/feedrecall)**
       ![Star](https://img.shields.io/github/stars/Paoladev45/feedrecall.svg?style=social&label=Star)
@@ -614,7 +614,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 88. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
       ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social&label=Star)
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
-      _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, verbatim folding into warm sub-indexes; guards against silent truncation of the memory an agent loads every turn._
+      _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
 </details>
 
@@ -1561,7 +1561,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Agent Memory Guard](https://owasp.org/www-project-agent-memory-guard/)**
     [[code](https://github.com/OWASP/www-project-agent-memory-guard)]
     [[pypi](https://pypi.org/project/agent-memory-guard/)]
-    _OWASP runtime defense layer that screens agent memory writes for poisoning before they reach the agent — multi-layer validation with semantic anomaly detection, entropy scoring, provenance verification, and cross-reference and temporal checks._
+    _OWASP runtime defense layer that screens agent memory writes for poisoning: multi-layer validation with semantic anomaly detection, entropy scoring, and provenance verification._
 
 - [From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents](https://arxiv.org/abs/2606.04329)
     (The MPBench Paper)
