@@ -214,7 +214,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
       [[blog](https://blog.plasticlabs.ai/)]
-      [[evals](https://evals.honcho.dev/)]
+      [[eval](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
 17. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram)**
@@ -382,7 +382,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 45. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
-      [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
+      [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
       _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
 46. **[Synap](https://maximem.ai)**
@@ -459,7 +459,6 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 59. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
-      [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
       _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
 60. **[Lint-AI](https://github.com/RooAGI/Lint-AI)**
@@ -491,13 +490,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 65. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
       [[code](https://github.com/Lians-ai/Lians)]
-      [[benchmark](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
+      [[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
 
 66. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
       ![Star](https://img.shields.io/github/stars/DanceNitra/inspeximus.svg?style=social&label=Star)
       [[code](https://github.com/DanceNitra/inspeximus)]
-      [[pypi](https://pypi.org/project/inspeximus/)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
 
 67. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
@@ -515,15 +513,14 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/ampres-ai/talamus.svg?style=social&label=Star)
       [[code](https://github.com/ampres-ai/talamus)]
       [[docs](https://ampres-ai.github.io/talamus/)]
-      [[benchmarks](https://ampres-ai.github.io/talamus/benchmarks/)]
-      [[pypi](https://pypi.org/project/talamus/)]
+      [[eval](https://ampres-ai.github.io/talamus/benchmarks/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
 
 70. **[RE-call](https://github.com/GiulioDER/RE-call)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
-      [[benchmarks](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
+      [[eval](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
       _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
 
 71. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
