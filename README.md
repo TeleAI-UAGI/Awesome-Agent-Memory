@@ -554,7 +554,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 76. **[AI Unified Memory](https://github.com/yaowanxiang/ai-unified-memory)**
       ![Star](https://img.shields.io/github/stars/yaowanxiang/ai-unified-memory.svg?style=social&label=Star)
       [[code](https://github.com/yaowanxiang/ai-unified-memory)]
-      _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, automated synchronization, snapshots, and no third-party dependencies. Ships with a no-code desktop GUI (memory browser, semantic search, scheduling, cross-AI messages, hot memory) packaged for Windows/macOS/Linux._
+      _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, synchronization, snapshots, and a cross-platform desktop GUI; no third-party dependencies._
 
 77. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
