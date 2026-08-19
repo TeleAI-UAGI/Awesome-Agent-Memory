@@ -49,7 +49,7 @@ Grouped by year (newest first). **Bold** the title if reproducible code is publi
 
 - **Same rules for everyone.** Projects affiliated with the maintainers follow exactly the same ranking, format, and style rules as every other entry, and are marked with † in the README.
 - **Stars are a signal, not a verdict.** Star ordering is an objective, CI-checked popularity signal — it is not a quality ranking or an endorsement.
-- **Claims name their source.** When an entry carries performance or benchmark claims, say where they come from: self-reported, paper-reported, or independently verified.
+- **Claims name their source.** When an entry carries performance or benchmark claims, say where they come from: self-reported, paper-reported, or independently verified. Leaderboard placements use the compact form `#N, <Leaderboard> (<track>, YYYY-MM)` — e.g. `#6, Agent Memory Leaderboard (academic textual, 2026-08)` — so the attribution stays short enough to fit the 25-word description limit.
 - **Neutral statuses.** Projects that go inactive or whose claims are credibly disputed move to the Archival section with a neutral status label (Disputed / Inactive / Archived), links to the evidence, and the date the status was last checked — we document, we don't editorialize.
 
 ## Style rules
