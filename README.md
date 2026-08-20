@@ -136,6 +136,8 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
      ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)
      [[code](https://github.com/volcengine/OpenViking)]
      [[docs](https://docs.openviking.ai/)]
+     [[paper1](https://arxiv.org/abs/2605.29640)]
+     [[paper2](https://arxiv.org/abs/2606.16903)]
      [[blog](https://blog.openviking.ai/)]
      _Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write._
 
