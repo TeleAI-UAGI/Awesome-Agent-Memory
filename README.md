@@ -1351,6 +1351,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669)**
+    [[code](https://github.com/yzailab/Large-Discovery-Models)]
+
 - **[SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.14777)**
     [[code](https://github.com/jinyangwu/SEED)]
     [[proj](https://jinyangwu.github.io/seed/)]
