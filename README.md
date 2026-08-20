@@ -135,6 +135,8 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 3. **[OpenViking](https://openviking.ai/)**
      ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)
      [[code](https://github.com/volcengine/OpenViking)]
+     [[docs](https://docs.openviking.ai/)]
+     [[blog](https://blog.openviking.ai/)]
      _Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write._
 
 4. **[Cognee](https://www.cognee.ai/)**
