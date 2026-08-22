@@ -540,7 +540,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 73. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
       ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
       [[code](https://github.com/ArcticFox2029/chamnan)]
-      [[eval](https://github.com/ArcticFox2029/chamnan-corpus)]
+      [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
       _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
 
 74. **[memgres](https://github.com/mozgsml/memgres)**
