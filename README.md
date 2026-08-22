@@ -791,6 +791,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/AML-memory/agent-memory-leaderboard)]
     _Public evaluation platform: participants expose Add/Search APIs and are scored on textual-memory and coding-agent-memory tracks._
 
+- **[Agent Memory Benchmark (AMB)](https://agentmemorybenchmark.ai/)**
+    [[code](https://github.com/vectorize-io/agent-memory-benchmark)]
+    _Open harness and leaderboard scoring memory providers on accuracy, latency, and token cost over six datasets; built by Vectorize, whose Hindsight is among the providers._
+
 - **OmniMemEval**
     [[code](https://github.com/MemTensor/OmniMemEval)]
 
