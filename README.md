@@ -44,6 +44,7 @@
 <details open>
   <summary>📰 <b>In the News</b></summary>
 
+- 📰 [[NVIDIA (2026-08-21)] AVO reaches 100% on ARC-AGI-3, crediting persistent memory across context resets and a supervisor that redirects a stalled agent](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
 - 📰 [[Agent Memory Leaderboard (2026-08-13)] First public results: 136 teams registered and 69 memory systems completed the first text-memory evaluation](https://news.ycombinator.com/item?id=49281370)
 - 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
 - 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
@@ -1430,6 +1431,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents](https://arxiv.org/abs/2605.03675)
 
 - [Neural Garbage Collection: Learning to Forget while Learning to Reason](https://arxiv.org/abs/2604.18002)
+
+- [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)
 
 - [Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation](https://arxiv.org/abs/2603.04688)
 
