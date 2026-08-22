@@ -12,6 +12,9 @@ block: entries in the main list should have >= 100 stars and emerging entries
 hovering around 100 from flip-flopping between sections every week.
 
 Usage: GITHUB_TOKEN=... python3 scripts/check_star_order.py [README.md]
+
+To apply the ordering this script suggests, run its companion fixer:
+GITHUB_TOKEN=... python3 scripts/fix_star_order.py README.md --write
 """
 
 import json
