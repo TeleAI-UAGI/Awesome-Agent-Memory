@@ -80,8 +80,16 @@ def fetch_stars(repo, token):
             "User-Agent": "awesome-agent-memory-star-fix",
         },
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)["stargazers_count"]
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.load(resp)["stargazers_count"]
+    except Exception as e:  # 404 (renamed/deleted repo), rate limit, network
+        sys.exit(
+            f"Could not fetch {repo}: {e}\n"
+            "Sorting needs a star count for every entry — a missing one would sink the\n"
+            "entry to the bottom. Fix the repo path, or move a dead project to the\n"
+            "Archival section, then re-run."
+        )
 
 
 def renumbered(lines):
