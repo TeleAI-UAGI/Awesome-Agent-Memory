@@ -627,7 +627,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 90. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
       ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
-      _Plain-markdown Obsidian vault that doubles as Claude Code memory: a deterministic health-score linter scans for undated entries, duplicates, budget overflow and dead links; a git pre-commit hook refuses mass deletions._
+      _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
 </details>
 
