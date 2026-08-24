@@ -917,7 +917,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[proj](https://rmbench.github.io/)]
 
 - **[According to Me: Long-Term Personalized Referential Memory QA (ATM-Bench)](https://arxiv.org/abs/2603.01990)**
-    [[code](https://github.com/atmbench/atmbench.github.io)]
+    [[code](https://github.com/JingbiaoMei/ATM-Bench)]
     [[proj](https://atmbench.github.io/)]
 
 #### 🗓️ 2025
