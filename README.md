@@ -916,6 +916,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/robotwin-Platform/rmbench)]
     [[proj](https://rmbench.github.io/)]
 
+- **[According to Me: Long-Term Personalized Referential Memory QA (ATM-Bench)](https://arxiv.org/abs/2603.01990)**
+    [[code](https://github.com/atmbench/atmbench.github.io)]
+    [[proj](https://atmbench.github.io/)]
+
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)** †
