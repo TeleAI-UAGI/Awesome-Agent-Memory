@@ -652,7 +652,9 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[blog](https://www.memorylake.ai/en/blogs)]
 
 -  [Supermemory](https://supermemory.ai/)
-   [[partial-code](https://github.com/supermemoryai/supermemory)]
+   [[code](https://github.com/supermemoryai/supermemory)]
+   [[docs](https://supermemory.ai/docs)]
+   _Memory API, hosted or free self-hosted; SDKs, MCP server, and dashboard are MIT, but the memory engine ships only as a prebuilt binary._
 
 -  [Memories.ai](https://memories.ai/)
    [[research](https://memories.ai/research)]
