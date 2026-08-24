@@ -636,7 +636,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
-90. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
+92. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
       ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
       _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
