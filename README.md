@@ -1014,6 +1014,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748)**
+    [[code](https://github.com/zjunlp/LightMem)]
+
 - **[Memory Efficiency and Resource-Rational Encoding in Sentence Processing](https://aclanthology.org/2026.acl-long.1550/)**
     [[code](https://github.com/weijiexu-charlie/resource-rational-encoding)]
 
@@ -1540,6 +1543,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 ### 🧩 Context Engineering & Harness Engineering
 
 #### 🗓️ 2026
+
+- **[TokenPilot: Cache-Efficient Context Management for LLM Agents](https://arxiv.org/abs/2606.17016)**
+    [[code](https://github.com/zjunlp/LightRSI)]
 
 - **[Code as Agent Harness](https://arxiv.org/abs/2605.18747)**
     [[code](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)]
