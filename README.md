@@ -1292,6 +1292,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
     + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
 
+- **[Metis: Memory Foundation Model](https://arxiv.org/abs/2607.26760)**
+    [[code](https://github.com/MemTensor/Metis)]
+    [[model](https://huggingface.co/collections/IAAR-Shanghai/metis)]
+
 - **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)**
     [[code](https://github.com/MindLab-Research/delta-Mem)]
 

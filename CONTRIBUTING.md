@@ -38,7 +38,7 @@ Unnumbered bullet, no star badge, appended to the end of the section:
 
 ### Link labels
 
-Keep the label vocabulary small and say what the link *is*: `code`, `paper`, `docs`, `blog`, `spec`, `data`, `eval`.
+Keep the label vocabulary small and say what the link *is*: `code`, `paper`, `docs`, `blog`, `spec`, `data`, `model`, `eval`.
 
 - **`eval`** — the project's own published evaluation results (self-reported, however reproducible the harness). Use it instead of `benchmark`/`benchmarks`, which reads as a neutral third-party suite. Independent placements belong in the description with a sourced attribution, not in a link label.
 - **No package-registry links.** PyPI, npm, crates, and similar are distribution channels, not primary sources; the `code` link already leads to install instructions.
