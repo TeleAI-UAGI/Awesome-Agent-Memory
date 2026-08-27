@@ -166,18 +166,18 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
      [[code](https://github.com/rohitg00/agentmemory)]
      _Persistent memory for AI coding agents._
 
-8. **[Letta (formerly MemGPT)](https://www.letta.com/)**
+8. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)**
+     ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
+     [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]
+     _Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies._
+
+9. **[Letta (formerly MemGPT)](https://www.letta.com/)**
      ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code](https://github.com/letta-ai/letta)]
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
-
-9. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)**
-     ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
-     [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]
-     _Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies._
 
 10. **[Hindsight](https://hindsight.vectorize.io/)**
      ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
@@ -299,20 +299,20 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
-30. **[PowerMem](https://www.powermem.ai)**
+30. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
+      ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
+      [[code](https://github.com/AlmanacCode/codealmanac)]
+      _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
+
+31. **[PowerMem](https://www.powermem.ai)**
       ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
       [[code](https://github.com/oceanbase/powermem)]
       _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
 
-31. **[Agent QA](https://vostride.com/docs/agent-qa)**
+32. **[Agent QA](https://vostride.com/docs/agent-qa)**
       ![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)
       [[code](https://github.com/vostride/agent-qa)]
       _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
-
-32. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
-      ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
-      [[code](https://github.com/AlmanacCode/codealmanac)]
-      _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
 
 33. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
@@ -525,36 +525,36 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/linxuhao/ActiveMemoryIndex)]
       _Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-71. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
+71. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
+      ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
+      [[code](https://github.com/ArcticFox2029/chamnan)]
+      [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
+      _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
+
+72. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
       [[code](https://github.com/shimo4228/agent-knowledge-cycle)]
       [[paper](https://doi.org/10.5281/zenodo.20578272)]
       _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
-72. **[Talamus](https://ampres-ai.github.io/talamus/)**
+73. **[Talamus](https://ampres-ai.github.io/talamus/)**
       ![Star](https://img.shields.io/github/stars/ampres-ai/talamus.svg?style=social&label=Star)
       [[code](https://github.com/ampres-ai/talamus)]
       [[docs](https://ampres-ai.github.io/talamus/)]
       [[eval](https://ampres-ai.github.io/talamus/benchmarks/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
 
-73. **[RE-call](https://github.com/GiulioDER/RE-call)**
+74. **[RE-call](https://github.com/GiulioDER/RE-call)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
       [[eval](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
       _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
 
-74. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
+75. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
       ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social&label=Star)
       [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
       _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
-
-75. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
-      ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
-      [[code](https://github.com/ArcticFox2029/chamnan)]
-      [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
-      _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
 
 76. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
