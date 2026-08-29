@@ -715,6 +715,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.screenpi.pe)]
    _Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval._
 
+-  [Firekeep](https://firekeep.ai/)
+   [[source-available](https://github.com/kapella-hub/FirekeepHQ)]
+   [[license](https://github.com/kapella-hub/FirekeepHQ/blob/main/LICENSE)]
+   [[docs](https://firekeep.ai/docs.html)]
+   _Self-hosted shared memory, working context, coordination, and evidence for Claude Code, Codex, Kiro, OpenCode, and other MCP clients._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
