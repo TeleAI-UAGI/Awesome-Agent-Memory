@@ -1576,6 +1576,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Recursive Experiential–Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876)** (Recuris)
+    [[code](https://github.com/Gen-Verse/Recuris)]
+
 - **[TokenPilot: Cache-Efficient Context Management for LLM Agents](https://arxiv.org/abs/2606.17016)**
     [[code](https://github.com/zjunlp/LightRSI)]
 
