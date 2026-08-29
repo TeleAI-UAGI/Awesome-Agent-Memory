@@ -652,6 +652,13 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
+94. **[RCLL](https://rcll.ai)**
+      ![Star](https://img.shields.io/github/stars/holetron-lab/fleet-memory.svg?style=social&label=Star)
+      [[code](https://github.com/holetron-lab/fleet-memory)]
+      [[docs](https://rcll.ai/docs/)]
+      [[eval](https://rcll.ai/docs/benchmarks/)]
+      _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
+
 </details>
 
 ### Closed-Source
