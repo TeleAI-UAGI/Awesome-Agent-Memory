@@ -1078,6 +1078,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
+- [Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices](https://arxiv.org/abs/2601.02732) (AMER-RCL)
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
