@@ -304,15 +304,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/AlmanacCode/codealmanac)]
       _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
 
-31. **[PowerMem](https://www.powermem.ai)**
-      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
-      [[code](https://github.com/oceanbase/powermem)]
-      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
-
-32. **[Agent QA](https://vostride.com/docs/agent-qa)**
+31. **[Agent QA](https://vostride.com/docs/agent-qa)**
       ![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)
       [[code](https://github.com/vostride/agent-qa)]
       _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
+
+32. **[PowerMem](https://www.powermem.ai)**
+      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
+      [[code](https://github.com/oceanbase/powermem)]
+      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
 
 33. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
@@ -413,16 +413,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-50. **[Wenlan](https://wenlan.app/)**
+50. **[RetainDB](https://retaindb.com)**
+      ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
+      [[code](https://github.com/RetainDB/RetainDB)]
+      _Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server._
+
+51. **[Wenlan](https://wenlan.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/wenlan)]
       [[docs](https://wenlan.app/docs)]
       _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
-
-51. **[RetainDB](https://retaindb.com)**
-      ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
-      [[code](https://github.com/RetainDB/RetainDB)]
-      _Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server._
 
 52. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
       ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
@@ -430,25 +430,25 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
       _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
 
-53. **[widemem-ai](https://widemem.ai)**
+53. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/belief-context-graph)]
+      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
+
+54. **[widemem-ai](https://widemem.ai)**
       ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
-54. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
+55. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
       ![Star](https://img.shields.io/github/stars/JanYork/llm-wiki-cli.svg?style=social&label=Star)
       [[code](https://github.com/JanYork/llm-wiki-cli)]
       _Agent-operated persistent memory CLI with source-cited Wiki pages, full-text search, document graphs, and CodeGraph indexes for cross-session project recall._
 
-55. **[memclaw (Felo)](https://memclaw.me)**
+56. **[memclaw (Felo)](https://memclaw.me)**
       ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social&label=Star)
       [[code](https://github.com/Felo-Inc/memclaw)]
       _Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration._
-
-56. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/belief-context-graph)]
-      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
 57. **[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)**
       ![Star](https://img.shields.io/github/stars/Darwin-Agent/Mi-Memory.svg?style=social&label=Star)
@@ -462,16 +462,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/knaisoma/data-olympus)]
       _Governed project memory for AI coding agents: agents propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks._
 
-59. **[ZenBrain](https://zensation.ai/en)**
+59. **[Mnemoverse](https://mnemoverse.com)**
+      ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
+      [[code](https://github.com/mnemoverse/mcp-memory-server)]
+      _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
+
+60. **[ZenBrain](https://zensation.ai/en)**
       ![Star](https://img.shields.io/github/stars/zensation-ai/zenbrain.svg?style=social&label=Star)
       [[code](https://github.com/zensation-ai/zenbrain)]
       [[paper](https://arxiv.org/abs/2604.23878)]
       _Neuroscience-inspired 7-layer memory architecture for autonomous agents in zero-dependency TypeScript, with FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation._
-
-60. **[Mnemoverse](https://mnemoverse.com)**
-      ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
-      [[code](https://github.com/mnemoverse/mcp-memory-server)]
-      _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
 
 61. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
       ![Star](https://img.shields.io/github/stars/hjqcan/GoodMemory.svg?style=social&label=Star)
@@ -572,30 +572,30 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-79. **[memgres](https://github.com/mozgsml/memgres)**
+79. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
+      ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
+      [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
+      _Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+80. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-80. **[kgai](https://kgai.dev)**
+81. **[kgai](https://kgai.dev)**
       ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
       [[code](https://github.com/kgaidev/kgai)]
       _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
-81. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
+82. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
       ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
       [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
       _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-82. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
+83. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
       [[code](https://github.com/FBISiri/engram)]
       _Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces._
-
-83. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
-      ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
-      [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
-      _Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08)._
 
 84. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
       ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
@@ -652,7 +652,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
-94. **[RCLL](https://rcll.ai)**
+95. **[RCLL](https://rcll.ai)**
       ![Star](https://img.shields.io/github/stars/holetron-lab/fleet-memory.svg?style=social&label=Star)
       [[code](https://github.com/holetron-lab/fleet-memory)]
       [[docs](https://rcll.ai/docs/)]
