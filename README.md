@@ -1450,6 +1450,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473)**
     [[code](https://github.com/InternScience/MLEvolve)]
 
+- **[EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108)**
+    [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/EvoTrainer)]
+
 - **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)**
     [[code](https://github.com/microsoft/SkillOpt)]
 
