@@ -1023,6 +1023,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance](https://arxiv.org/abs/2606.14571)
 
+- **[agent-memory-bench](https://giulioder.github.io/agent-memory-bench/)**
+    [[code](https://github.com/GiulioDER/agent-memory-bench)]
+    [[data](https://huggingface.co/datasets/Gde05/agent-memory-bench-corpus)]
+    _Preregistered harness scoring memory layers for coding agents by executing task checkers rather than judging text; the author's own RE-call is among the arms._
+
 #### 🗓️ 2025
 
 - **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
