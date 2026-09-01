@@ -885,7 +885,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)**
     (The PersonaMem and ImplicitPersona Paper)
     [[code](https://github.com/bowen-upenn/PersonaMem)]
-    [[data11](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
+    [[data1](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
     [[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
 
 - **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257)**
@@ -1660,7 +1660,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Agent Memory Guard](https://owasp.org/www-project-agent-memory-guard/)**
     [[code](https://github.com/OWASP/www-project-agent-memory-guard)]
-    [[pypi](https://pypi.org/project/agent-memory-guard/)]
     _OWASP runtime defense layer that screens agent memory writes for poisoning: multi-layer validation with semantic anomaly detection, entropy scoring, and provenance verification._
 
 - [From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents](https://arxiv.org/abs/2606.04329)
