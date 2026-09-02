@@ -750,10 +750,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 -  [Memary](https://kingjulio8238.github.io/memarydocs/) ❄️ Inactive (no significant development activity; last checked 2026-07)
    [[code](https://github.com/kingjulio8238/memary)]
 
--  AI Unified Memory ❄️ Inactive (repository and owner account no longer resolve on GitHub, no successor located, no web archive snapshot; last checked 2026-08)
-   [code: `github.com/yaowanxiang/ai-unified-memory` — no longer resolves]
-   _Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, synchronization, snapshots, and a cross-platform desktop GUI._
-
 ---
 
 ## 📖 Tutorials
