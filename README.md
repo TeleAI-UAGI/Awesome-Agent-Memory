@@ -314,17 +314,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/vostride/agent-qa)]
       _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
 
-33. **[projectmem](https://projectmem.dev)**
+33. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
+      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
+      [[code](https://github.com/Shadow-Weave/HMS)]
+      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
+
+34. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
       [[code](https://github.com/riponcm/projectmem)]
       [[docs](https://projectmem.dev/guide)]
       [[paper](https://arxiv.org/abs/2606.12329)]
       _Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
-
-34. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
-      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
-      [[code](https://github.com/Shadow-Weave/HMS)]
-      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
 
 35. **[deja](https://github.com/vshulcz/deja-vu)**
       ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
@@ -412,23 +412,23 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Perseus-Computing-LLC/mimir)]
       _MCP-native persistent memory for agents as a single Rust binary — embedded SQLite with FTS5 + vector hybrid search, AES-256-GCM encryption at rest, fully local._
 
-50. **[Synap](https://maximem.ai)**
+50. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
+      ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
+      [[code](https://github.com/JingxuanC/causal-memory)]
+      [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
+      _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
+
+51. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-51. **[Wenlan](https://wenlan.app/)**
+52. **[Wenlan](https://wenlan.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/wenlan)]
       [[docs](https://wenlan.app/docs)]
       _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
-
-52. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
-      ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
-      [[code](https://github.com/JingxuanC/causal-memory)]
-      [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
-      _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
 
 53. **[RetainDB](https://retaindb.com)**
       ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
