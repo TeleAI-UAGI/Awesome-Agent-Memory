@@ -36,7 +36,7 @@
   - Open-source products are ordered by GitHub star count — an objective, CI-checked popularity signal, not a quality ranking or an endorsement. Products with fewer than 100 stars sit in a collapsed **Emerging projects** section and graduate into the main list once they cross that threshold.
   - **Bold** marks resources with reproducible code publicly available.
   - Descriptions are factual, not promotional (see the [contributing guide](CONTRIBUTING.md)).
-  - This list is maintained by [Bloo-Mind AI](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainers are marked with † and follow exactly the same ranking, format, and style rules as every other entry.
+  - This list is maintained by [Bloo-Mind AI](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainers are marked with † and follow the same ranking, format, and style rules as every other entry. One convention applies to all entries regardless of affiliation: an API-compatible drop-in replacement for a listed product is nested under that product as an unranked sub-item rather than given its own star-ranked position.
   - Projects that are inactive, archived, or whose claims are disputed move to the [Archival](#archival) subsection with a neutral status label, links to the evidence, and the date the status was last checked.
 
 </details>
@@ -110,7 +110,7 @@ _🤝 Contributions welcome! Feel free to open an issue or submit a pull request
 
 ### Open-Source
 
-_Ordered by the number of GitHub stars. Products with fewer than 100 stars continue the list inside the collapsed **Emerging projects** section below — they graduate into the main list once they cross that threshold._
+_Ordered by the number of GitHub stars. Products with fewer than 100 stars continue the list inside the collapsed **Emerging projects** section below — they graduate into the main list once they cross that threshold. An API-compatible drop-in replacement for a listed product appears as an unranked sub-item under that product._
 
 1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
      ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
@@ -131,7 +131,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
         [[code](https://github.com/TeleAI-UAGI/TeleMem)]
         [[docs](https://teleai-uagi.github.io/telemem/)]
         [[paper](https://arxiv.org/abs/2601.06037)]
-        _API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as a sub-item of Mem0 rather than ranked by stars. Maintainer-affiliated._
+        _API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as an unranked sub-item of Mem0 per the drop-in replacement convention. Maintainer-affiliated._
 
 3. **[OpenViking](https://openviking.ai/)**
      ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)
@@ -314,17 +314,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/vostride/agent-qa)]
       _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
 
-33. **[projectmem](https://projectmem.dev)**
+33. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
+      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
+      [[code](https://github.com/Shadow-Weave/HMS)]
+      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
+
+34. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
       [[code](https://github.com/riponcm/projectmem)]
       [[docs](https://projectmem.dev/guide)]
       [[paper](https://arxiv.org/abs/2606.12329)]
       _Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
-
-34. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
-      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
-      [[code](https://github.com/Shadow-Weave/HMS)]
-      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
 
 35. **[deja](https://github.com/vshulcz/deja-vu)**
       ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
@@ -412,23 +412,23 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Perseus-Computing-LLC/mimir)]
       _MCP-native persistent memory for agents as a single Rust binary — embedded SQLite with FTS5 + vector hybrid search, AES-256-GCM encryption at rest, fully local._
 
-50. **[Synap](https://maximem.ai)**
+50. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
+      ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
+      [[code](https://github.com/JingxuanC/causal-memory)]
+      [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
+      _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
+
+51. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-51. **[Wenlan](https://wenlan.app/)**
+52. **[Wenlan](https://wenlan.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/wenlan)]
       [[docs](https://wenlan.app/docs)]
       _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
-
-52. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
-      ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
-      [[code](https://github.com/JingxuanC/causal-memory)]
-      [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
-      _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
 
 53. **[RetainDB](https://retaindb.com)**
       ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
