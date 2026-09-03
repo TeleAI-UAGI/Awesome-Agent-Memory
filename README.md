@@ -36,7 +36,7 @@
   - Open-source products are ordered by GitHub star count — an objective, CI-checked popularity signal, not a quality ranking or an endorsement. Products with fewer than 100 stars sit in a collapsed **Emerging projects** section and graduate into the main list once they cross that threshold.
   - **Bold** marks resources with reproducible code publicly available.
   - Descriptions are factual, not promotional (see the [contributing guide](CONTRIBUTING.md)).
-  - This list is maintained by [Bloo-Mind AI](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainers are marked with † and follow exactly the same ranking, format, and style rules as every other entry.
+  - This list is maintained by [Bloo-Mind AI](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainers are marked with † and follow the same ranking, format, and style rules as every other entry. One convention applies to all entries regardless of affiliation: an API-compatible drop-in replacement for a listed product is nested under that product as an unranked sub-item rather than given its own star-ranked position.
   - Projects that are inactive, archived, or whose claims are disputed move to the [Archival](#archival) subsection with a neutral status label, links to the evidence, and the date the status was last checked.
 
 </details>
@@ -110,7 +110,7 @@ _🤝 Contributions welcome! Feel free to open an issue or submit a pull request
 
 ### Open-Source
 
-_Ordered by the number of GitHub stars. Products with fewer than 100 stars continue the list inside the collapsed **Emerging projects** section below — they graduate into the main list once they cross that threshold._
+_Ordered by the number of GitHub stars. Products with fewer than 100 stars continue the list inside the collapsed **Emerging projects** section below — they graduate into the main list once they cross that threshold. An API-compatible drop-in replacement for a listed product appears as an unranked sub-item under that product._
 
 1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
      ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
@@ -131,7 +131,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
         [[code](https://github.com/TeleAI-UAGI/TeleMem)]
         [[docs](https://teleai-uagi.github.io/telemem/)]
         [[paper](https://arxiv.org/abs/2601.06037)]
-        _API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as a sub-item of Mem0 rather than ranked by stars. Maintainer-affiliated._
+        _API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as an unranked sub-item of Mem0 per the drop-in replacement convention. Maintainer-affiliated._
 
 3. **[OpenViking](https://openviking.ai/)**
      ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)

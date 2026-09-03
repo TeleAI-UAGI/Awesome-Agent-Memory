@@ -11,6 +11,12 @@ block: entries in the main list should have >= 100 stars and emerging entries
 < 100. A grace band (main >= 90 passes, emerging < 110 passes) stops projects
 hovering around 100 from flip-flopping between sections every week.
 
+Indented sub-items (`    - **[Name](...)**`, e.g. a drop-in replacement nested
+under the product it replaces) are unranked by convention: they are parsed and
+listed under their parent but excluded from both checks. A star badge that no
+numbered entry or sub-item claims is reported as an error so nothing can be
+skipped silently.
+
 Usage: GITHUB_TOKEN=... python3 scripts/check_star_order.py [README.md]
 
 To apply the ordering this script suggests, run its companion fixer:
@@ -25,6 +31,7 @@ import urllib.request
 
 BADGE_RE = re.compile(r"img\.shields\.io/github/stars/([\w.-]+/[\w.-]+)\.svg")
 ENTRY_RE = re.compile(r"^(\d+)\.\s+\*\*\[([^\]]+)\]")
+NESTED_RE = re.compile(r"^\s+-\s+\*\*\[([^\]]+)\]")
 SECTION_START = "### Open-Source"
 SECTION_END = "### Closed-Source"
 EMERGING_MARKER = "Emerging projects"
@@ -33,15 +40,23 @@ GRACE = 10  # main entries pass at >= THRESHOLD - GRACE, emerging at < THRESHOLD
 
 
 def parse_entries(readme_path):
-    """Return [(position, name, owner/repo, emerging)] for numbered open-source entries."""
+    """Return ([entries], [orphan badge lines]) for the open-source section.
+
+    Each entry is (position, name, owner/repo, emerging, parent): ranked entries
+    have parent=None; an indented sub-item carries its parent's position and the
+    parent's name. Orphans are (line number, owner/repo) for badges that no entry
+    line precedes.
+    """
     with open(readme_path, encoding="utf-8") as f:
         lines = f.readlines()
 
     entries = []
+    orphans = []
     in_section = False
     emerging = False
-    current = None  # (position, name) awaiting its badge
-    for line in lines:
+    current = None  # (position, name, parent) awaiting its badge
+    last_ranked = None  # (position, name) of the most recent numbered entry
+    for lineno, line in enumerate(lines, start=1):
         if SECTION_START in line:
             in_section = True
             continue
@@ -53,12 +68,20 @@ def parse_entries(readme_path):
             emerging = True
         m = ENTRY_RE.match(line)
         if m:
-            current = (int(m.group(1)), m.group(2))
+            last_ranked = (int(m.group(1)), m.group(2))
+            current = (*last_ranked, None)
+        else:
+            n = NESTED_RE.match(line)
+            if n and last_ranked:
+                current = (last_ranked[0], n.group(1), last_ranked[1])
         b = BADGE_RE.search(line)
-        if b and current:
-            entries.append((current[0], current[1], b.group(1), emerging))
-            current = None
-    return entries
+        if b:
+            if current:
+                entries.append((current[0], current[1], b.group(1), emerging, current[2]))
+                current = None
+            else:
+                orphans.append((lineno, b.group(1)))
+    return entries, orphans
 
 
 def fetch_stars(repo, token):
@@ -84,26 +107,37 @@ def main():
     if not token:
         sys.exit("GITHUB_TOKEN is required (rate limits)")
 
-    entries = parse_entries(readme)
+    entries, orphans = parse_entries(readme)
     if not entries:
         sys.exit("No open-source entries parsed — README format may have changed")
 
     starred = []
-    for pos, name, repo, emerging in entries:
+    for pos, name, repo, emerging, parent in entries:
         stars = fetch_stars(repo, token)
         if stars is not None:
-            starred.append((pos, name, repo, stars, emerging))
+            starred.append((pos, name, repo, stars, emerging, parent))
 
     print(f"{'#':>3}  {'stars':>7}  name")
-    for pos, name, repo, stars, emerging in starred:
+    for pos, name, repo, stars, emerging, parent in starred:
         tag = "  [emerging]" if emerging else ""
-        print(f"{pos:>3}  {stars:>7}  {name} ({repo}){tag}")
+        if parent:
+            print(f"{'':>3}  {stars:>7}    └ {name} ({repo})  [sub-item of {parent}, unranked]{tag}")
+        else:
+            print(f"{pos:>3}  {stars:>7}  {name} ({repo}){tag}")
 
     failed = False
 
+    if orphans:
+        failed = True
+        print("\nStar badges not attached to any recognised entry line (checker would skip them):")
+        for lineno, repo in orphans:
+            print(f"  line {lineno}: {repo}")
+
+    ranked = [e for e in starred if e[5] is None]
+
     inversions = [
         (a, b)
-        for a, b in zip(starred, starred[1:])
+        for a, b in zip(ranked, ranked[1:])
         if a[3] < b[3]
     ]
     if inversions:
@@ -112,27 +146,29 @@ def main():
         for a, b in inversions:
             print(f"  #{b[0]} {b[1]} ({b[3]} stars) should rank above #{a[0]} {a[1]} ({a[3]} stars)")
         print("\nSuggested order:")
-        for i, (_, name, repo, stars, _e) in enumerate(
-            sorted(starred, key=lambda e: -e[3]), start=1
+        for i, (_, name, repo, stars, _e, _p) in enumerate(
+            sorted(ranked, key=lambda e: -e[3]), start=1
         ):
             print(f"{i:>3}. {name} ({repo}, {stars} stars)")
 
     crossings = [
-        e for e in starred
+        e for e in ranked
         if (not e[4] and e[3] < THRESHOLD - GRACE)
         or (e[4] and e[3] >= THRESHOLD + GRACE)
     ]
     if crossings:
         failed = True
         print(f"\nWrong side of the {THRESHOLD}-star boundary (±{GRACE} grace):")
-        for pos, name, repo, stars, emerging in crossings:
+        for pos, name, repo, stars, emerging, _parent in crossings:
             direction = "move down into Emerging projects" if not emerging else "graduate into the main list"
             print(f"  #{pos} {name} ({stars} stars) should {direction}")
 
     if failed:
         sys.exit(1)
 
-    print("\nOK: list is ordered by star count and the emerging boundary holds.")
+    nested = len(starred) - len(ranked)
+    note = f" ({nested} unranked sub-item{'s' if nested != 1 else ''} listed, not ranked)" if nested else ""
+    print(f"\nOK: list is ordered by star count and the emerging boundary holds{note}.")
 
 
 if __name__ == "__main__":
