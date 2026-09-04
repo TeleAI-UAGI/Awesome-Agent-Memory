@@ -734,6 +734,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://firekeep.ai/docs.html)]
    _Self-hosted shared memory, working context, coordination, and evidence for Claude Code, Codex, Kiro, OpenCode, and other MCP clients._
 
+-  [ORANO](https://oranoai.com/)
+   [[docs](https://oranoai.com/mcp)]
+   [[blog](https://oranoai.com/blog/personal-mcp-context-ai-agents.html)]
+   _Consumer app that distills saved Reels, videos, articles, and PDFs into projects and memory facts that the user's agent reads over a read-only MCP server._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
