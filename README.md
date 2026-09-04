@@ -375,31 +375,31 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
 
-44. **[Memov](https://www.memov.ai/)**
-      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
-      [[code](https://github.com/memovai/memov)]
-      _Git-based, traceable memory layer for Claude Code._
-
-45. **[Remnic](https://remnic.ai/)**
+44. **[Remnic](https://remnic.ai/)**
       ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social&label=Star)
       [[code](https://github.com/joshuaswarren/remnic)]
       [[docs](https://remnic.ai/guides/)]
       [[paper](https://doi.org/10.5281/zenodo.21922631)]
       _Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark._
 
+45. **[Memov](https://www.memov.ai/)**
+      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+      [[code](https://github.com/memovai/memov)]
+      _Git-based, traceable memory layer for Claude Code._
+
 46. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
       ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
-<details>
-
-  <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
-
 47. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
       ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
       [[code](https://github.com/bigai-nlco/belief-context-graph)]
       _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
+
+<details>
+
+  <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
 48. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
@@ -473,21 +473,21 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/mnemoverse/mcp-memory-server)]
       _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
 
-61. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
+61. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
+      ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
+      [[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)]
+      _Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+62. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
       ![Star](https://img.shields.io/github/stars/hjqcan/GoodMemory.svg?style=social&label=Star)
       [[code](https://github.com/hjqcan/GoodMemory)]
       [[docs](https://github.com/hjqcan/GoodMemory#quickstart-codex-or-claude-code-memory)]
       _Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback._
 
-62. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
+63. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
       ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
       [[code](https://github.com/Das-rebel/a3m-router)]
       _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
-
-63. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
-      ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
-      [[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)]
-      _Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08)._
 
 64. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
       ![Star](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory.svg?style=social&label=Star)
@@ -521,31 +521,31 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[paper](https://doi.org/10.5281/zenodo.20949890)]
       _Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation._
 
-70. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+70. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
+      ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social&label=Star)
+      [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
+      _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
+
+71. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-71. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
+72. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
       ![Star](https://img.shields.io/github/stars/DanceNitra/inspeximus.svg?style=social&label=Star)
       [[code](https://github.com/DanceNitra/inspeximus)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
 
-72. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
+73. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
       ![Star](https://img.shields.io/github/stars/linxuhao/ActiveMemoryIndex.svg?style=social&label=Star)
       [[code](https://github.com/linxuhao/ActiveMemoryIndex)]
       _Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-73. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
+74. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
       ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
       [[code](https://github.com/ArcticFox2029/chamnan)]
       [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
       _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
-
-74. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)**
-      ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social&label=Star)
-      [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
-      _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
 75. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
