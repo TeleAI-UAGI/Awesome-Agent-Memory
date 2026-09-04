@@ -696,6 +696,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [Mem 2.0](https://get.mem.ai/)
    [[blog](https://get.mem.ai/blog)]
+-  [ORANO Memory](https://oranoai.com/mcp)
+   [[blog](https://oranoai.com/blog/personal-mcp-context-ai-agents.html)]
+   _Personal memory layer for consumer AI agents: the user's saved content (Reels, videos, articles, PDFs) is distilled into projects, memory facts, and embeddings that their own agent reads through a personal read-only MCP server._
+
 
 -  [M-Flow](https://m-flow.ai/)
 
