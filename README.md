@@ -1203,6 +1203,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://arxiv.org/abs/2608.26005)**
+    [[code](https://github.com/xzf-thu/VoiceMem)]
+    [[proj](https://xzf-thu.github.io/VoiceMem/)]
+
 - **[MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management](https://arxiv.org/abs/2606.19926)**
     [[code](https://github.com/kwai/MemGUI-Agent)]
     [[proj](https://memgui-agent.github.io/)]
