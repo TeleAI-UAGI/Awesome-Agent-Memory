@@ -1488,6 +1488,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
     [[code](https://github.com/Agent-on-the-Fly/Memento)]
 
+- **[Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning](https://arxiv.org/abs/2603.00903)** (FAME)
+    [[code](https://github.com/datake/FAME)]
+
 - **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474)**
     [[code](https://github.com/ViktorAxelsen/MemSkill)]
 
