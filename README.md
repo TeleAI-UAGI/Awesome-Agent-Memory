@@ -1283,6 +1283,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation](https://arxiv.org/abs/2608.28460)**
+    [[code](https://github.com/Yixuan-Ding-ZJU/LayerRecall)]
+    [[proj](https://yixuan-ding-zju.github.io/LayerRecall_Web/)]
+
 - **[MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](https://arxiv.org/abs/2606.17162)**
     [[code](https://github.com/huohua325/Memslides)]
     [[proj](https://memslides.github.io/)]
