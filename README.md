@@ -1721,6 +1721,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [ICLR 2026](https://iclr.cc/Conferences/2026): [Workshop on Memory for LLM-Based Agentic Systems (MemAgents)](https://sites.google.com/view/memagent-iclr26/)
   [[schedule](https://sites.google.com/view/memagent-iclr26/schedule)]
+- [CoRL 2026](https://2026.corl.org/): [Workshop on Memory for Robot Foundation Models](https://corl2026-memory.github.io/)
+  [[schedule](https://corl2026-memory.github.io/#schedule)]
 
 #### 🗓️ 2025
 
