@@ -665,6 +665,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://rcll.ai/docs/benchmarks/)]
       _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
 
+97. **[myc](https://aistastudio.github.io/myc/)**
+      ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
+      [[code](https://github.com/aistastudio/myc)]
+      [[docs](https://aistastudio.github.io/myc/)]
+      _Local task-and-memory layer for coding agents: oplog of decisions with hybrid search, session/repo-scoped recall, PreCompact hook that saves the episode before context compaction; Bun + SQLite, no API key._
+
 </details>
 
 ### Closed-Source
