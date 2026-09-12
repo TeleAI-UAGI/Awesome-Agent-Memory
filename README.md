@@ -719,6 +719,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[partial-code](https://github.com/maxbaluev/accreted-intelligence)]
    _Local-first MCP Work Model for coding agents that retrieves scored memory, records actions, and credits real outcomes; engine is a closed-source binary._
 
+-  [ContextStream](https://contextstream.io)
+   [[docs](https://contextstream.io)]
+   [[code](https://github.com/contextstream/mcp-server)]
+   _Shared project context MCP for Cursor, Claude Code, Codex, and Grok._
+
 -  [Agentage Memory](https://memory.agentage.io)
    _Remote MCP memory server (OAuth 2.1 + PKCE + DCR) giving Claude, Cursor, and ChatGPT one shared markdown memory mirrored locally as files you own._
 
