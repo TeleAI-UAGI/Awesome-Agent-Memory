@@ -112,11 +112,12 @@ _🤝 Contributions welcome! Feel free to open an issue or submit a pull request
 
 _Ordered by the number of GitHub stars. Products with fewer than 100 stars continue the list inside the collapsed **Emerging projects** section below — they graduate into the main list once they cross that threshold. An API-compatible drop-in replacement for a listed product appears as an unranked sub-item under that product._
 
-1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
+1. **[Claude-Mem](https://cmem.ai/)**
      ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
      [[code](https://github.com/thedotmack/claude-mem)]
      [[docs](https://docs.claude-mem.ai/introduction)]
-     _Session capture and compression that re-injects past activity into future sessions across coding agents._
+     [[blog](https://cmem.ai/blog)]
+     _Hook-based session capture compressed into searchable observations and re-injected into later sessions across Claude Code, Codex, Cursor, OpenClaw and other hosts; optional hosted cloud sync._
 
 2. **[Mem0](https://mem0.ai/)**
      ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
