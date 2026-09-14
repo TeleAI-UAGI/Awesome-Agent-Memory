@@ -671,6 +671,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://rcll.ai/docs/benchmarks/)]
       _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
 
+98. **[notebook.py](https://minjipark.vercel.app/)**
+      ![Star](https://img.shields.io/github/stars/minjimindypark/llmcompressor.svg?style=social&label=Star)
+      [[code](https://github.com/minjimindypark/llmcompressor)]
+      _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
+
 </details>
 
 ### Closed-Source
