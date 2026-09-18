@@ -677,6 +677,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
+
+99. **[Lockstep](https://getlockstep.dev)**
+      ![Star](https://img.shields.io/github/stars/lockstep-team-agent/lockstep.svg?style=social&label=Star)
+      [[code](https://github.com/lockstep-team-agent/lockstep)]
+      _Shared decision memory that briefs every MCP coding agent on current team decisions before it acts._
+
 </details>
 
 ### Closed-Source
