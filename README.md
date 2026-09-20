@@ -304,28 +304,28 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/AlmanacCode/codealmanac)]
       _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
 
-31. **[Agent QA](https://vostride.com/docs/agent-qa)**
-      ![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)
-      [[code](https://github.com/vostride/agent-qa)]
-      _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
-
-32. **[deja](https://github.com/vshulcz/deja-vu)**
+31. **[deja](https://github.com/vshulcz/deja-vu)**
       ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
       [[code](https://github.com/vshulcz/deja-vu)]
       _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
 
-33. **[projectmem](https://projectmem.dev)**
+32. **[Agent QA](https://vostride.com/docs/agent-qa)**
+      ![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)
+      [[code](https://github.com/vostride/agent-qa)]
+      _Open-source QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests._
+
+33. **[Puppyone](https://www.puppyone.ai)**
+      ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+      [[code](https://github.com/puppyone-ai/puppyone)]
+      [[docs](https://www.puppyone.ai/doc)]
+      _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+34. **[projectmem](https://projectmem.dev)**
       ![Star](https://img.shields.io/github/stars/riponcm/projectmem.svg?style=social&label=Star)
       [[code](https://github.com/riponcm/projectmem)]
       [[docs](https://projectmem.dev/guide)]
       [[paper](https://arxiv.org/abs/2606.12329)]
       _Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
-
-34. **[Puppyone](https://www.puppyone.ai)**
-      ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
-      [[code](https://github.com/puppyone-ai/puppyone)]
-      [[docs](https://www.puppyone.ai/doc)]
-      _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
 
 35. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
       ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
@@ -415,17 +415,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
       _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
 
-50. **[Wenlan](https://wenlan.app/)**
-      ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
-      [[code](https://github.com/7xuanlu/wenlan)]
-      [[docs](https://wenlan.app/docs)]
-      _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
-
-51. **[Synap](https://maximem.ai)**
+50. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
+
+51. **[Wenlan](https://wenlan.app/)**
+      ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
+      [[code](https://github.com/7xuanlu/wenlan)]
+      [[docs](https://wenlan.app/docs)]
+      _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
 
 52. **[RetainDB](https://retaindb.com)**
       ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
@@ -512,21 +512,21 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://aistastudio.github.io/myc/)]
       _Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite._
 
-68. **[Lint-AI](https://github.com/RooAGI/Lint-AI)**
+68. **[AtMem](https://github.com/aetna000/atmem)**
+      ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social&label=Star)
+      [[code](https://github.com/aetna000/atmem)]
+      _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
+
+69. **[Lint-AI](https://github.com/RooAGI/Lint-AI)**
       ![Star](https://img.shields.io/github/stars/RooAGI/Lint-AI.svg?style=social&label=Star)
       [[code](https://github.com/RooAGI/Lint-AI)]
       _Agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions._
 
-69. **[Lians agent memory](https://www.lians.ai/)**
+70. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
       [[code](https://github.com/Lians-ai/Lians)]
       [[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
-
-70. **[AtMem](https://github.com/aetna000/atmem)**
-      ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social&label=Star)
-      [[code](https://github.com/aetna000/atmem)]
-      _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
 
 71. **[Lockstep](https://www.getlockstep.dev)**
       ![Star](https://img.shields.io/github/stars/lockstep-team-agent/lockstep.svg?style=social&label=Star)
