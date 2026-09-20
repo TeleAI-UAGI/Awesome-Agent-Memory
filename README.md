@@ -348,10 +348,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/MaxFreedomPollard/Compartment)]
       _Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log._
 
-39. **[MemClaw (Caura)](https://memclaw.net/)**
-      ![Star](https://img.shields.io/github/stars/caura-ai/caura-memclaw.svg?style=social&label=Star)
-      [[code](https://github.com/caura-ai/caura-memclaw)]
-      [[blog](https://memclaw.net/blog)]
+39. **[Caura (formerly MemClaw)](https://caura.ai)**
+      ![Star](https://img.shields.io/github/stars/caura-ai/caura.svg?style=social&label=Star)
+      [[code](https://github.com/caura-ai/caura)]
+      [[blog](https://caura.ai/blog)]
       _Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning._
 
 40. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)**
