@@ -376,19 +376,25 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
 
-44. **[Remnic](https://remnic.ai/)**
+44. **[Belief Context Graph](https://bigai-nlco.github.io/bcg/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/bcg.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/bcg)]
+      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
+      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
+
+45. **[Remnic](https://remnic.ai/)**
       ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social&label=Star)
       [[code](https://github.com/joshuaswarren/remnic)]
       [[docs](https://remnic.ai/guides/)]
       [[paper](https://doi.org/10.5281/zenodo.21922631)]
       _Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark._
 
-45. **[Memov](https://www.memov.ai/)**
+46. **[Memov](https://www.memov.ai/)**
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-46. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
+47. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
       ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
@@ -397,108 +403,103 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
   <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
-47. **[taOSmd](https://github.com/jaylfc/taosmd)**
+48. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
       [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
       _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
-48. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
+49. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
       ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
       [[code](https://github.com/JingxuanC/causal-memory)]
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
       _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
 
-49. **[Wenlan](https://wenlan.app/)**
+50. **[Wenlan](https://wenlan.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/wenlan)]
       [[docs](https://wenlan.app/docs)]
       _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
 
-50. **[Synap](https://maximem.ai)**
+51. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-51. **[RetainDB](https://retaindb.com)**
+52. **[RetainDB](https://retaindb.com)**
       ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social&label=Star)
       [[code](https://github.com/RetainDB/RetainDB)]
       _Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server._
 
-52. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
+53. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
       ![Star](https://img.shields.io/github/stars/JanYork/llm-wiki-cli.svg?style=social&label=Star)
       [[code](https://github.com/JanYork/llm-wiki-cli)]
       _Agent-operated persistent memory CLI with source-cited Wiki pages, full-text search, document graphs, and CodeGraph indexes for cross-session project recall._
 
-53. **[widemem-ai](https://widemem.ai)**
+54. **[widemem-ai](https://widemem.ai)**
       ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
-54. **[memclaw (Felo)](https://memclaw.me)**
+55. **[memclaw (Felo)](https://memclaw.me)**
       ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social&label=Star)
       [[code](https://github.com/Felo-Inc/memclaw)]
       _Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration._
 
-55. **[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)**
+56. **[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)**
       ![Star](https://img.shields.io/github/stars/Darwin-Agent/Mi-Memory.svg?style=social&label=Star)
       [[code](https://github.com/Darwin-Agent/Mi-Memory)]
       [[docs](https://darwin-agent.github.io/Mi-Memory/)]
       [[paper](https://arxiv.org/abs/2607.18975)]
       _Lifecycle memory framework for personal assistant agents from Xiaomi's Darwin Agent team; multi-source user state with provenance, editable correction and forgetting, device-adaptive deployment._
 
-56. **[Data Olympus](https://github.com/knaisoma/data-olympus)**
+57. **[Data Olympus](https://github.com/knaisoma/data-olympus)**
       ![Star](https://img.shields.io/github/stars/knaisoma/data-olympus.svg?style=social&label=Star)
       [[code](https://github.com/knaisoma/data-olympus)]
       _Governed project memory for AI coding agents: agents propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks._
 
-57. **[ZenBrain](https://zensation.ai/en)**
+58. **[ZenBrain](https://zensation.ai/en)**
       ![Star](https://img.shields.io/github/stars/zensation-ai/zenbrain.svg?style=social&label=Star)
       [[code](https://github.com/zensation-ai/zenbrain)]
       [[paper](https://arxiv.org/abs/2604.23878)]
       _Neuroscience-inspired 7-layer memory architecture for autonomous agents in zero-dependency TypeScript, with FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation._
 
-58. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
+59. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/fidelis.svg?style=social&label=Star)
       [[code](https://github.com/hermes-labs-ai/fidelis)]
       _Local-first memory for coding agents: hybrid BM25/dense/RRF retrieval returns original passages verbatim through MCP, with no LLM in the default retrieval path._
 
-59. **[Mnemoverse](https://mnemoverse.com)**
+60. **[Mnemoverse](https://mnemoverse.com)**
       ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
       [[code](https://github.com/mnemoverse/mcp-memory-server)]
       _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
 
-60. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
+61. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
       ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
       [[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)]
       _Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-61. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
+62. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
       ![Star](https://img.shields.io/github/stars/hjqcan/GoodMemory.svg?style=social&label=Star)
       [[code](https://github.com/hjqcan/GoodMemory)]
       [[docs](https://github.com/hjqcan/GoodMemory#quickstart-codex-or-claude-code-memory)]
       _Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback._
 
-62. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
+63. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
       ![Star](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory.svg?style=social&label=Star)
       [[code](https://github.com/TerminallyLazy/Tree-Ring-Memory)]
       _Local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, audit, forgetting, consolidation, and Ratatui TUI._
 
-63. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
+64. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
       ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
       [[code](https://github.com/Das-rebel/a3m-router)]
       _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
 
-64. **[ReFind](https://github.com/imlrz/ReFind)**
+65. **[ReFind](https://github.com/imlrz/ReFind)**
       ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
       [[code](https://github.com/imlrz/ReFind)]
       _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
-
-65. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/belief-context-graph)]
-      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
 66. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
