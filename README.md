@@ -403,17 +403,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
   <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
-48. **[taOSmd](https://github.com/jaylfc/taosmd)**
-      ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
-      [[code](https://github.com/jaylfc/taosmd)]
-      [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
-      _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
-
-49. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
+48. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
       ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
       [[code](https://github.com/JingxuanC/causal-memory)]
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
       _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
+
+49. **[taOSmd](https://github.com/jaylfc/taosmd)**
+      ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
+      [[code](https://github.com/jaylfc/taosmd)]
+      [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
+      _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
 50. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
