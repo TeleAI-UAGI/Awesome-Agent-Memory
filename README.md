@@ -783,6 +783,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://contextstream.io/benchmarks)]
    _Hosted MCP context layer for coding agents: persistent decisions and lessons, semantic code search, post-compaction recovery; MIT-licensed Rust client, hosted backend closed-source._
 
+-  [Sentra](https://www.sentra.app/)
+   [[eval](https://www.sentra.app/research/terminal-bench)]
+   _Organization-wide memory layer for teams and agents: bi-temporal fact graph from 200+ connected tools, served over REST and MCP; closed-source._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
