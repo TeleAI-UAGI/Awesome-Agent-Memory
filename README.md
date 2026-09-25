@@ -1201,6 +1201,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)**
+    [[code](https://github.com/libingzheren/Jev-Mem)]
+
 - **[T-Mem: Memory That Anticipates, Not Archives](https://arxiv.org/abs/2606.15405)**
     [[code](https://github.com/Sherlockwz/T-Mem)]
 
