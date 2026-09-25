@@ -1104,6 +1104,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[The Price of Meaning: Why Every Semantic Memory System Forgets](https://arxiv.org/abs/2603.27116)**
+    [[code](https://github.com/Dynamis-Labs/no-escape)]
+
 - **[StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748)**
     [[code](https://github.com/zjunlp/LightMem)]
 
@@ -1701,6 +1704,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 ## 🔬 Papers - Memory in Cognitive Science
 
 #### 🗓️ 2026
+
+- **[The Geometry of Forgetting](https://arxiv.org/abs/2604.06222)**
+    [[code](https://github.com/Dynamis-Labs/hide-project)]
 
 - **[A Neural Network Model of Free Recall Learns Multiple Memory Strategies](https://www.nature.com/articles/s42256-026-01274-0)**
     [[code](https://github.com/Veritaria/rnn-free-recall)]
