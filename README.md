@@ -1139,6 +1139,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices](https://arxiv.org/abs/2601.02732) (AMER-RCL)
 
+- **[The Price of Meaning: Why Every Semantic Memory System Forgets](https://arxiv.org/abs/2603.27116)**
+    [[code](https://github.com/Dynamis-Labs/no-escape)]
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
@@ -1711,6 +1714,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [Neural Activations and Representations during Episodic versus Semantic Memory Retrieval](https://www.nature.com/articles/s41562-025-02390-4)
 
 - [Distinct Neuronal Populations in the Human Brain Combine Content and Context](https://www.nature.com/articles/s41586-025-09910-2)
+
+- [The Geometry of Forgetting](https://arxiv.org/abs/2604.06222)
 
 #### 🗓️ 2025
 
