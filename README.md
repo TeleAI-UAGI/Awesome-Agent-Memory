@@ -143,35 +143,35 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
      [[blog](https://blog.openviking.ai/)]
      _Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write._
 
-4. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
+4. **[Hindsight](https://hindsight.vectorize.io/)**
+     ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+     [[code](https://github.com/vectorize-io/hindsight)]
+     [[paper](https://arxiv.org/abs/2512.12818)]
+      _Agent memory layer that learns from interaction feedback to improve recall over time._
+
+5. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
      ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
      [[code](https://github.com/getzep/graphiti)]
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
      _Real-time temporal knowledge graphs for AI agents._
 
-5. **[Cognee](https://www.cognee.ai/)**
+6. **[Cognee](https://www.cognee.ai/)**
      ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
      _Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall._
 
-6. **[gbrain](https://github.com/garrytan/gbrain)**
+7. **[gbrain](https://github.com/garrytan/gbrain)**
      ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
 
-7. **[agentmemory](https://www.agent-memory.dev/)**
+8. **[agentmemory](https://www.agent-memory.dev/)**
      ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
      [[code](https://github.com/rohitg00/agentmemory)]
      _Persistent memory for AI coding agents._
-
-8. **[Hindsight](https://hindsight.vectorize.io/)**
-     ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-     [[code](https://github.com/vectorize-io/hindsight)]
-     [[paper](https://arxiv.org/abs/2512.12818)]
-      _Agent memory layer that learns from interaction feedback to improve recall over time._
 
 9. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)**
      ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
@@ -566,17 +566,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/DanceNitra/inspeximus)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
 
-78. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
-      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
-      [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-79. **[RE-call](https://github.com/GiulioDER/RE-call)**
+78. **[RE-call](https://github.com/GiulioDER/RE-call)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
       [[eval](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
       _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
+
+79. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
 80. **[Graphmem](https://github.com/sonic182/graphmem)**
       ![Star](https://img.shields.io/github/stars/sonic182/graphmem.svg?style=social&label=Star)
