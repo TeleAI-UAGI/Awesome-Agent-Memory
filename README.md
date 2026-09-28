@@ -1749,6 +1749,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2025
 
+- [The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI](https://arxiv.org/abs/2506.11015)
+
 - [Neural Population Activity for Memory: Properties, Computations, and Codes](https://www.cell.com/neuron/fulltext/S0896-6273(25)00854-2)
 
 - [How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(25)00189-4)
