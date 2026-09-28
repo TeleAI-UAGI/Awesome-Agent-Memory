@@ -271,16 +271,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://blog.langchain.com/)]
       _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._
 
-25. **[Mem9](https://mem9.ai/)**
+25. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
+      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+      [[code](https://github.com/ModernRelay/omnigraph)]
+      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
+
+26. **[Mem9](https://mem9.ai/)**
       ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
       _Local private memory hub for OpenClaw and similar coding agents._
-
-26. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
-      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
-      [[code](https://github.com/ModernRelay/omnigraph)]
-      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
 27. **[PowerMem](https://www.powermem.ai)**
       ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
@@ -310,15 +310,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[paper](https://arxiv.org/abs/2606.12329)]
       _Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix._
 
-32. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
-      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
-      [[code](https://github.com/Shadow-Weave/HMS)]
-      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
-
-33. **[Memorix](https://github.com/AVIDS2/memorix)**
+32. **[Memorix](https://github.com/AVIDS2/memorix)**
       ![Star](https://img.shields.io/github/stars/AVIDS2/memorix.svg?style=social&label=Star)
       [[code](https://github.com/AVIDS2/memorix)]
       _Local-first cross-agent memory layer for coding agents via MCP — SQLite-backed project memory with observation, reasoning, and git-derived fact types, plus task-lensed context briefs._
+
+33. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)**
+      ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social&label=Star)
+      [[code](https://github.com/Shadow-Weave/HMS)]
+      _Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval._
 
 34. **[Vestige](https://github.com/samvallad33/vestige)**
       ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social&label=Star)
@@ -608,36 +608,36 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
       _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
-86. **[memgres](https://github.com/mozgsml/memgres)**
+86. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
+      ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social&label=Star)
+      [[code](https://github.com/louis030195/hyperconsciousness)]
+      _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
+
+87. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-87. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
+88. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
       ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
       [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
       _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-88. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
+89. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
       [[code](https://github.com/FBISiri/engram)]
       _Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces._
 
-89. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
+90. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
       ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
       [[code](https://github.com/0xboyu/aml-memory-mvp)]
       _Evidence-only, typo-tolerant retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-90. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
+91. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
       ![Star](https://img.shields.io/github/stars/cu-min/experiencenet.svg?style=social&label=Star)
       [[code](https://github.com/cu-min/experiencenet)]
       [[docs](https://github.com/cu-min/experiencenet/blob/master/docs/API.md)]
       _Self-hosted experience network for agents: search and write real technical attempts (problem/conditions/action/outcome), lexical + semantic hybrid retrieval over PostgreSQL/pgvector, gap capture, reuse feedback._
-
-91. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
-      ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social&label=Star)
-      [[code](https://github.com/louis030195/hyperconsciousness)]
-      _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
 
 92. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
       ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social&label=Star)
