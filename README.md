@@ -134,7 +134,13 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
         [[paper](https://arxiv.org/abs/2601.06037)]
         _API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as an unranked sub-item of Mem0 per the drop-in replacement convention. Maintainer-affiliated._
 
-3. **[OpenViking](https://openviking.ai/)**
+3. **[Hindsight](https://hindsight.vectorize.io/)**
+     ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+     [[code](https://github.com/vectorize-io/hindsight)]
+     [[paper](https://arxiv.org/abs/2512.12818)]
+      _Agent memory layer that learns from interaction feedback to improve recall over time._
+
+4. **[OpenViking](https://openviking.ai/)**
      ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)
      [[code](https://github.com/volcengine/OpenViking)]
      [[docs](https://docs.openviking.ai/)]
@@ -142,12 +148,6 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
      [[paper2](https://arxiv.org/abs/2606.16903)]
      [[blog](https://blog.openviking.ai/)]
      _Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write._
-
-4. **[Hindsight](https://hindsight.vectorize.io/)**
-     ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-     [[code](https://github.com/vectorize-io/hindsight)]
-     [[paper](https://arxiv.org/abs/2512.12818)]
-      _Agent memory layer that learns from interaction feedback to improve recall over time._
 
 5. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
      ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
@@ -223,16 +223,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-17. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram)**
-      ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social&label=Star)
-      [[code](https://github.com/Gentleman-Programming/engram)]
-      _Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI._
-
-18. **[MemoryBear](https://www.memorybear.ai/)**
+17. **[MemoryBear](https://www.memorybear.ai/)**
       ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
+
+18. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram)**
+      ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social&label=Star)
+      [[code](https://github.com/Gentleman-Programming/engram)]
+      _Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI._
 
 19. **[ByteRover](https://www.byterover.dev/)**
       ![Star](https://img.shields.io/github/stars/campfirein/byterover-cli.svg?style=social&label=Star)
@@ -304,16 +304,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/vshulcz/deja-vu)]
       _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
 
-31. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
-      ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
-      [[code](https://github.com/AlmanacCode/codealmanac)]
-      _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
-
-32. **[Puppyone](https://www.puppyone.ai)**
+31. **[Puppyone](https://www.puppyone.ai)**
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+32. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
+      ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
+      [[code](https://github.com/AlmanacCode/codealmanac)]
+      _Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context._
 
 33. **[Agent QA](https://vostride.com/docs/agent-qa)**
       ![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)
@@ -507,22 +507,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/renezander030/agentic-task-system)]
       _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
-67. **[myc](https://aistastudio.github.io/myc/)**
+67. **[Lians agent memory](https://www.lians.ai/)**
+      ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
+      [[code](https://github.com/Lians-ai/Lians)]
+      [[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
+      _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
+
+68. **[myc](https://aistastudio.github.io/myc/)**
       ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
       [[code](https://github.com/aistastudio/myc)]
       [[docs](https://aistastudio.github.io/myc/)]
       _Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite._
 
-68. **[AtMem](https://github.com/aetna000/atmem)**
+69. **[AtMem](https://github.com/aetna000/atmem)**
       ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social&label=Star)
       [[code](https://github.com/aetna000/atmem)]
       _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
-
-69. **[Lians agent memory](https://www.lians.ai/)**
-      ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
-      [[code](https://github.com/Lians-ai/Lians)]
-      [[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
-      _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
 
 70. **[Lint-AI](https://github.com/RooAGI/Lint-AI)**
       ![Star](https://img.shields.io/github/stars/RooAGI/Lint-AI.svg?style=social&label=Star)
@@ -566,22 +566,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/DanceNitra/inspeximus)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
 
-78. **[RE-call](https://github.com/GiulioDER/RE-call)**
+78. **[Graphmem](https://github.com/sonic182/graphmem)**
+      ![Star](https://img.shields.io/github/stars/sonic182/graphmem.svg?style=social&label=Star)
+      [[code](https://github.com/sonic182/graphmem)]
+      _Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server._
+
+79. **[RE-call](https://github.com/GiulioDER/RE-call)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
       [[eval](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
       _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
 
-79. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+80. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-80. **[Graphmem](https://github.com/sonic182/graphmem)**
-      ![Star](https://img.shields.io/github/stars/sonic182/graphmem.svg?style=social&label=Star)
-      [[code](https://github.com/sonic182/graphmem)]
-      _Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server._
 
 81. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
@@ -606,26 +606,26 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/kgaidev/kgai)]
       _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
-85. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
-      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
-      [[code](https://github.com/kevdogg102396-afk/packrat)]
-      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-86. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
-      ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
-      [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
-      _Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08)._
-
-87. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
-      ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
-      [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
-      _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
-
-88. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
+85. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
       ![Star](https://img.shields.io/github/stars/kannaka-labs/kannaka-memory.svg?style=social&label=Star)
       [[code](https://github.com/kannaka-labs/kannaka-memory)]
       [[eval](https://github.com/kannaka-labs/kannaka-bench/blob/master/RESULTS.md)]
       _Rust agent memory as a wave-interference medium: phase-coded wavefronts, bilateral hemispheres, dream consolidation and forgetting, NATS swarm sync; CLI and MCP plugin._
+
+86. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
+
+87. **[Hybrid Episodic Memory](https://github.com/tlysanhuo/agent-memory-challenge)**
+      ![Star](https://img.shields.io/github/stars/tlysanhuo/agent-memory-challenge.svg?style=social&label=Star)
+      [[code](https://github.com/tlysanhuo/agent-memory-challenge)]
+      _Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+88. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
+      ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
+      [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
+      _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
 89. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
