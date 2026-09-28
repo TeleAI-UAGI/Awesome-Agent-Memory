@@ -807,6 +807,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 -  [Sentra](https://www.sentra.app/)
    _Organization-wide memory layer for teams and agents: ingests meetings, mail, tickets, and repositories into a bi-temporal fact graph served over REST and MCP._
 
+-  [Moraine Home](https://github.com/ceniran/moraine-home)
+   [[source-available](https://github.com/ceniran/moraine-home)]
+   [[license](https://github.com/ceniran/moraine-home/blob/main/LICENSE)]
+   _Local-first memory workbench for personal agents and companions: hybrid keyword/vector retrieval, human-and-agent review of candidates, reversible consolidation, timelines, and MCP/HTTP interfaces._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
