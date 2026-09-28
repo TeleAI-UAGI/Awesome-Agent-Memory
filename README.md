@@ -691,6 +691,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
+105. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
+      ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social&label=Star)
+      [[code](https://github.com/chenhz01/agent-memory-doctor)]
+      _Integrity checking for LLM agent memory files: drift, staleness, and corruption detection with a Python CLI, PyPI distribution, and GitHub Action._
+
 </details>
 
 ### Closed-Source
