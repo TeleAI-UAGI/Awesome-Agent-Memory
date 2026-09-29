@@ -36,9 +36,18 @@ Unnumbered bullet, no star badge, appended to the end of the section:
    _One-line factual description (≤ 25 words)._
 ```
 
+Source-available products also go here: the code is public, but the license is not an open-source one in the OSI sense (for example the Elastic License 2.0, BUSL, FSL, PolyForm Noncommercial, or a commercial license). Link the repository as `source-available` and the license file as `license` in place of a `code` link:
+
+```markdown
+-  [Name](https://homepage)
+   [[source-available](https://github.com/owner/repo)]
+   [[license](https://github.com/owner/repo/blob/main/LICENSE)]
+   _One-line factual description (≤ 25 words)._
+```
+
 ### Link labels
 
-Keep the label vocabulary small and say what the link *is*: `code`, `paper`, `docs`, `blog`, `spec`, `data`, `model`, `eval`.
+Keep the label vocabulary small and say what the link *is*: `code`, `paper`, `docs`, `blog`, `spec`, `data`, `model`, `eval`, plus `source-available` and `license` for source-available products.
 
 - **`eval`** — the project's own published evaluation results (self-reported, however reproducible the harness). Use it instead of `benchmark`/`benchmarks`, which reads as a neutral third-party suite. Independent placements belong in the description with a sourced attribution, not in a link label.
 - **No package-registry links.** PyPI, npm, crates, and similar are distribution channels, not primary sources; the `code` link already leads to install instructions.
