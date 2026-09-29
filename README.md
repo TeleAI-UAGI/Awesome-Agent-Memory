@@ -677,6 +677,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
+99. **[hermeneutic](https://hermes-labs.ai/hermeneutic)**
+      ![Star](https://img.shields.io/github/stars/hermes-labs-ai/hermeneutic.svg?style=social&label=Star)
+      [[code](https://github.com/hermes-labs-ai/hermeneutic)]
+      [[docs](https://hermes-labs.ai/hermeneutic)]
+      _Turns corrections from AI agent logs into guidance for similar tasks: local semantic memory with prompt-context hooks and response checks._
+
 </details>
 
 ### Closed-Source
