@@ -696,6 +696,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
+103. **[kith](https://github.com/theNamek/kith)**
+      ![Star](https://img.shields.io/github/stars/theNamek/kith.svg?style=social&label=Star)
+      [[code](https://github.com/theNamek/kith)]
+      [[eval](https://github.com/theNamek/kith/tree/main/examples/delegation_sim)]
+      _Relationship memory between agents on SQLite: append-only observations derive trust, reliability, and sentiment views with per-entry visibility scopes._
+
 </details>
 
 ### Closed-Source
