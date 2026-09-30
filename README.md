@@ -1088,6 +1088,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)**
+    [[code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)]
+    [[data](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)]
+
 - **[SEAGym: An Evaluation Environment for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.17546)**
     [[code](https://github.com/antropy-research/SEAGym)]
 
