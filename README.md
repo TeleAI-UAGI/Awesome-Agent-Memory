@@ -719,6 +719,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/memorax-ai/memorax-code)]
       _Coding-agent memory product—not a text-chatbot memory layer—that carries engineering experience, repository knowledge, preferences, and procedures across tasks and sessions._
 
+-  [past.dev](https://past.dev/)
+   [[docs](https://past.dev/docs/memory-api/overview)]
+   [[benchmarks](https://past.dev/benchmarks)]
+   [[mcp](https://github.com/pastdotdev/mcp)]
+   _Temporal memory API: ingested text is stored with its timestamp and source, and a read returns only the facts current at that instant, with what each one replaced; #1 on BEAM at every history size from 100K to 10M tokens, harness published._
+
 -  [MemoryLake](https://www.memorylake.ai/en)
    [[blog](https://www.memorylake.ai/en/blogs)]
 
