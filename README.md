@@ -696,6 +696,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
+103. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
+      ![Star](https://img.shields.io/github/stars/gujing-hub/agent-memory-recall.svg?style=social&label=Star)
+      [[code](https://github.com/gujing-hub/agent-memory-recall)]
+      _Read-only 0.5s search across an agent's conversation store, notes/wiki, hot memory, skills and artifacts; stdlib-only, never writes._
+
 </details>
 
 ### Closed-Source
