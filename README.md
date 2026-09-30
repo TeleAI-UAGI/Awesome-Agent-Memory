@@ -828,6 +828,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://github.com/GiulioDER/RE-call/blob/master/results/FINDINGS.md)]
    _Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient._
 
+-  [past.dev](https://past.dev/)
+   [[docs](https://past.dev/docs/memory-api/overview)]
+   [[eval](https://github.com/pastdotdev/benchmarks)]
+   _Temporal memory API: stores timestamped text with its source; recall returns facts current at a given time and what each replaced; REST and remote MCP._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
