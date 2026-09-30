@@ -554,15 +554,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/sonic182/graphmem)]
       _Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server._
 
-76. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
-      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
-      [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-77. **[skillmem](https://skillmem.dev)**
+76. **[skillmem](https://skillmem.dev)**
       ![Star](https://img.shields.io/github/stars/liza-studio/skillmem.svg?style=social&label=Star)
       [[code](https://github.com/liza-studio/skillmem)]
       _Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server._
+
+77. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
 78. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
