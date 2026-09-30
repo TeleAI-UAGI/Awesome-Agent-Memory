@@ -461,7 +461,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 58. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/fidelis.svg?style=social&label=Star)
       [[code](https://github.com/hermes-labs-ai/fidelis)]
-      [[eval](https://github.com/hermes-labs-ai/fidelis/blob/df44890c548c113d158d1daf46425fc32af77cf3/bench/runs/runP-v35/aggregate.json)]
+      [[eval](https://github.com/hermes-labs-ai/fidelis/blob/b938676affd47f2a6e0a5106c44336fa11f4e92f/bench/results-default-0.3.0rc1.json)]
       _Local-first memory for coding agents: MCP recall returns original passages verbatim via vector search, with an explicit BM25/RRF hybrid mode; no generative LLM in retrieval._
 
 59. **[GoodMemory](https://github.com/hjqcan/GoodMemory)**
