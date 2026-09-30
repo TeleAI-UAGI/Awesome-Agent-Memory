@@ -991,7 +991,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/adobe-research/NoLiMa)]
     [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
 
-- **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
+- **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://arxiv.org/abs/2511.03506)**
     [[code](https://github.com/MemTensor/HaluMem)]
     [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
