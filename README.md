@@ -457,7 +457,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/fidelis.svg?style=social&label=Star)
       [[code](https://github.com/hermes-labs-ai/fidelis)]
       [[eval](https://github.com/hermes-labs-ai/fidelis/blob/df44890c548c113d158d1daf46425fc32af77cf3/bench/runs/runP-v35/aggregate.json)]
-      _Local-first memory for coding agents: hybrid BM25/dense/RRF retrieval returns original passages verbatim through MCP, with no LLM in the default retrieval path._
+      _Local-first memory for coding agents: MCP recall returns original passages verbatim via vector search, with an explicit BM25/RRF hybrid mode; no generative LLM in retrieval._
 
 58. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)**
       ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social&label=Star)
