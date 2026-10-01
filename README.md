@@ -1344,6 +1344,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
     [[code](https://github.com/Little-Fridge/M2A)]
 
+- [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059)
+    [[proj](https://lt-mem.github.io/)]
+
 - [NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2607.06678)
     [[proj](https://opendrivelab.com/NativeMEM/)]
 
