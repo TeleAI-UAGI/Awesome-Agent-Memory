@@ -906,6 +906,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
 
+- [LLM Agents: A Survey](https://www.preprints.org/manuscript/202608.0265/v1)
+
 #### 🗓️ 2025
 
 - **[AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343)**
