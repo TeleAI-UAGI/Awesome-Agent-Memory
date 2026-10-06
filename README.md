@@ -276,27 +276,27 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
-26. **[Mem9](https://mem9.ai/)**
+26. **[PowerMem](https://www.powermem.ai)**
+      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
+      [[code](https://github.com/oceanbase/powermem)]
+      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
+
+27. **[Mem9](https://mem9.ai/)**
       ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
       _Local private memory hub for OpenClaw and similar coding agents._
 
-27. **[PowerMem](https://www.powermem.ai)**
-      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
-      [[code](https://github.com/oceanbase/powermem)]
-      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
-
-28. **[deja](https://github.com/vshulcz/deja-vu)**
-      ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
-      [[code](https://github.com/vshulcz/deja-vu)]
-      _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
-
-29. **[Puppyone](https://www.puppyone.ai)**
+28. **[Puppyone](https://www.puppyone.ai)**
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+29. **[deja](https://github.com/vshulcz/deja-vu)**
+      ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
+      [[code](https://github.com/vshulcz/deja-vu)]
+      _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
 
 30. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
       ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
@@ -575,20 +575,20 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/liza-studio/skillmem)]
       _Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server._
 
-80. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+80. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
+      ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social&label=Star)
+      [[code](https://github.com/louis030195/hyperconsciousness)]
+      _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
+
+81. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-81. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
+82. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
       ![Star](https://img.shields.io/github/stars/ashmoonori-afk/birkin-mnemosyne.svg?style=social&label=Star)
       [[code](https://github.com/ashmoonori-afk/birkin-mnemosyne)]
       _Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server._
-
-82. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
-      ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social&label=Star)
-      [[code](https://github.com/louis030195/hyperconsciousness)]
-      _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
 
 83. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
@@ -596,17 +596,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[paper](https://doi.org/10.5281/zenodo.20578272)]
       _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
-84. **[Talamus](https://ampres-ai.github.io/talamus/)**
+84. **[kgai](https://kgai.dev)**
+      ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
+      [[code](https://github.com/kgaidev/kgai)]
+      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
+
+85. **[Talamus](https://ampres-ai.github.io/talamus/)**
       ![Star](https://img.shields.io/github/stars/ampres-ai/talamus.svg?style=social&label=Star)
       [[code](https://github.com/ampres-ai/talamus)]
       [[docs](https://ampres-ai.github.io/talamus/)]
       [[eval](https://ampres-ai.github.io/talamus/benchmarks/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
-
-85. **[kgai](https://kgai.dev)**
-      ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
-      [[code](https://github.com/kgaidev/kgai)]
-      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
 86. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
       ![Star](https://img.shields.io/github/stars/kannaka-labs/kannaka-memory.svg?style=social&label=Star)
