@@ -733,6 +733,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/eddyflores100-lang/alethech)]
       _Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM._
 
+110. **[Mnemosyne](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)**
+      ![Star](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes.svg?style=social&label=Star)
+      [[code](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)]
+      _Zero-dependency local memory for agents: a four-layer store in plain Markdown, ranked by compound-cue cognitive formulas, with no LLM, no vector DB, no network._
+  
 </details>
 
 ### Closed-Source
