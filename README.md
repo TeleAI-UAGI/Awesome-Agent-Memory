@@ -859,6 +859,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://github.com/pastdotdev/benchmarks)]
    _Temporal memory API: stores timestamped text with its source; recall returns facts current at a given time and what each replaced; REST and remote MCP._
 
+-  [Monolithos Robot Brain](https://github.com/silas-zhen/robot-brain)
+   [[docs](https://github.com/silas-zhen/robot-brain/blob/main/docs/en/integration.md)]
+   _Long-term memory and experience layer for embodied AI; public Alpha under an evaluation license, core ships as a compiled package; HTTP API and Python SDK._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
