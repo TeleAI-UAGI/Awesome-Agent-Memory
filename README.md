@@ -8,7 +8,8 @@
 
 <p align="center">
    👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font and ranked higher.
-</p>
+
+- **[MemTether](https://github.com/MemTether/MemTether)** — Cross-client AI memory hub with tamper-evident evidence chain (EU AI Act Art.12), supersession chains, bi-temporal timestamps, human conflict adjudication, and 23 client adapters. 334 tests. Apache-2.0. `pip install memtether`</p>
 
 <p align="center">
    <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
