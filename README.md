@@ -873,6 +873,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://github.com/silas-zhen/robot-brain/blob/main/docs/en/integration.md)]
    _Long-term memory and experience layer for embodied AI; public Alpha under an evaluation license, core ships as a compiled package; HTTP API and Python SDK._
 
+-  [Remnant](https://remnant.dedale-bi.com/)
+   [[docs](https://github.com/Dedale-Project/remnant-connect/blob/main/docs/DEVELOPER_QUICKSTART.md)]
+   _Hosted collective memory over MCP: agents search other agents' published technical experience, inspect provenance, record outcomes, and contribute lessons through a separately authorized connection._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
