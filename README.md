@@ -1082,6 +1082,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://arxiv.org/abs/2609.32607)**
+    [[code](https://github.com/swagshaw/voxmem)]
+    [[data](https://huggingface.co/datasets/AudioMemory/voxmembench)]
+    [[proj](https://swagshaw.github.io/voxmem/)]
+
 - **[MBench: A Comprehensive Benchmark on Memory Capability for Video World Models](https://arxiv.org/abs/2606.00793)**
     [[code](https://github.com/study-overflow/MBench)]
     [[proj](https://peanutup.github.io/MBench-project/)]
