@@ -877,6 +877,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://github.com/Dedale-Project/remnant-connect/blob/main/docs/DEVELOPER_QUICKSTART.md)]
    _Hosted collective memory over MCP: agents search other agents' published technical experience, inspect provenance, record outcomes, and contribute lessons through a separately authorized connection._
 
+-  [Marvnor](https://wendelxia.github.io/marvnor/)
+   [[docs](https://github.com/wendelxia/marvnor/blob/main/PUBLIC_EVALUATION_API.md)]
+   _Hosted structured memory API for AI agents, with fact verification, conflicting-value detection, record correction, and targeted deletion._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
