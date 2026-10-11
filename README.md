@@ -887,6 +887,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://github.com/wendelxia/marvnor/blob/main/PUBLIC_EVALUATION_API.md)]
    _Hosted structured memory API for AI agents, with answers grounded in stored records, conflict detection, in-place correction, and targeted deletion._
 
+-  [brethof-brain](https://brethof.ai/brain/)
+   [[source-available](https://github.com/BrethofAI/brethof-brain-client)]
+   [[license](https://github.com/BrethofAI/brethof-brain-client/blob/main/LICENSE)]
+   [[docs](https://brethof.ai/brain/docs/)]
+   _Memory for 20 coding-agent harnesses via hooks: session-start brief, per-prompt recall, archived turns, decisions with date and reason; local or hosted store, vendor-side processing._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
