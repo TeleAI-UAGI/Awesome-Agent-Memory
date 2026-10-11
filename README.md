@@ -1203,6 +1203,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents](https://arxiv.org/abs/2605.13941)**
+    [[code](https://github.com/aiming-lab/SimpleMem)]
+
 - **[The Price of Meaning: Why Every Semantic Memory System Forgets](https://arxiv.org/abs/2603.27116)**
     [[code](https://github.com/Dynamis-Labs/no-escape)]
 
