@@ -749,6 +749,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/eddyflores100-lang/alethech)]
       _Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM._
 
+
+113. **[Mnemosyne](https://github.com/rsh1k/mnemosyne)**
+      ![Star](https://img.shields.io/github/stars/rsh1k/mnemosyne.svg?style=social&label=Star)
+      [[code](https://github.com/rsh1k/mnemosyne)]
+      [[PyPI](https://pypi.org/project/mnemosyne-guard/)]
+      _Memory-integrity and context-provenance firewall for agentic AI (OWASP ASI06): a provenance-to-trust-tier invariant keeps non-trusted content off instruction surfaces, with injection and obfuscation detectors, HMAC-signed records at rest, read-time re-scan, and a hash-chained audit log._
 </details>
 
 ### Closed-Source
