@@ -271,15 +271,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://blog.langchain.com/)]
       _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._
 
-25. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
-      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
-      [[code](https://github.com/ModernRelay/omnigraph)]
-      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
-
-26. **[PowerMem](https://www.powermem.ai)**
+25. **[PowerMem](https://www.powermem.ai)**
       ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
       [[code](https://github.com/oceanbase/powermem)]
       _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
+
+26. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
+      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+      [[code](https://github.com/ModernRelay/omnigraph)]
+      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
 27. **[Puppyone](https://www.puppyone.ai)**
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
@@ -550,25 +550,25 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)]
       _Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger._
 
-75. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
+75. **[skillmem](https://skillmem.dev)**
+      ![Star](https://img.shields.io/github/stars/liza-studio/skillmem.svg?style=social&label=Star)
+      [[code](https://github.com/liza-studio/skillmem)]
+      _Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server._
+
+76. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
       ![Star](https://img.shields.io/github/stars/linxuhao/ActiveMemoryIndex.svg?style=social&label=Star)
       [[code](https://github.com/linxuhao/ActiveMemoryIndex)]
       _Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-76. **[Graphmem](https://github.com/sonic182/graphmem)**
+77. **[Graphmem](https://github.com/sonic182/graphmem)**
       ![Star](https://img.shields.io/github/stars/sonic182/graphmem.svg?style=social&label=Star)
       [[code](https://github.com/sonic182/graphmem)]
       _Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server._
 
-77. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
+78. **[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)**
       ![Star](https://img.shields.io/github/stars/DanceNitra/inspeximus.svg?style=social&label=Star)
       [[code](https://github.com/DanceNitra/inspeximus)]
       _Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure._
-
-78. **[skillmem](https://skillmem.dev)**
-      ![Star](https://img.shields.io/github/stars/liza-studio/skillmem.svg?style=social&label=Star)
-      [[code](https://github.com/liza-studio/skillmem)]
-      _Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server._
 
 79. **[Synapse](https://github.com/anshulyadav1976/synapse)**
       ![Star](https://img.shields.io/github/stars/anshulyadav1976/synapse.svg?style=social&label=Star)
@@ -580,15 +580,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/louis030195/hyperconsciousness)]
       _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
 
-81. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
-      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
-      [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-82. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
+81. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
       ![Star](https://img.shields.io/github/stars/ashmoonori-afk/birkin-mnemosyne.svg?style=social&label=Star)
       [[code](https://github.com/ashmoonori-afk/birkin-mnemosyne)]
       _Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server._
+
+82. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
 83. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
