@@ -625,7 +625,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/chenhz01/agent-memory-doctor)]
       _Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action._
 
-89. **[Mnemosyne](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)**
+89. **[Mnemosyne (by ElonAug7)](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)**
       ![Star](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes.svg?style=social&label=Star)
       [[code](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)]
       _Memory engine for OpenClaw and Hermes: JSONL and Markdown layers ranked by weighted importance, recency, keyword and hit-frequency scoring; offline by default, DashScope embeddings opt-in._
@@ -1866,6 +1866,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[attack](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_defense_layer_probe.py)]
     [[defense](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_gate_defense_probe.py)]
     _Runnable probe scripts demonstrating that provenance written into a memory record is forgeable, and that a retrieval-time corroboration gate raises the cost of memory-poisoning attacks._
+
+- **[Mnemosyne (by rsh1k)](https://github.com/rsh1k/mnemosyne)**
+    [[code](https://github.com/rsh1k/mnemosyne)]
+    _Gateway guarding agent memory reads and writes: provenance-based trust tiers keep non-trusted content off instruction surfaces; injection and obfuscation detectors, HMAC-signed records, hash-chained audit log._
 
 ---
 
