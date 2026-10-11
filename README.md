@@ -359,18 +359,18 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
 
-41. **[Belief Context Graph](https://bigai-nlco.github.io/bcg/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/bcg.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/bcg)]
-      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
-      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
-
-42. **[Remnic](https://remnic.ai/)**
+41. **[Remnic](https://remnic.ai/)**
       ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social&label=Star)
       [[code](https://github.com/joshuaswarren/remnic)]
       [[docs](https://remnic.ai/guides/)]
       [[paper](https://doi.org/10.5281/zenodo.21922631)]
       _Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark._
+
+42. **[Belief Context Graph](https://bigai-nlco.github.io/bcg/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/bcg.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/bcg)]
+      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
+      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
 43. **[Memov](https://www.memov.ai/)**
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
@@ -442,16 +442,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/knaisoma/data-olympus)]
       _Governed project memory for AI coding agents: agents propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks._
 
-55. **[Mnemoverse](https://mnemoverse.com)**
-      ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
-      [[code](https://github.com/mnemoverse/mcp-memory-server)]
-      _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
-
-56. **[ZenBrain](https://zensation.ai/en)**
+55. **[ZenBrain](https://zensation.ai/en)**
       ![Star](https://img.shields.io/github/stars/zensation-ai/zenbrain.svg?style=social&label=Star)
       [[code](https://github.com/zensation-ai/zenbrain)]
       [[paper](https://arxiv.org/abs/2604.23878)]
       _Neuroscience-inspired 7-layer memory architecture for autonomous agents in zero-dependency TypeScript, with FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation._
+
+56. **[Mnemoverse](https://mnemoverse.com)**
+      ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social&label=Star)
+      [[code](https://github.com/mnemoverse/mcp-memory-server)]
+      _Persistent memory API for agents over MCP: scores importance on write, builds Hebbian associations, and re-ranks recall from outcome feedback; managed engine, open MCP client._
 
 57. **[Selvedge](https://selvedge.sh)**
       ![Star](https://img.shields.io/github/stars/masondelan/selvedge.svg?style=social&label=Star)
