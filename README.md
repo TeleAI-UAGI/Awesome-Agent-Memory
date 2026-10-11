@@ -885,7 +885,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [Marvnor](https://wendelxia.github.io/marvnor/)
    [[docs](https://github.com/wendelxia/marvnor/blob/main/PUBLIC_EVALUATION_API.md)]
-   _Hosted structured memory API for AI agents, with fact verification, conflicting-value detection, record correction, and targeted deletion._
+   _Hosted structured memory API for AI agents, with answers grounded in stored records, conflict detection, in-place correction, and targeted deletion._
 
 ### Archival
 
