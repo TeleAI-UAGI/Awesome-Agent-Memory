@@ -44,6 +44,7 @@
 <details open>
   <summary>📰 <b>In the News</b></summary>
 
+- 📰 [[AI Weekly (2026-10-09)] Memento 3 Posts 100.0 RHAE on ARC-AGI-3 With Frozen LLM Rulebook](https://aiweekly.co/alerts/memento-3-posts-1000-rhae-on-arc-agi-3-with-frozen-llm-rulebook)
 - 📰 [[NVIDIA (2026-08-21)] AVO reaches 100% on ARC-AGI-3, crediting persistent memory across context resets and a supervisor that redirects a stalled agent](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
 - 📰 [[Agent Memory Leaderboard (2026-08-13)] First public results: 136 teams registered and 69 memory systems completed the first text-memory evaluation](https://news.ycombinator.com/item?id=49281370)
 - 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
