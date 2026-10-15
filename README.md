@@ -1464,6 +1464,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Honeycomb: Constant-Size Scene Memory Representation for Video World Models](https://arxiv.org/abs/2609.37690)**
+    [[code](https://github.com/kaichen-z/HoneyComb)]
+    [[proj](https://jackswl.github.io/honeycomb/)]
+
 - **[LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation](https://arxiv.org/abs/2608.28460)**
     [[code](https://github.com/Yixuan-Ding-ZJU/LayerRecall)]
     [[proj](https://yixuan-ding-zju.github.io/LayerRecall_Web/)]
