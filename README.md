@@ -368,9 +368,9 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[paper](https://doi.org/10.5281/zenodo.21922631)]
       _Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark._
 
-42. **[Belief Context Graph](https://bigai-nlco.github.io/bcg/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/bcg.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/bcg)]
+42. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/belief-context-graph)]
       [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
       _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
