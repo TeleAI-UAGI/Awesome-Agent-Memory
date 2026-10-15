@@ -1381,6 +1381,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762)**
+    [[code](https://github.com/MCG-NJU/OneStreamer)]
+
 - **[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://arxiv.org/abs/2608.26005)**
     [[code](https://github.com/xzf-thu/VoiceMem)]
     [[proj](https://xzf-thu.github.io/VoiceMem/)]
