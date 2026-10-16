@@ -1422,6 +1422,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059)
     [[proj](https://lt-mem.github.io/)]
 
+- [Spatial Memory Agent: Experience-Grounded Procedural Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743)
+    [[proj](https://aim-uofa.github.io/SMA/)]
+
 - [NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2607.06678)
     [[proj](https://opendrivelab.com/NativeMEM/)]
 
@@ -1701,9 +1704,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/MemTensor/MemRL)]
 
 - [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794)
-
-- [Spatial Memory Agent: Experience-Grounded Procedural Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743)
-    [[proj](https://aim-uofa.github.io/SMA/)]
 
 - [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](https://arxiv.org/abs/2607.26017)
 
