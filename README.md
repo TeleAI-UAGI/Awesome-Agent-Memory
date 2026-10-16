@@ -325,8 +325,8 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 34. **[Vestige](https://github.com/samvallad33/vestige)**
       ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social&label=Star)
       [[code](https://github.com/samvallad33/vestige)]
-      [[release](https://github.com/samvallad33/vestige/releases/tag/v2.1.23)]
-      _Local-first cognitive memory MCP server for coding agents, with FSRS-6 decay, spreading activation, active suppression, Receipt Lock, and an inspectable dashboard._
+      [[release](https://github.com/samvallad33/vestige/releases/tag/v4.2.0)]
+      _Local MCP memory server for coding agents on Strata, an append-only log with gated writes, receipts, and FSRS decay, plus a pre-tool action gate._
 
 35. **[Compartment](https://github.com/MaxFreedomPollard/Compartment)**
       ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment.svg?style=social&label=Star)
