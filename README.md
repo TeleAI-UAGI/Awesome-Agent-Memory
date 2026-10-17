@@ -896,6 +896,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://brethof.ai/brain/docs/)]
    _Memory for 20 coding-agent harnesses via hooks: session-start brief, per-prompt recall, archived turns, decisions with date and reason; local or hosted store, vendor-side processing._
 
+-  [Experientia](https://github.com/sabre232/experientia)
+   [[source-available](https://github.com/sabre232/experientia)]
+   [[license](https://github.com/sabre232/experientia/blob/main/LICENSE)]
+   _Local desktop experience layer for 20+ coding-agent hosts: distills corrected pitfalls and decisions into evidence-gated cards, then re-injects them into later sessions._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
