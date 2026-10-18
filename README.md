@@ -140,6 +140,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
      ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
      [[code](https://github.com/vectorize-io/hindsight)]
      [[paper](https://arxiv.org/abs/2512.12818)]
+     [[blog](https://hindsight.vectorize.io/blog)]
       _Agent memory layer that learns from interaction feedback to improve recall over time._
 
 4. **[OpenViking](https://openviking.ai/)**
