@@ -289,16 +289,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
-28. **[Mem9](https://mem9.ai/)**
+28. **[deja](https://github.com/vshulcz/deja-vu)**
+      ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
+      [[code](https://github.com/vshulcz/deja-vu)]
+      _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
+
+29. **[Mem9](https://mem9.ai/)**
       ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
       _Local private memory hub for OpenClaw and similar coding agents._
-
-29. **[deja](https://github.com/vshulcz/deja-vu)**
-      ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
-      [[code](https://github.com/vshulcz/deja-vu)]
-      _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
 
 30. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)**
       ![Star](https://img.shields.io/github/stars/AlmanacCode/codealmanac.svg?style=social&label=Star)
@@ -356,23 +356,23 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/fpytloun/mnemory)]
       _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
-40. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
-      [[code](https://github.com/omega-memory/omega-memory)]
-      [[blog](https://omegamax.co/blog)]
-      _MCP server exposing 25 memory tools for AI coding agents._
-
-41. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/belief-context-graph)]
-      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
-      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
-
-42. **[Remnic](https://remnic.ai/)**
+40. **[Remnic](https://remnic.ai/)**
       ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social&label=Star)
       [[code](https://github.com/joshuaswarren/remnic)]
       [[docs](https://remnic.ai/guides/)]
       [[paper](https://doi.org/10.5281/zenodo.21922631)]
       _Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark._
+
+41. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
+      [[code](https://github.com/omega-memory/omega-memory)]
+      [[blog](https://omegamax.co/blog)]
+      _MCP server exposing 25 memory tools for AI coding agents._
+
+42. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/belief-context-graph)]
+      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
+      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
 43. **[Memov](https://www.memov.ai/)**
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
@@ -500,16 +500,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Das-rebel/a3m-router)]
       _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
 
-65. **[Lians agent memory](https://www.lians.ai/)**
+65. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
+      [[code](https://github.com/renezander030/agentic-task-system)]
+      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
+
+66. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
       [[code](https://github.com/Lians-ai/Lians)]
       [[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md)]
       _Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage._
-
-66. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
-      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
-      [[code](https://github.com/renezander030/agentic-task-system)]
-      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
 67. **[myc](https://aistastudio.github.io/myc/)**
       ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
