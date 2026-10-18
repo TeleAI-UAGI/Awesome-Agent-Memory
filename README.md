@@ -904,6 +904,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://brethof.ai/brain/docs/)]
    _Memory for 20 coding-agent harnesses via hooks: session-start brief, per-prompt recall, archived turns, decisions with date and reason; local or hosted store, vendor-side processing._
 
+-  [MemorySync](https://memorysync.io/)
+   [[docs](https://docs.memorysync.io/)]
+   _Hosted, closed-source memory layer for AI apps: stores, searches and deletes memories per end user via Python SDK, n8n node or remote MCP server._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
