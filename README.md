@@ -1893,6 +1893,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/rsh1k/mnemosyne)]
     _Gateway guarding agent memory reads and writes: provenance-based trust tiers keep non-trusted content off instruction surfaces; injection and obfuscation detectors, HMAC-signed records, hash-chained audit log._
 
+- **[Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees](https://arxiv.org/abs/2606.24322)** (TMA-NM)
+    [[code](https://github.com/yedidel/mem-inv-bench)]
+    [[data](https://huggingface.co/datasets/anonymos-2321135/MEM-INV-Bench)]
+
 ---
 
 ## 📰 Articles
