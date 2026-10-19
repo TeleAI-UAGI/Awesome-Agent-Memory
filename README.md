@@ -1856,6 +1856,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[A Split Attractor Design for Rapidly Writing a Navigational Goal](https://www.nature.com/articles/s41586-026-11144-9)**
+    [[code](https://github.com/nagellab/Lanzetal2025)]
+
 - **[The Geometry of Forgetting](https://arxiv.org/abs/2604.06222)**
     [[code](https://github.com/Dynamis-Labs/hide-project)]
 
