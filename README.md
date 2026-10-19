@@ -1811,6 +1811,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- [Recursive Harness Distillation across Agents for Robot Manipulation](https://arxiv.org/abs/2609.33378)
+
 - **[Recursive Experiential–Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876)** (Recuris)
     [[code](https://github.com/Gen-Verse/Recuris)]
 
