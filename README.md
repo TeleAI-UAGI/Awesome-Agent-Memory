@@ -1431,9 +1431,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
     [[code](https://github.com/Little-Fridge/M2A)]
 
-- [Recursive Harness Distillation across Agents for Robot Manipulation](https://arxiv.org/abs/2609.33378)
-    [[proj](https://seungyeon.me/RHD/)]
-
 - [LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding](https://arxiv.org/abs/2608.19059)
     [[proj](https://lt-mem.github.io/)]
 
@@ -1834,6 +1831,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)**
     [[code](https://github.com/qzzqzzb/Self-Harness)]
+
+- [Recursive Harness Distillation across Agents for Robot Manipulation](https://arxiv.org/abs/2609.33378)
+    [[proj](https://seungyeon.me/RHD/)]
 
 - [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)
 
