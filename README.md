@@ -91,7 +91,7 @@
         <li><a href="#-reinforcement-learning--continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
         <li><a href="#-context-engineering--harness-engineering">🧩 Context Engineering & Harness Engineering</a></li>
     </ul>
-    <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>
+    <li><a href="#-papers---memory-in-cognitive-science-and-neural-science">🔬 Papers - Memory in Cognitive Science and Neural Science</a></li>
     <li><a href="#-memory-security--defense">🔒 Memory Security & Defense</a></li>
     <li><a href="#-articles">📰 Articles</a></li>
     <li><a href="#-workshops">👥 Workshops</a></li>
@@ -1852,7 +1852,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618)
 
-## 🔬 Papers - Memory in Cognitive Science
+## 🔬 Papers - Memory in Cognitive Science and Neural Science
 
 #### 🗓️ 2026
 
