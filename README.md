@@ -516,7 +516,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/Thanatos9404/llmslim.svg?style=social&label=Star)
       [[code](https://github.com/Thanatos9404/llmslim)]
       [[docs](https://github.com/Thanatos9404/llmslim/blob/main/docs/MEMORY.md)]
-      _Agent memory without LLM calls: stores turns verbatim in SQLite or Postgres and recalls whole turns within a token budget, via library or stdio MCP._
+      _No-LLM agent memory: stores turns verbatim in SQLite or Postgres; recalls turns, whole where they fit, within a token budget. Library or stdio MCP._
 
 68. **[myc](https://aistastudio.github.io/myc/)**
       ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
