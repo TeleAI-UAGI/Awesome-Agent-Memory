@@ -1547,6 +1547,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Metis: Memory Foundation Model](https://arxiv.org/abs/2607.26760)**
     [[code](https://github.com/MemTensor/Metis)]
     [[model](https://huggingface.co/collections/IAAR-Shanghai/metis)]
+    + **[MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825)**
+        [[code](https://github.com/MemTensor/MemT-1.0)]
+        [[model](https://huggingface.co/collections/MemTensor/memt-1)]
 
 - **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)**
     [[code](https://github.com/MindLab-Research/delta-Mem)]
