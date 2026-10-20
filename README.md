@@ -1123,6 +1123,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[proj](https://peanutup.github.io/MBench-project/)]
     [[leaderboard](https://huggingface.co/spaces/study-overflow/MBench_Leaderboard)]
 
+- **[WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction](https://arxiv.org/abs/2605.29341)**
+    [[code](https://github.com/UCSB-AI/WorldMemArena)]
+    [[data](https://huggingface.co/datasets/LCZZZZ/WorldMemArena)]
+    [[proj](https://worldmemarena-mem.github.io/)]
+
 - **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**
     [[code](https://github.com/OpenHelix-Team/RoboMemArena)]
     [[data](https://huggingface.co/datasets/RoboMemArenaBenchmark/RoboMemArena)]
