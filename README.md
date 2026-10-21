@@ -1246,6 +1246,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory](https://arxiv.org/abs/2605.19952)** (TriMem)
+    [[code](https://github.com/tmlr-group/TriMem)]
+    [[proj](https://tmlr-trimem.github.io/)]
+
 - **[EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents](https://arxiv.org/abs/2605.13941)**
     [[code](https://github.com/aiming-lab/SimpleMem)]
 
