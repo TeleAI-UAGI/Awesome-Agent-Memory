@@ -1354,6 +1354,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816)**
+    [[code](https://github.com/rutgerswiselab/MemRec)]
+    [[proj](https://memrec.weixinchen.com/)]
+
 - **[Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)**
     [[code](https://github.com/libingzheren/Jev-Mem)]
 
