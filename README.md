@@ -941,6 +941,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 ---
 
+-  [ILC Context API](https://ilc-x402-api-1.onrender.com/agents)
+   [[docs](https://github.com/ILC-API-code/ilc-x402-api/blob/main/README.md)]
+   _User-confirmed context packets for AI agents, with caller-owned device or PostgreSQL storage and an optional encrypted PostgreSQL adapter._
+
 ## 📖 Tutorials
 
 #### 🗓️ 2026
