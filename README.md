@@ -919,6 +919,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.memorysync.io/)]
    _Hosted memory API for AI apps: stores, searches and deletes memories per end user via REST, Python and Node.js SDKs, or remote MCP server._
 
+-  [Monolithos](https://monolithos.ai/)
+   [[docs](https://monolithos.ai/memory/)]
+   _Personal agent app (macOS, iOS, Windows); memory is a local Markdown vault; vendor servers route model calls; opt-in cloud copy enables read-only MCP recall._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
