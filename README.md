@@ -1753,6 +1753,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
     [[code](https://github.com/MemTensor/MemRL)]
 
+- [Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis](https://arxiv.org/abs/2603.10846) (EvoKernel)
+    [[data](https://huggingface.co/datasets/noahli/EvoKernel)]
+    [[proj](https://evokernel.zhuo.li/)]
+
 - [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794)
 
 - [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](https://arxiv.org/abs/2607.26017)
