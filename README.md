@@ -773,6 +773,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/eddyflores100-lang/alethech)]
       _Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM._
 
+116. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
+      ![Star](https://img.shields.io/github/stars/gujing-hub/agent-memory-recall.svg?style=social&label=Star)
+      [[code](https://github.com/gujing-hub/agent-memory-recall)]
+      _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
+
 </details>
 
 ### Closed-Source
