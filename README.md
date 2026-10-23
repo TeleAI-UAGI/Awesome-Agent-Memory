@@ -497,27 +497,27 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://github.com/Thanatos9404/llmslim/blob/main/docs/MEMORY.md)]
       _Context-compression library whose no-LLM memory stores turns verbatim in SQLite or Postgres and recalls them, whole where they fit, within a token budget; stdio MCP._
 
-64. **[ReFind](https://github.com/imlrz/ReFind)**
-      ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
-      [[code](https://github.com/imlrz/ReFind)]
-      _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
-
-65. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
-      ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
-      [[code](https://github.com/Das-rebel/a3m-router)]
-      _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
-
-66. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
-      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
-      [[code](https://github.com/renezander030/agentic-task-system)]
-      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
-
-67. **[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain)**
+64. **[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain)**
       ![Star](https://img.shields.io/github/stars/enhesa/big-agentic-brain.svg?style=social&label=Star)
       [[code](https://github.com/enhesa/big-agentic-brain)]
       [[blog](https://nevolin.be/blog/unlocking-swarm-intelligence-big-agentic-brain-claude-code)]
       [[eval](https://nevolin.be/assets/blog/coding-agents-shared-team-memory/report.pdf)]
       _Self-hosted shared memory for an organization's agents: one container on SQLite, BM25 search boosted by agents' reactions, and agent-to-agent messages; MCP or HTTP API._
+
+65. **[ReFind](https://github.com/imlrz/ReFind)**
+      ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
+      [[code](https://github.com/imlrz/ReFind)]
+      _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+66. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
+      ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
+      [[code](https://github.com/Das-rebel/a3m-router)]
+      _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
+
+67. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
+      [[code](https://github.com/renezander030/agentic-task-system)]
+      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
 68. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
