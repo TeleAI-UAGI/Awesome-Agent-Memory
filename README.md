@@ -930,6 +930,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://monolithos.ai/memory/)]
    _Personal agent app (macOS, iOS, Windows); memory is a local Markdown vault; vendor servers route model calls; opt-in cloud copy enables read-only MCP recall._
 
+-  [Mnemosyne OS](https://mnemosyne-os.io/)
+   [[code](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp)]
+   [[docs](https://docs.mnemosyne-os.io/)]
+   [[eval](https://github.com/Mnemosyne-OS/MnemosyneOS---benchmarks)]
+   _Desktop memory app (Windows, macOS, Linux); watched folders feed separate vaults; vector and local BM25 search; MIT MCP server; BEAM 49.2% at 10M, self-reported._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
