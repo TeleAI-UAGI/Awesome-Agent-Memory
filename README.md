@@ -941,6 +941,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://github.com/Mnemosyne-OS/MnemosyneOS---benchmarks)]
    _Desktop memory app (Windows, macOS, Linux); watched folders feed separate vaults; vector and local BM25 search; MIT MCP server; BEAM 49.2% at 10M, self-reported._
 
+-  [Membase](https://membase.com/)
+   [[code](https://github.com/unibaseio/membase)]
+   [[docs](https://docs.membase.com/build/reference/sdk-quickstart/)]
+   [[eval](https://membase.com/research)]
+   _Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
