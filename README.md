@@ -947,6 +947,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://membase.com/research)]
    _Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine._
 
+-  [Zambo](https://zambo.dev)
+   [[docs](https://zambo.dev/add/)]
+   _Hosted MCP memory and continuity layer: sessions wrapped up in one AI resume in any other; every job returns a verifiable receipt._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
