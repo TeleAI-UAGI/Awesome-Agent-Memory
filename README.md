@@ -947,6 +947,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://membase.com/research)]
    _Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine._
 
+-  [Okto Neuron](https://github.com/OktoLabsAI/okto-neuron)
+   [[source-available](https://github.com/OktoLabsAI/okto-neuron)]
+   [[license](https://github.com/OktoLabsAI/okto-neuron/blob/main/LICENSE)]
+   _Local-first knowledge graph memory for agents, with cited sources and an MCP server; Elastic License 2.0._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
