@@ -947,6 +947,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://membase.com/research)]
    _Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine._
 
+-  [TokenRip](https://tokenrip.com)
+   [[code](https://github.com/tokenrip/cli)]
+   [[docs](https://docs.tokenrip.com)]
+   _Hosted MCP workspace shared by Claude, ChatGPT, Codex and Cursor: versioned files, tasks and pinned decisions, each change recording which agent made it; MIT CLI._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
