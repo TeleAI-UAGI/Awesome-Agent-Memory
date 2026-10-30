@@ -958,6 +958,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://zambo.dev/docs)]
    _Hosted MCP tool gateway with saved-fact recall across AI clients, session handover between them, and a public SHA-256 receipt per call._
 
+-  [Okto Neuron](https://oktolabs.ai/platform/neuron/)
+   [[source-available](https://github.com/OktoLabsAI/okto-neuron)]
+   [[license](https://github.com/OktoLabsAI/okto-neuron/blob/main/LICENSE)]
+   _Local-first knowledge graph memory from Markdown notes and agent writes; a user-configured LLM extracts claims; MCP answers can cite file path, byte range, content hash._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
