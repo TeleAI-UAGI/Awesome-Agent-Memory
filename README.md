@@ -963,6 +963,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[license](https://github.com/OktoLabsAI/okto-neuron/blob/main/LICENSE)]
    _Local-first knowledge graph memory from Markdown notes and agent writes; a user-configured LLM extracts claims; MCP answers can cite file path, byte range, content hash._
 
+-  [TokenRip](https://tokenrip.com)
+   [[code](https://github.com/tokenrip/cli)]
+   [[docs](https://docs.tokenrip.com)]
+   _Hosted MCP workspace shared by Claude, ChatGPT, Codex and Cursor: versioned files, tasks and pinned decisions, each change recording which agent made it; MIT CLI._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
