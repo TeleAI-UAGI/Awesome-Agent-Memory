@@ -1581,6 +1581,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)**
     [[code](https://github.com/Junyi42/LoGeR)]
 
+- [World-T³: Test-Time Training as Persistent Memory for Real-Time Video World Models](https://arxiv.org/abs/2610.17434)
+    [[proj](https://adreamwu.github.io/World-T3/)]
+
 - [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](https://arxiv.org/abs/2512.07802)
 
 #### 🗓️ 2025
