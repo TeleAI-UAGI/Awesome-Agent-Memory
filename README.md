@@ -732,65 +732,60 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/yylo-dev/yylo-ledger)]
       _Git-native task and Record store for coding-agent workflows: reviewable current state, append-only history, dependency-aware work, and bounded queries._
 
-108. **[Akephalos](https://github.com/daveinturkey15-byte/akephalos)**
-      ![Star](https://img.shields.io/github/stars/daveinturkey15-byte/akephalos.svg?style=social&label=Star)
-      [[code](https://github.com/daveinturkey15-byte/akephalos)]
-      _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
-
-109. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+108. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-110. **[Panella](https://panella.tech)**
+109. **[Panella](https://panella.tech)**
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
 
-111. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
+110. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
       ![Star](https://img.shields.io/github/stars/cydd-1972/hybrid_search.svg?style=social&label=Star)
       [[code](https://github.com/cydd-1972/hybrid_search)]
       _Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-112. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
+111. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
       ![Star](https://img.shields.io/github/stars/simple-boy/Chronicle-Memory.svg?style=social&label=Star)
       [[code](https://github.com/simple-boy/Chronicle-Memory)]
       _Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-113. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)**
+112. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)**
       ![Star](https://img.shields.io/github/stars/llLAlisa/memory-agent-submission.svg?style=social&label=Star)
       [[code](https://github.com/llLAlisa/memory-agent-submission)]
       _FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 as LLLMemoryAgent, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-114. **[FeedRecall](https://github.com/Paoladev45/feedrecall)**
+113. **[FeedRecall](https://github.com/Paoladev45/feedrecall)**
       ![Star](https://img.shields.io/github/stars/Paoladev45/feedrecall.svg?style=social&label=Star)
       [[code](https://github.com/Paoladev45/feedrecall)]
       _Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents._
 
-115. **[RCLL](https://rcll.ai)**
+114. **[RCLL](https://rcll.ai)**
       ![Star](https://img.shields.io/github/stars/holetron-lab/fleet-memory.svg?style=social&label=Star)
       [[code](https://github.com/holetron-lab/fleet-memory)]
       [[docs](https://rcll.ai/docs/)]
       [[eval](https://rcll.ai/docs/benchmarks/)]
       _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
 
-116. **[notebook.py](https://github.com/minjimindypark/llmcompressor)**
+115. **[notebook.py](https://github.com/minjimindypark/llmcompressor)**
       ![Star](https://img.shields.io/github/stars/minjimindypark/llmcompressor.svg?style=social&label=Star)
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
-117. **[kith](https://github.com/theNamek/kith)**
+116. **[kith](https://github.com/theNamek/kith)**
       ![Star](https://img.shields.io/github/stars/theNamek/kith.svg?style=social&label=Star)
       [[code](https://github.com/theNamek/kith)]
       [[eval](https://github.com/theNamek/kith/tree/main/examples/delegation_sim)]
       _Relationship memory between agents on SQLite: append-only observations derive trust, reliability, and sentiment views with per-entry visibility scopes._
 
-118. **[alethech](https://alethech.alicelabs.site/)**
+117. **[alethech](https://alethech.alicelabs.site/)**
       ![Star](https://img.shields.io/github/stars/eddyflores100-lang/alethech.svg?style=social&label=Star)
       [[code](https://github.com/eddyflores100-lang/alethech)]
       _Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM._
 
-119. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
+118. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
       ![Star](https://img.shields.io/github/stars/gujing-hub/agent-memory-recall.svg?style=social&label=Star)
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
@@ -991,6 +986,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 -  Hybrid Episodic Memory ❄️ Inactive (repository removed; `github.com/tlysanhuo/agent-memory-challenge` returns 404; last checked 2026-10)
    _Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+-  Akephalos ❄️ Inactive (repository removed; `github.com/daveinturkey15-byte/akephalos` returns 404; last checked 2026-10)
+   _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
 ---
 
