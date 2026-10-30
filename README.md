@@ -1740,6 +1740,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368)**
+    [[code](https://github.com/Virlus/VaM)]
+    [[proj](https://virlus.github.io/vam/)]
+
 - **[Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://arxiv.org/abs/2609.02750)**
     [[code](https://github.com/YihangChen9/Bilevel-Coordinated-Reflection)]
 
