@@ -1518,6 +1518,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [Spatial Memory Agent: Experience-Grounded Procedural Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743)
     [[proj](https://aim-uofa.github.io/SMA/)]
 
+- [GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes](https://arxiv.org/abs/2608.10886)
+
 - [NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2607.06678)
     [[proj](https://opendrivelab.com/NativeMEM/)]
 
