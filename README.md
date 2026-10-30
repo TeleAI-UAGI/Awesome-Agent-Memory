@@ -2020,6 +2020,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[spec](https://github.com/alexk202/maqs-way/blob/main/SPEC.md)]
     [[eval](https://github.com/alexk202/maqs-way-evidence)]
     _Specification connecting memory policies to implementation and verification: machine-readable canon, schemas, conformance vectors, pinned behavioral isolation test on Mem0 (self-reported)._
+  
 ---
 
 ## 📰 Articles
