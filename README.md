@@ -790,6 +790,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
 
+119. **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)**
+      ![Star](https://img.shields.io/github/stars/OakcoderX/solopup-memory.svg?style=social&label=Star)
+      [[code](https://github.com/OakcoderX/solopup-memory)]
+      [[docs](https://github.com/OakcoderX/solopup-memory/blob/main/README.en.md)]
+      _Public-beta DeepSeek Harness text-memory plugin preserving original-source references, global/project scopes, conditions and correction history, with lexical recall._
+
 </details>
 
 ### Closed-Source
