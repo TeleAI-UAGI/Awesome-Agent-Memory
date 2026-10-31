@@ -1444,6 +1444,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307)
 
+- [Executable Agentic Memory for GUI Agent](https://arxiv.org/abs/2605.12294)
+
 - [SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061)
 
 #### 🗓️ 2025
