@@ -790,6 +790,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
 
+119. **[Pulse](https://github.com/h0gunsc/pulse-memory)**
+      ![Star](https://img.shields.io/github/stars/h0gunsc/pulse-memory.svg?style=social&label=Star)
+      [[code](https://github.com/h0gunsc/pulse-memory)]
+      _A living memory protocol for human–machine pairs: hot memory (rules) → skills (procedures) → supermemory (semantic search) → a hand-editable Obsidian vault (source of truth) → session search. New knowledge is written out immediately as pulse-beats; the agent inhales (searches by meaning) on every question. Fully local, $0, zero LLM tokens for memory ops. Proven live: a session at 127/256K was flushed and collapsed with nothing lost; the production PAC0 agent has run on it daily for months._
+
 </details>
 
 ### Closed-Source
