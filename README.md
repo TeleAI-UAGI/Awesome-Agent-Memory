@@ -2012,6 +2012,15 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[code](https://github.com/yedidel/mem-inv-bench)]
     [[data](https://huggingface.co/datasets/anonymos-2321135/MEM-INV-Bench)]
 
+- **[MAQS — Memory Architecture Quality Standard](https://github.com/alexk202/memory-architecture-standard)**
+    [[spec](https://github.com/alexk202/memory-architecture-standard/blob/main/STANDARD.md)]
+    _Audit checklist for long-term memory in LLM agents: 96 items with CRIT/IMP/REC criticality covering data loss, poisoning, leakage and growth, incident-derived per the author; EN/RU._
+
+- **[MAQS-Way](https://github.com/alexk202/maqs-way)**
+    [[spec](https://github.com/alexk202/maqs-way/blob/main/SPEC.md)]
+    [[eval](https://github.com/alexk202/maqs-way/blob/v0.3/evals/results/p4_mem0_isolation_report.json)]
+    _Specification connecting memory policies to implementation and verification: machine-readable canon, schemas, conformance vectors, pinned stub-model behavioral isolation test on Mem0 (self-reported)._
+
 ---
 
 ## 📰 Articles
