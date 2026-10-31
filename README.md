@@ -1442,6 +1442,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)**
     [[code](https://github.com/TIMAN-group/PlugMem)]
 
+- [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307)
+
 - [SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061)
 
 #### 🗓️ 2025
