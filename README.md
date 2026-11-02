@@ -795,6 +795,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
 
+120. **[Vool](https://github.com/Parad0x-Labs/vool)**
+      ![Star](https://img.shields.io/github/stars/Parad0x-Labs/vool.svg?style=social&label=Star)
+      [[code](https://github.com/Parad0x-Labs/vool)]
+      [[eval](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md)]
+      _Local-first personal agent with file-based memory and memory-first routing; signed hash-chained receipts make every action claim offline-verifiable._
+
 </details>
 
 ### Closed-Source
