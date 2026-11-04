@@ -795,6 +795,14 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
 
+120. **[poincare-memory](https://dhruvmojila.github.io/poincare-memory/)**
+      ![Star](https://img.shields.io/github/stars/dhruvmojila/poincare-memory.svg?style=social&label=Star)
+      [[code](https://github.com/dhruvmojila/poincare-memory)]
+      [[docs](https://dhruvmojila.github.io/poincare-memory/)]
+      [[paper](https://doi.org/10.1109/ICBDML68582.2026.11544690)]
+      [[eval](https://github.com/dhruvmojila/poincare-memory/tree/main/benchmarks)]
+      _Hierarchy-aware, time-aware agent memory on the Poincaré ball: depth as norm, structural retrieval, decay policies, interactive inspector; NumPy-only._
+
 </details>
 
 ### Closed-Source
