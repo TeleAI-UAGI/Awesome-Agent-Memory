@@ -1439,6 +1439,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[LLM Orchestration with Geometry-Aware Memory](https://doi.org/10.1109/ICBDML68582.2026.11544690)**
+    [[code](https://github.com/dhruvmojila/poincare-memory)]
+
 - **[MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816)**
     [[code](https://github.com/rutgerswiselab/MemRec)]
     [[proj](https://memrec.weixinchen.com/)]
