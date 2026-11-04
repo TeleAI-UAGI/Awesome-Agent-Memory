@@ -1667,6 +1667,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)**
     [[code](https://github.com/arunv3rma/MeMo)]
 
+- [Cortex: Consolidating Context into Parametric Memory](https://arxiv.org/abs/2610.20399)
+
 - [Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979)
 
 - [Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference](https://arxiv.org/abs/2605.26099)
