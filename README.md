@@ -661,160 +661,165 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://github.com/RonsenbergVI/agent-memory-benchmarks/blob/main/RESULTS.md)]
       _In-memory temporal graph database for agents, queried with remember/recall verbs over HTTP or MCP; hybrid text, graph and optional vector retrieval; no persistence yet (2026-10)._
 
-94. **[kgai](https://kgai.dev)**
+94. **[Counterparts](https://github.com/mlapeter/counterparts)**
+      ![Star](https://img.shields.io/github/stars/mlapeter/counterparts.svg?style=social&label=Star)
+      [[code](https://github.com/mlapeter/counterparts)]
+      _Long-term memory for Claude Code: Claude writes its own memories each session, unused ones fade, and everything stays in local SQLite._
+
+95. **[kgai](https://kgai.dev)**
       ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
       [[code](https://github.com/kgaidev/kgai)]
       _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
 
-95. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+96. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-96. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
+97. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
       ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
       [[code](https://github.com/shimo4228/agent-knowledge-cycle)]
       [[paper](https://doi.org/10.5281/zenodo.20578272)]
       _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
-97. **[Mnemosyne (by ElonAug7)](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)**
+98. **[Mnemosyne (by ElonAug7)](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)**
       ![Star](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes.svg?style=social&label=Star)
       [[code](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)]
       _Memory engine for OpenClaw and Hermes: JSONL and Markdown layers ranked by weighted importance, recency, keyword and hit-frequency scoring; offline by default, DashScope embeddings opt-in._
 
-98. **[Talamus](https://ampres-ai.github.io/talamus/)**
+99. **[Talamus](https://ampres-ai.github.io/talamus/)**
       ![Star](https://img.shields.io/github/stars/ampres-ai/talamus.svg?style=social&label=Star)
       [[code](https://github.com/ampres-ai/talamus)]
       [[docs](https://ampres-ai.github.io/talamus/)]
       [[eval](https://ampres-ai.github.io/talamus/benchmarks/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
 
-99. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
+100. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
       ![Star](https://img.shields.io/github/stars/kannaka-labs/kannaka-memory.svg?style=social&label=Star)
       [[code](https://github.com/kannaka-labs/kannaka-memory)]
       [[eval](https://github.com/kannaka-labs/kannaka-bench/blob/master/RESULTS.md)]
       _Rust agent memory as a wave-interference medium: phase-coded wavefronts, bilateral hemispheres, dream consolidation and forgetting, NATS swarm sync; CLI and MCP plugin._
 
-100. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
+101. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
       ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social&label=Star)
       [[code](https://github.com/chenhz01/agent-memory-doctor)]
       _Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action._
 
-101. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
+102. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
       ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
       _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
-102. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
+103. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-103. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
+104. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
       ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social&label=Star)
       [[code](https://github.com/Tin11Mn/chrono-hybrid-mem)]
       _Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-104. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
+105. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
       ![Star](https://img.shields.io/github/stars/studiomoob/llmoobfs.svg?style=social&label=Star)
       [[code](https://github.com/studiomoob/llmoobfs)]
       _Experimental Linux filesystem for agent-memory storage, with typed extended attributes and permission-scoped queries; developed with AI assistance, for disposable-VM evaluation._
 
-105. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
+106. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
       ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social&label=Star)
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
-106. **[MemTether](https://github.com/MemTether/MemTether)**
+107. **[MemTether](https://github.com/MemTether/MemTether)**
       ![Star](https://img.shields.io/github/stars/MemTether/MemTether.svg?style=social&label=Star)
       [[code](https://github.com/MemTether/MemTether)]
       _Shared SQLite memory hub for AI clients over MCP, CLI and REST: corrections supersede rather than delete, bi-temporal timestamps, hash-anchored audit log, human conflict adjudication._
 
-107. **[memgres](https://github.com/mozgsml/memgres)**
+108. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-108. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
+109. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
       ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
       [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
       _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-109. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
+110. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
       [[code](https://github.com/FBISiri/engram)]
       _Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces._
 
-110. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
+111. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
       ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
       [[code](https://github.com/0xboyu/aml-memory-mvp)]
       _Evidence-only, typo-tolerant retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-111. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
+112. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
       ![Star](https://img.shields.io/github/stars/cu-min/experiencenet.svg?style=social&label=Star)
       [[code](https://github.com/cu-min/experiencenet)]
       [[docs](https://github.com/cu-min/experiencenet/blob/master/docs/API.md)]
       _Self-hosted experience network for agents: search and write real technical attempts (problem/conditions/action/outcome), lexical + semantic hybrid retrieval over PostgreSQL/pgvector, gap capture, reuse feedback._
 
-112. **[YYLO Ledger](https://github.com/yylo-dev/yylo-ledger)**
+113. **[YYLO Ledger](https://github.com/yylo-dev/yylo-ledger)**
       ![Star](https://img.shields.io/github/stars/yylo-dev/yylo-ledger.svg?style=social&label=Star)
       [[code](https://github.com/yylo-dev/yylo-ledger)]
       _Git-native task and Record store for coding-agent workflows: reviewable current state, append-only history, dependency-aware work, and bounded queries._
 
-113. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+114. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-114. **[Panella](https://panella.tech)**
+115. **[Panella](https://panella.tech)**
       ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social&label=Star)
       [[code](https://github.com/panellatech/panella)]
       _Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0._
 
-115. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
+116. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)**
       ![Star](https://img.shields.io/github/stars/cydd-1972/hybrid_search.svg?style=social&label=Star)
       [[code](https://github.com/cydd-1972/hybrid_search)]
       _Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-116. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
+117. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)**
       ![Star](https://img.shields.io/github/stars/simple-boy/Chronicle-Memory.svg?style=social&label=Star)
       [[code](https://github.com/simple-boy/Chronicle-Memory)]
       _Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-117. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)**
+118. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)**
       ![Star](https://img.shields.io/github/stars/llLAlisa/memory-agent-submission.svg?style=social&label=Star)
       [[code](https://github.com/llLAlisa/memory-agent-submission)]
       _FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 as LLLMemoryAgent, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-118. **[FeedRecall](https://github.com/Paoladev45/feedrecall)**
+119. **[FeedRecall](https://github.com/Paoladev45/feedrecall)**
       ![Star](https://img.shields.io/github/stars/Paoladev45/feedrecall.svg?style=social&label=Star)
       [[code](https://github.com/Paoladev45/feedrecall)]
       _Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents._
 
-119. **[RCLL](https://rcll.ai)**
+120. **[RCLL](https://rcll.ai)**
       ![Star](https://img.shields.io/github/stars/holetron-lab/fleet-memory.svg?style=social&label=Star)
       [[code](https://github.com/holetron-lab/fleet-memory)]
       [[docs](https://rcll.ai/docs/)]
       [[eval](https://rcll.ai/docs/benchmarks/)]
       _Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight._
 
-120. **[notebook.py](https://github.com/minjimindypark/llmcompressor)**
+121. **[notebook.py](https://github.com/minjimindypark/llmcompressor)**
       ![Star](https://img.shields.io/github/stars/minjimindypark/llmcompressor.svg?style=social&label=Star)
       [[code](https://github.com/minjimindypark/llmcompressor)]
       _Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries._
 
-121. **[kith](https://github.com/theNamek/kith)**
+122. **[kith](https://github.com/theNamek/kith)**
       ![Star](https://img.shields.io/github/stars/theNamek/kith.svg?style=social&label=Star)
       [[code](https://github.com/theNamek/kith)]
       [[eval](https://github.com/theNamek/kith/tree/main/examples/delegation_sim)]
       _Relationship memory between agents on SQLite: append-only observations derive trust, reliability, and sentiment views with per-entry visibility scopes._
 
-122. **[alethech](https://alethech.alicelabs.site/)**
+123. **[alethech](https://alethech.alicelabs.site/)**
       ![Star](https://img.shields.io/github/stars/eddyflores100-lang/alethech.svg?style=social&label=Star)
       [[code](https://github.com/eddyflores100-lang/alethech)]
       _Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM._
 
-123. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
+124. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)**
       ![Star](https://img.shields.io/github/stars/gujing-hub/agent-memory-recall.svg?style=social&label=Star)
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
