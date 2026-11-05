@@ -1002,6 +1002,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.tokenrip.com)]
    _Hosted MCP workspace shared by Claude, ChatGPT, Codex and Cursor: versioned files, tasks and pinned decisions, each change recording which agent made it; MIT CLI._
 
+-  [Memento (memento-md)](https://github.com/AndreySukhanov/memento)
+   [[source-available](https://github.com/AndreySukhanov/memento)]
+   [[license](https://github.com/AndreySukhanov/memento/blob/master/LICENSE)]
+   _Claude Code plugin keeping each task's memory in five Markdown files: append-only decisions, falsifiable hypotheses, Stop-hook guards, cold reviews by other model families._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
