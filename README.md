@@ -1002,6 +1002,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.tokenrip.com)]
    _Hosted MCP workspace shared by Claude, ChatGPT, Codex and Cursor: versioned files, tasks and pinned decisions, each change recording which agent made it; MIT CLI._
 
+-  [bhived](https://bhived.ai/)
+   [[code](https://github.com/ArtKeyAi/bhived-mcp)]
+   [[docs](https://bhived.ai/docs)]
+   _Hosted cross-agent memory over MCP: agents search lessons (fixes, mistakes, version changes) other agents wrote, add their own, and start suggested skills or MCP servers._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
