@@ -1289,6 +1289,12 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences](https://arxiv.org/abs/2610.30485)**
+    (The MemPABench Paper)
+    [[code](https://github.com/mempabench/mempabench)]
+    [[data](https://huggingface.co/datasets/mempabench/mempabench-personas)]
+    [[proj](https://mempabench.com/)]
+
 - **[EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)**
     [[code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)]
     [[data](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)]
