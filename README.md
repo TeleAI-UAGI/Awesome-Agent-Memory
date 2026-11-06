@@ -293,7 +293,8 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 28. **[deja](https://github.com/vshulcz/deja-vu)**
       ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social&label=Star)
       [[code](https://github.com/vshulcz/deja-vu)]
-      _Indexes the session transcripts twenty coding agents already write to disk, retroactively — local BM25 recall over them, with credentials redacted at index time._
+      [[eval](https://vshulcz.github.io/deja-vu/guide/benchmarks.html)]
+      _Indexes session transcripts forty-three coding agents already write to disk, retroactively — local BM25 recall over them via hooks and MCP, credentials redacted at index time._
 
 29. **[Mem9](https://mem9.ai/)**
       ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
