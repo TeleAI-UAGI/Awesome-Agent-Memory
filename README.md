@@ -44,6 +44,7 @@
 <details open>
   <summary>📰 <b>In the News</b></summary>
 
+- 📰 [[Anthropic (2026-11-06)] The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)
 - 📰 [[Meta (2026-10-12)] Muse Wonder introduces "Active Memory": carrying context about the user across conversations and actively retrieving the details relevant to the task at hand](https://research.meta.ai/blog/muse-wonder)
 - 📰 [[AI Weekly (2026-10-09)] Memento 3 Posts 100.0 RHAE on ARC-AGI-3 With Frozen LLM Rulebook](https://aiweekly.co/alerts/memento-3-posts-1000-rhae-on-arc-agi-3-with-frozen-llm-rulebook)
 - 📰 [[NVIDIA (2026-08-21)] AVO reaches 100% on ARC-AGI-3, crediting persistent memory across context resets and a supervisor that redirects a stalled agent](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
