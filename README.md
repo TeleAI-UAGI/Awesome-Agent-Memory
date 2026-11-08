@@ -1068,6 +1068,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Tools, Actions, Memory, and Context](https://books.bloo-mind.ai/masact/ch-04-tools-actions-environments)** †: Chapter 4 of the textbook _[Multi-Agent Systems: A Contemporary Treatment](https://books.bloo-mind.ai/masact/)_.
 
+- **[Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab)** - Local MIT teaching range for synthetic memory poisoning, origin-aware recall and repair limits with a scripted agent.
+
 #### 🗓️ 2025
 
  - **[ACM SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)** †
