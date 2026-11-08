@@ -2105,6 +2105,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[eval](https://github.com/alexk202/maqs-way/blob/v0.3/evals/results/p4_mem0_isolation_report.json)]
     _Specification connecting memory policies to implementation and verification: machine-readable canon, schemas, conformance vectors, pinned stub-model behavioral isolation test on Mem0 (self-reported)._
 
+- **[Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab)**
+    [[code](https://github.com/RishabhPande/memory-poison-lab)]
+    [[demo](https://rishabhpande.github.io/memory-poison-lab/)]
+    _Local test range replaying six synthetic memory-poisoning attacks against a scripted agent on three memory backends, with write screening, origin-aware recall and conflict-scoped repair._
+
 ---
 
 ## 📰 Articles
