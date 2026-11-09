@@ -848,6 +848,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/gujing-hub/agent-memory-recall)]
       _Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders._
 
+129. **[Revo](https://github.com/shyringo/revo)**
+      ![Star](https://img.shields.io/github/stars/shyringo/revo.svg?style=social&label=Star)
+      [[code](https://github.com/shyringo/revo)]
+      _MIT terminal agent harness whose append-only life log and checksummed sleep snapshot keep one agent's memory and unfinished intentions alive across restarts; no session list._
+
 </details>
 
 ### Closed-Source
