@@ -1039,6 +1039,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.hydradb.com/essentials/v2/memories)]
    _Hosted knowledge-graph context API for agents: memories, stored as sent or extracted from dialogue and logs, are queried alongside synced company knowledge; Apache-2.0 MCP server._
 
+-  [Dawnmere](https://dawnmere.app/)
+   [[code](https://github.com/LF-Labs-Inc/dawnmere)]
+   [[source-available](https://github.com/LF-Labs-Inc/dawnmere-engine)]
+   [[license](https://github.com/LF-Labs-Inc/dawnmere-engine/blob/main/LICENSE)]
+   _Local memory on a Mac shared by Claude Code, Codex and Cursor over MCP: one SQLite file, local search, per-app access levels; MIT client._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
@@ -1179,6 +1185,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Cost and Accuracy of Long-Term Memory in Distributed Multi-Agent Systems Based on Large Language Models](https://arxiv.org/abs/2601.07978)**
     [[code](https://github.com/wolffbe/dmas-memory)]
+
+- **memory-bench**
+    [[code](https://github.com/LF-Labs-Inc/memory-bench)]
+    _Black-box assistant memory benchmark: one fictional user, six months, 2,080 probes scoring forgetting, scope leaks, poisoning, abstention and recall; Dawnmere's makers maintain it, and it scores Dawnmere._
 
 #### 🗓️ 2025
 
