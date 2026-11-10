@@ -1041,7 +1041,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [MemoryBrain](https://memorybrain.ai/)
    [[docs](https://github.com/Memory-brain/open-brain)]
-   _Hosted MCP memory for ChatGPT and Claude where every note keeps its source (read, said or chat) and typed links to other notes._
+   _Hosted MCP memory for ChatGPT and Claude (private beta) where every note keeps its source (read, said or chat) and typed links to other notes._
 
 ### Archival
 
