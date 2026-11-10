@@ -1523,6 +1523,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)**
     [[code](https://github.com/TIMAN-group/PlugMem)]
 
+- **[Panini: Continual Learning in Token Space via Structured Memory](https://arxiv.org/abs/2602.15156)**
+    [[code](https://github.com/roychowdhuryresearch/gsw-memory)]
+
 - [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307)
 
 - [Executable Agentic Memory for GUI Agent](https://arxiv.org/abs/2605.12294)
@@ -1542,6 +1545,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Hierarchical Memory Organization for Wikipedia Generation](https://aclanthology.org/2025.acl-long.1423/)**
     [[code](https://github.com/eugeneyujunhao/mog)]
+
+- **[Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces](https://arxiv.org/abs/2511.07587)** (GSW)
+    [[code](https://github.com/roychowdhuryresearch/gsw-memory)]
 
 - [From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory](https://www.arxiv.org/abs/2511.07800)
 
