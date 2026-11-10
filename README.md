@@ -853,6 +853,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/shyringo/revo)]
       _Self-starting terminal coding agent whose append-only JSONL life log keeps keyword-recalled memories, intentions and obligations across restarts; graceful sleep adds a model-written continuity capsule._
 
+130. **[AI-Continuity](https://github.com/KermanHaynes/AI-Continuity)
+      ![Star](https://img.shields.io/github/stars/KermanHaynes/AI-Continuity.svg?style=social&label=Star)
+           [[code](https://github.com/KermanHaynes/AI-Continuity])
+           _Git-backed, model-independent continuity system: preserves original AI conversations, reviewed knowledge, decisions and work records so sessions can resume across models._
+
 </details>
 
 ### Closed-Source
