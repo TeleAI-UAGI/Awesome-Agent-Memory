@@ -1039,6 +1039,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.hydradb.com/essentials/v2/memories)]
    _Hosted knowledge-graph context API for agents: memories, stored as sent or extracted from dialogue and logs, are queried alongside synced company knowledge; Apache-2.0 MCP server._
 
+-  [Memorable](https://www.memorable.sh/)
+   [[docs](https://www.memorable.sh/doc)]
+   [[eval](https://www.memorable.sh/whitepaper)]
+   _Procedural memory for agents: turns the tool calls that finished a task into a procedure, without a model call, and recalls it on similar tasks._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
