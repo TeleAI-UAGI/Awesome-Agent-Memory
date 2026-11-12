@@ -1904,6 +1904,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[data](https://huggingface.co/datasets/noahli/EvoKernel)]
     [[proj](https://evokernel.zhuo.li/)]
 
+- [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439) (MixUA)
+
 - [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794)
 
 - [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](https://arxiv.org/abs/2607.26017)
