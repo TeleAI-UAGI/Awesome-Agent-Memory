@@ -1488,6 +1488,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Panini: Continual Learning in Token Space via Structured Memory](https://arxiv.org/abs/2602.15156)**
+    [[code](https://github.com/roychowdhuryresearch/gsw-memory)]
+
 - **[LLM Orchestration with Geometry-Aware Memory](https://doi.org/10.1109/ICBDML68582.2026.11544690)**
     [[code](https://github.com/dhruvmojila/poincare-memory)]
 
@@ -1530,6 +1533,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061)
 
 #### 🗓️ 2025
+
+- **[Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces](https://arxiv.org/abs/2511.07587)** (GSW)
+    [[code](https://github.com/roychowdhuryresearch/gsw-memory)]
 
 - **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**
     [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
