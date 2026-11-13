@@ -1906,6 +1906,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
     [[code](https://github.com/MemTensor/MemRL)]
 
+- [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439) (MixUA)
+
 - [Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis](https://arxiv.org/abs/2603.10846) (EvoKernel)
     [[data](https://huggingface.co/datasets/noahli/EvoKernel)]
     [[proj](https://evokernel.zhuo.li/)]
