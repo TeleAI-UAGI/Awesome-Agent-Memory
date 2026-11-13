@@ -1613,6 +1613,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487)**
+    [[code](https://github.com/zjunlp/LightMem-Ego)]
+
 - **[EM²Mem: Event-Centric Multimodal Memory for Large Language Models](https://aclanthology.org/2026.findings-emnlp.903/)**
     [[code](https://github.com/zjunlp/LightMem)]
 
