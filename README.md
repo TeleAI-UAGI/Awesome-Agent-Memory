@@ -1068,6 +1068,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[spec](https://github.com/Memory-brain/provenance-notes/blob/main/SPEC.md)]
    _Hosted MCP memory for ChatGPT and Claude (private beta) where every note keeps its source (read, said or chat) and typed links to other notes._
 
+-  [Dawnmere](https://dawnmere.app/)
+   [[code](https://github.com/LF-Labs-Inc/dawnmere)]
+   [[source-available](https://github.com/LF-Labs-Inc/dawnmere-engine)]
+   [[license](https://github.com/LF-Labs-Inc/dawnmere-engine/blob/main/LICENSE)]
+   _Mac memory shared by Claude Code, Codex and Cursor over MCP: on-device search, per-app access levels; the user's Claude extracts memories by default._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
@@ -1181,6 +1187,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 ### 💬 Plain-Text Benchmarks
 
 #### 🗓️ 2026
+
+- **memory-bench**
+    [[code](https://github.com/LF-Labs-Inc/memory-bench)]
+    _Assistant-memory benchmark over a fictional user's six months: 2,080 probes (half private) on forgetting, scope leaks, poisoning and recall; from Dawnmere's makers, who score Dawnmere._
 
 - **[Agent Memory Leaderboard](https://agentmemories.ai/home)**
     [[code](https://github.com/AML-memory/agent-memory-leaderboard)]
