@@ -1074,6 +1074,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[license](https://github.com/LF-Labs-Inc/dawnmere-engine/blob/main/LICENSE)]
    _Mac memory shared by Claude Code, Codex and Cursor over MCP: on-device search, per-app access levels; the user's Claude extracts memories by default._
 
+-  [Memorable](https://www.memorable.sh/)
+   [[docs](https://www.memorable.sh/doc)]
+   [[eval](https://www.memorable.sh/whitepaper)]
+   _Procedural memory for agents: rules turn a finished run's tool calls into a procedure, recalled on similar tasks by exact, keyword or embedding match._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
