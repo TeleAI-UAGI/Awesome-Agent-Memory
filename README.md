@@ -1063,6 +1063,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.hydradb.com/essentials/v2/memories)]
    _Hosted knowledge-graph context API for agents: memories, stored as sent or extracted from dialogue and logs, are queried alongside synced company knowledge; Apache-2.0 MCP server._
 
+-  [MemoryBrain](https://memorybrain.ai/)
+   [[docs](https://memorybrain.ai/agents.md)]
+   [[spec](https://github.com/Memory-brain/provenance-notes/blob/main/SPEC.md)]
+   _Hosted MCP memory for ChatGPT and Claude (private beta) where every note keeps its source (read, said or chat) and typed links to other notes._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
