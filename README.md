@@ -1428,6 +1428,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://arxiv.org/abs/2610.30755)** (Raw-RAG)
+    [[code](https://github.com/Litmeb/RAW-RAG)]
+
 - **[Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory](https://arxiv.org/abs/2605.19952)** (TriMem)
     [[code](https://github.com/tmlr-group/TriMem)]
     [[proj](https://tmlr-trimem.github.io/)]
