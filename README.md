@@ -1986,6 +1986,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2025
 
+- **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
+    [[code](https://github.com/google-research/reasoning-bank)]
+
 - **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675)**
     [[code](https://github.com/test-time-training/e2e)]
 
@@ -2037,8 +2040,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [Latent Learning: Episodic Memory Complements Parametric Learning by Enabling Flexible Reuse of Experiences](https://arxiv.org/abs/2509.16189)
 
 - [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
-
-- [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
 
 - [Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)
 
