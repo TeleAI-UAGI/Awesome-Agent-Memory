@@ -2068,6 +2068,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287)**
+    [[code](https://github.com/fudan-generative-vision/Remory)]
+
 - **[Recursive Experiential–Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876)** (Recuris)
     [[code](https://github.com/Gen-Verse/Recuris)]
 
