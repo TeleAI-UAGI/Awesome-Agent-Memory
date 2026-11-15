@@ -1428,6 +1428,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](https://arxiv.org/abs/2610.11573)** (MemoType)
+    [[code](https://github.com/Applied-Machine-Learning-Lab/NeurIPS26_MemoType)]
+
 - **[Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://arxiv.org/abs/2610.30755)** (Raw-RAG)
     [[code](https://github.com/Litmeb/RAW-RAG)]
 
