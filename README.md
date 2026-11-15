@@ -1428,6 +1428,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[EvoMemState: Evolving Memory State for Personal Agents](https://arxiv.org/abs/2611.03743)**
+    [[code](https://github.com/XMUDeepLIT/EvoMemState)]
+
 - **[Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](https://arxiv.org/abs/2610.11573)** (MemoType)
     [[code](https://github.com/Applied-Machine-Learning-Lab/NeurIPS26_MemoType)]
 
