@@ -1995,6 +1995,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2025
 
+- **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
+    [[code](https://github.com/bingreeky/MemGen)]
+
 - **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
     [[code](https://github.com/google-research/reasoning-bank)]
 
@@ -2053,8 +2056,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - [Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)
 
 - [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
-
-- [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)
 
 - [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)
 
