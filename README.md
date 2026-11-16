@@ -1139,6 +1139,11 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Always-On Personal Intelligence: A Roadmap Towards Continuing, Self-Evolving Loops (Chapter 4)](https://www.preprints.org/manuscript/202611.0793)**
+    [[code](https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence)]
+    [[proj](https://always-on-intelligence.github.io/)]
+    [[HALO](https://github.com/Always-On-Intelligence/HALO)]
+
 - **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
     [[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]
 
