@@ -1084,6 +1084,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://www.memorable.sh/whitepaper)]
    _Procedural memory for agents: rules turn a finished run's tool calls into a procedure, recalled on similar tasks by exact, keyword or embedding match._
 
+-  [Pensieve](https://pensieve.uk/)
+   [[docs](https://docs.pensieve.uk/mcp-server/how-it-works)]
+   [[eval](https://docs.pensieve.uk/benchmark)]
+   _Hosted company knowledge for agents over MCP: maintains cited Pages from connected tools such as Slack, Notion and GitHub; agents save findings and edit Pages._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
