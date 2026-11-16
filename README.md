@@ -1139,6 +1139,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications](https://www.preprints.org/manuscript/202607.1539)**
+    [[code](https://github.com/Xzcv-hub/Awesome-Memory-in-VLM)]
+
 - **[Always-On Personal Intelligence: A Roadmap Towards Continuing, Self-Evolving Loops (Chapter 4)](https://www.preprints.org/manuscript/202611.0793)**
     [[code](https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence)]
     [[proj](https://always-on-intelligence.github.io/)]
