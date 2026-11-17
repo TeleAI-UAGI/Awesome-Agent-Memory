@@ -1130,6 +1130,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[Choose an agent-memory architecture](https://sir-ad.github.io/awesome-memory/guide.html)** (sir-ad): Decision guide mapping four memory jobs to five architecture patterns, minimum controls, evaluation baselines, and primary research.
 
+- **[Verify Agent Memory Across Sessions](https://axonio.xyz/blog/verify-agent-memory-across-sessions/)** (Axonio): Reproducible tutorial that saves a record in one session and retrieves it by ID in another, with a downloadable script and captured output.
+
 - **[Tools, Actions, Memory, and Context](https://books.bloo-mind.ai/masact/ch-04-tools-actions-environments)** †: Chapter 4 of the textbook _[Multi-Agent Systems: A Contemporary Treatment](https://books.bloo-mind.ai/masact/)_.
 
 #### 🗓️ 2025
