@@ -1925,6 +1925,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://arxiv.org/abs/2609.15364)**
+    [[code](https://github.com/AetherLabsAI/RSIAgent)]
+    [[proj](https://aetherlabsai.github.io/RSIAgent/)]
+
 - **[Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368)**
     [[code](https://github.com/Virlus/VaM)]
     [[proj](https://virlus.github.io/vam/)]
