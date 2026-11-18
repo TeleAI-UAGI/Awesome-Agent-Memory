@@ -982,6 +982,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    _Hosted MCP context layer for coding agents: persistent decisions and lessons, semantic code search, post-compaction recovery; MIT-licensed Rust client, hosted backend closed-source._
 
 -  [Sentra](https://www.sentra.app/)
+   [[docs](https://www.sentra.app/developers)]
    _Organization-wide memory layer for teams and agents: ingests meetings, mail, tickets, and repositories into a bi-temporal fact graph served over REST and MCP._
 
 -  [Moraine Home](https://github.com/ceniran/moraine-home)
