@@ -421,17 +421,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-51. **[ZizkaDB](https://db.zizka.ai/)**
-      ![Star](https://img.shields.io/github/stars/ZIZKA-AI-SL/ZizkaDB.svg?style=social&label=Star)
-      [[code](https://github.com/ZIZKA-AI-SL/ZizkaDB)]
-      [[docs](https://github.com/ZIZKA-AI-SL/ZizkaDB/wiki)]
-      _Audit-trail database for AI agents whose logged events double as memory: hash-chained log with parent links, why-queries, point-in-time state, ranked context for prompts; MCP, SDKs._
-
-52. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
+51. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
       ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
       [[code](https://github.com/ClickHouse/loom)]
       [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
       _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
+
+52. **[ZizkaDB](https://db.zizka.ai/)**
+      ![Star](https://img.shields.io/github/stars/ZIZKA-AI-SL/ZizkaDB.svg?style=social&label=Star)
+      [[code](https://github.com/ZIZKA-AI-SL/ZizkaDB)]
+      [[docs](https://github.com/ZIZKA-AI-SL/ZizkaDB/wiki)]
+      _Audit-trail database for AI agents whose logged events double as memory: hash-chained log with parent links, why-queries, point-in-time state, ranked context for prompts; MCP, SDKs._
 
 53. **[Mnemosyne (by 28naem-del)](https://mnemosy.ai)**
       ![Star](https://img.shields.io/github/stars/28naem-del/mnemosyne.svg?style=social&label=Star)
@@ -752,31 +752,31 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://ampres-ai.github.io/talamus/benchmarks/)]
       _Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP._
 
-110. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
+110. **[m2b](https://github.com/Kolibee-GmbH/m2b)**
+      ![Star](https://img.shields.io/github/stars/Kolibee-GmbH/m2b.svg?style=social&label=Star)
+      [[code](https://github.com/Kolibee-GmbH/m2b)]
+      _Cross-project Markdown memory for Claude Code: background Claude runs file what the user asks to keep and rewrite expired facts; sessions start with the summary._
+
+111. **[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)**
       ![Star](https://img.shields.io/github/stars/kannaka-labs/kannaka-memory.svg?style=social&label=Star)
       [[code](https://github.com/kannaka-labs/kannaka-memory)]
       [[eval](https://github.com/kannaka-labs/kannaka-bench/blob/master/RESULTS.md)]
       _Rust agent memory as a wave-interference medium: phase-coded wavefronts, bilateral hemispheres, dream consolidation and forgetting, NATS swarm sync; CLI and MCP plugin._
 
-111. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
+112. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
       ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social&label=Star)
       [[code](https://github.com/chenhz01/agent-memory-doctor)]
       _Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action._
 
-112. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
+113. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)**
       ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social&label=Star)
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
       _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
-113. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
+114. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
       ![Star](https://img.shields.io/github/stars/studiomoob/llmoobfs.svg?style=social&label=Star)
       [[code](https://github.com/studiomoob/llmoobfs)]
       _Experimental Linux filesystem for agent-memory storage, with typed extended attributes and permission-scoped queries; developed with AI assistance, for disposable-VM evaluation._
-
-114. **[m2b](https://github.com/Kolibee-GmbH/m2b)**
-      ![Star](https://img.shields.io/github/stars/Kolibee-GmbH/m2b.svg?style=social&label=Star)
-      [[code](https://github.com/Kolibee-GmbH/m2b)]
-      _Cross-project Markdown memory for Claude Code: background Claude runs file what the user asks to keep and rewrite expired facts; sessions start with the summary._
 
 115. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
