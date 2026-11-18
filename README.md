@@ -258,15 +258,15 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://memmachine.ai/blog/)]
       _Interoperable memory layer providing extensible storage and retrieval primitives for AI agents._
 
-22. **[Memobase](https://docs.memobase.io/)**
-      ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
-      [[code](https://github.com/memodb-io/memobase)]
-      _User profile-based long-term memory for AI chatbot applications._
-
-23. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
+22. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
       ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
+
+23. **[Memobase](https://docs.memobase.io/)**
+      ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+      [[code](https://github.com/memodb-io/memobase)]
+      _User profile-based long-term memory for AI chatbot applications._
 
 24. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social&label=Star)
       [[code](https://github.com/moorcheh-ai/memanto)]
@@ -427,33 +427,33 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://github.com/ZIZKA-AI-SL/ZizkaDB/wiki)]
       _Audit-trail database for AI agents whose logged events double as memory: hash-chained log with parent links, why-queries, point-in-time state, ranked context for prompts; MCP, SDKs._
 
-52. **[Mnemosyne (by 28naem-del)](https://mnemosy.ai)**
+52. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
+      ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
+      [[code](https://github.com/ClickHouse/loom)]
+      [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
+      _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
+
+53. **[Mnemosyne (by 28naem-del)](https://mnemosy.ai)**
       ![Star](https://img.shields.io/github/stars/28naem-del/mnemosyne.svg?style=social&label=Star)
       [[code](https://github.com/28naem-del/mnemosyne)]
       [[docs](https://github.com/28naem-del/mnemosyne/tree/main/docs)]
       [[eval](https://github.com/28naem-del/mnemosyne/blob/main/docs/BENCHMARKS-TRUST.md)]
       _Local-first TypeScript agent memory in one SQLite file; memories keep source evidence, corrections retire recorded dependents, exact replay and bisect in 3.0 pre-release; MCP, CLI._
 
-53. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
+54. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)**
       ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
-
-54. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
-      ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
-      [[code](https://github.com/ClickHouse/loom)]
-      [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
-      _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
-
-<details>
-
-  <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
 55. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
       ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
       [[code](https://github.com/JingxuanC/causal-memory)]
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
       _Local-first agent memory in Rust: facts and typed decision→outcome causal edges (caused/enabled/prevented) on one SQLite store, with inhibitory spreading activation, MCP server, CLI, Python bindings._
+
+<details>
+
+  <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
 56. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
@@ -768,66 +768,66 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/secondbrainstarter/verified-memory-vault)]
       _Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions._
 
-113. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
-      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
-      [[code](https://github.com/kevdogg102396-afk/packrat)]
-      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-114. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
-      ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social&label=Star)
-      [[code](https://github.com/Tin11Mn/chrono-hybrid-mem)]
-      _Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08)._
-
-115. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
+113. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
       ![Star](https://img.shields.io/github/stars/studiomoob/llmoobfs.svg?style=social&label=Star)
       [[code](https://github.com/studiomoob/llmoobfs)]
       _Experimental Linux filesystem for agent-memory storage, with typed extended attributes and permission-scoped queries; developed with AI assistance, for disposable-VM evaluation._
 
-116. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
+114. **[m2b](https://github.com/Kolibee-GmbH/m2b)**
+      ![Star](https://img.shields.io/github/stars/Kolibee-GmbH/m2b.svg?style=social&label=Star)
+      [[code](https://github.com/Kolibee-GmbH/m2b)]
+      _Cross-project Markdown memory for Claude Code: background Claude runs file what the user asks to keep and rewrite expired facts; sessions start with the summary._
+
+115. **[PackRat](https://github.com/kevdogg102396-afk/packrat)**
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
+
+116. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)**
+      ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social&label=Star)
+      [[code](https://github.com/Tin11Mn/chrono-hybrid-mem)]
+      _Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+117. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)**
       ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social&label=Star)
       [[code](https://github.com/tonydzi/claude-memory-tidy)]
       _Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation._
 
-117. **[Project Noosphere](https://projectnoosphere.org/)**
+118. **[Project Noosphere](https://projectnoosphere.org/)**
       ![Star](https://img.shields.io/github/stars/GoodyGoodyGoody/projectnoosphere.svg?style=social&label=Star)
       [[code](https://github.com/GoodyGoodyGoody/projectnoosphere)]
       _Hosted knowledge commons for agents over MCP: search sourced findings and how-tos, report whether they worked, propose revisions; CC0 content, submissions LLM-reviewed nightly._
 
-118. **[memgres](https://github.com/mozgsml/memgres)**
+119. **[memgres](https://github.com/mozgsml/memgres)**
       ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social&label=Star)
       [[code](https://github.com/mozgsml/memgres)]
       _Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP._
 
-119. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
+120. **[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)**
       ![Star](https://img.shields.io/github/stars/dlxeva/flowgrid-aml-retriever.svg?style=social&label=Star)
       [[code](https://github.com/dlxeva/flowgrid-aml-retriever)]
       _Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-120. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
+121. **[engram (by FBISiri)](https://github.com/FBISiri/engram)**
       ![Star](https://img.shields.io/github/stars/FBISiri/engram.svg?style=social&label=Star)
       [[code](https://github.com/FBISiri/engram)]
       _Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces._
 
-121. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
+122. **[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)**
       ![Star](https://img.shields.io/github/stars/0xboyu/aml-memory-mvp.svg?style=social&label=Star)
       [[code](https://github.com/0xboyu/aml-memory-mvp)]
       _Evidence-only, typo-tolerant retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-122. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
+123. **[ExperienceNet](https://github.com/cu-min/experiencenet)**
       ![Star](https://img.shields.io/github/stars/cu-min/experiencenet.svg?style=social&label=Star)
       [[code](https://github.com/cu-min/experiencenet)]
       [[docs](https://github.com/cu-min/experiencenet/blob/master/docs/API.md)]
       _Self-hosted experience network for agents: search and write real technical attempts (problem/conditions/action/outcome), lexical + semantic hybrid retrieval over PostgreSQL/pgvector, gap capture, reuse feedback._
 
-123. **[YYLO Ledger](https://github.com/yylo-dev/yylo-ledger)**
+124. **[YYLO Ledger](https://github.com/yylo-dev/yylo-ledger)**
       ![Star](https://img.shields.io/github/stars/yylo-dev/yylo-ledger.svg?style=social&label=Star)
       [[code](https://github.com/yylo-dev/yylo-ledger)]
       _Git-native task and Record store for coding-agent workflows: reviewable current state, append-only history, dependency-aware work, and bounded queries._
-
-124. **[m2b](https://github.com/Kolibee-GmbH/m2b)**
-      ![Star](https://img.shields.io/github/stars/Kolibee-GmbH/m2b.svg?style=social&label=Star)
-      [[code](https://github.com/Kolibee-GmbH/m2b)]
-      _Cross-project Markdown memory for Claude Code: background Claude runs file what the user asks to keep and rewrite expired facts; sessions start with the summary._
 
 125. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
