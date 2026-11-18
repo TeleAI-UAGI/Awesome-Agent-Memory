@@ -1099,6 +1099,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[eval](https://docs.pensieve.uk/benchmark)]
    _Hosted company knowledge for agents over MCP: maintains cited Pages from connected tools such as Slack, Notion and GitHub; agents save findings and edit Pages._
 
+-  [MemoryRouter](https://memoryrouter.ai)
+   [[docs](https://docs.memoryrouter.ai)]
+   _Hosted memory for ChatGPT, Claude, Claude Code and other MCP clients: one user-scoped vault, so context survives compaction and model switches._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
