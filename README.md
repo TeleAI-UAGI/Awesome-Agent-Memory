@@ -897,6 +897,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/shyringo/revo)]
       _Self-starting terminal coding agent whose append-only JSONL life log keeps keyword-recalled memories, intentions and obligations across restarts; graceful sleep adds a model-written continuity capsule._
 
+138. **[Axonio](https://axonio.xyz/)**
+      ![Star](https://img.shields.io/github/stars/hackcat29/ClawDB.svg?style=social&label=Star)
+      [[code](https://github.com/hackcat29/ClawDB)]
+      [[docs](https://axonio.xyz/docs/)]
+      _Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP._
+
 </details>
 
 ### Closed-Source
