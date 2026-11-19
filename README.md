@@ -892,6 +892,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/shyringo/revo)]
       _Self-starting terminal coding agent whose append-only JSONL life log keeps keyword-recalled memories, intentions and obligations across restarts; graceful sleep adds a model-written continuity capsule._
 
+
+137. **[Fat Fish Heart](https://github.com/Roxy-DD/fatfish-heart)**
+      ![Star](https://img.shields.io/github/stars/Roxy-DD/fatfish-heart.svg?style=social&label=Star)
+      [[code](https://github.com/Roxy-DD/fatfish-heart)]
+      [[docs](https://github.com/Roxy-DD/fatfish-heart/blob/master/README.md)]
+      _Local SQLite episodic memory for AI agents with lossless cross-process migration, deterministic retrieval, rebuildable indexes and offsite recovery; four inviolate no-loss red lines. Self-reported._
 </details>
 
 ### Closed-Source
