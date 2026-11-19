@@ -2273,6 +2273,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- [NeurIPS 2026](https://neurips.cc/Conferences/2026): [Workshop on Personalized, Aligned, Long-Term Memory for AI Systems (PALM)](https://palm-neurips-2026.github.io/)
 - [CoRL 2026](https://2026.corl.org/): [Workshop on Memory for Robot Foundation Models (RoboMem)](https://corl2026-memory.github.io/)
   [[schedule](https://corl2026-memory.github.io/#schedule)]
 - [ICLR 2026](https://iclr.cc/Conferences/2026): [Workshop on Memory for LLM-Based Agentic Systems (MemAgents)](https://sites.google.com/view/memagent-iclr26/)
