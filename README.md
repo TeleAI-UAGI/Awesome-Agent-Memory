@@ -1857,6 +1857,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)**
     [[code](https://github.com/arunv3rma/MeMo)]
 
+- [Shallow Encoding Emits Deep Memories](https://arxiv.org/abs/2611.06084) (SEED)
+    [[proj](https://latent-voyager-seed.static.hf.space/index.html)]
+
 - [Cortex: Consolidating Context into Parametric Memory](https://arxiv.org/abs/2610.20399)
 
 - [Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979)
