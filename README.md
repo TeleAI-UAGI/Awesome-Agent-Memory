@@ -2144,6 +2144,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)**
     [[code](https://github.com/qzzqzzb/Self-Harness)]
 
+- [Self-Improvement Memory Enables Continual Recursive Self-Improvement](https://arxiv.org/abs/2611.18856)
+
 - [Recursive Harness Distillation across Agents for Robot Manipulation](https://arxiv.org/abs/2609.33378)
     [[proj](https://seungyeon.me/RHD/)]
 
