@@ -252,16 +252,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://mirix.io/#/blog)]
       _Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory._
 
-21. **[MemMachine](https://memmachine.ai/)**
+21. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
+      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+      [[code](https://github.com/ModernRelay/omnigraph)]
+      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
+
+22. **[MemMachine](https://memmachine.ai/)**
       ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
       [[code](https://github.com/MemMachine/MemMachine)]
       [[blog](https://memmachine.ai/blog/)]
       _Interoperable memory layer providing extensible storage and retrieval primitives for AI agents._
-
-22. **[Omnigraph](https://github.com/ModernRelay/omnigraph)**
-      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
-      [[code](https://github.com/ModernRelay/omnigraph)]
-      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
 23. **[Memobase](https://docs.memobase.io/)**
       ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
@@ -274,16 +274,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://docs.memanto.ai)]
       _Typed semantic memory with `remember`/`recall`/`answer` operations and information-theoretic retrieval._
 
-25. **[LangMem](https://langchain-ai.github.io/langmem/)**
+25. **[PowerMem](https://www.powermem.ai)**
+      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
+      [[code](https://github.com/oceanbase/powermem)]
+      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
+
+26. **[LangMem](https://langchain-ai.github.io/langmem/)**
       ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
       [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
       _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._
-
-26. **[PowerMem](https://www.powermem.ai)**
-      ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
-      [[code](https://github.com/oceanbase/powermem)]
-      _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
 
 27. **[Puppyone](https://www.puppyone.ai)**
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
@@ -354,22 +354,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://caura.ai/blog)]
       _Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning._
 
-39. **[Compartment](https://github.com/MaxFreedomPollard/Compartment)**
-      ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment.svg?style=social&label=Star)
-      [[code](https://github.com/MaxFreedomPollard/Compartment)]
-      _Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log._
-
-40. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)**
+39. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)**
       ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
       [[code](https://github.com/Ikalus1988/MisakaNet)]
       [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
       _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
-41. **[Wenlan](https://wenlan.app/)**
+40. **[Wenlan](https://wenlan.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/wenlan)]
       [[docs](https://wenlan.app/docs)]
       _Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients._
+
+41. **[Compartment](https://github.com/MaxFreedomPollard/Compartment)**
+      ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment.svg?style=social&label=Star)
+      [[code](https://github.com/MaxFreedomPollard/Compartment)]
+      _Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log._
 
 42. **[MemoSync](https://baiqiaozhang.cc/memosync/)**
       ![Star](https://img.shields.io/github/stars/SLEEPYBQ/MemoSync.svg?style=social&label=Star)
@@ -539,23 +539,23 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)]
       _Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-71. **[Selvedge](https://selvedge.sh)**
+71. **[LLMSlim](https://www.llmslim.app)**
+      ![Star](https://img.shields.io/github/stars/Thanatos9404/llmslim.svg?style=social&label=Star)
+      [[code](https://github.com/Thanatos9404/llmslim)]
+      [[docs](https://github.com/Thanatos9404/llmslim/blob/main/docs/MEMORY.md)]
+      _Context-compression library whose no-LLM memory stores turns verbatim in SQLite or Postgres and recalls them, whole where they fit, within a token budget; stdio MCP._
+
+72. **[Selvedge](https://selvedge.sh)**
       ![Star](https://img.shields.io/github/stars/masondelan/selvedge.svg?style=social&label=Star)
       [[code](https://github.com/masondelan/selvedge)]
       [[docs](https://selvedge.sh/reference/compatibility/)]
       _Local decision memory for coding agents: records code decisions, rejected approaches and revisit conditions in SQLite; retrieved through MCP or CLI._
 
-72. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
+73. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/fidelis.svg?style=social&label=Star)
       [[code](https://github.com/hermes-labs-ai/fidelis)]
       [[eval](https://github.com/hermes-labs-ai/fidelis/blob/b938676affd47f2a6e0a5106c44336fa11f4e92f/bench/results-default-0.3.0rc1.json)]
       _Local-first memory for coding agents: MCP recall returns original passages verbatim via vector search, with an explicit BM25/RRF hybrid mode; no generative LLM in retrieval._
-
-73. **[LLMSlim](https://www.llmslim.app)**
-      ![Star](https://img.shields.io/github/stars/Thanatos9404/llmslim.svg?style=social&label=Star)
-      [[code](https://github.com/Thanatos9404/llmslim)]
-      [[docs](https://github.com/Thanatos9404/llmslim/blob/main/docs/MEMORY.md)]
-      _Context-compression library whose no-LLM memory stores turns verbatim in SQLite or Postgres and recalls them, whole where they fit, within a token budget; stdio MCP._
 
 74. **[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain)**
       ![Star](https://img.shields.io/github/stars/enhesa/big-agentic-brain.svg?style=social&label=Star)
@@ -618,16 +618,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/mlapeter/counterparts)]
       _Long-term memory for Claude Code: Claude writes its own memories each session, unused ones fade, and everything stays in local SQLite._
 
-85. **[myc](https://aistastudio.github.io/myc/)**
+85. **[AtMem](https://github.com/aetna000/atmem)**
+      ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social&label=Star)
+      [[code](https://github.com/aetna000/atmem)]
+      _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
+
+86. **[myc](https://aistastudio.github.io/myc/)**
       ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
       [[code](https://github.com/aistastudio/myc)]
       [[docs](https://aistastudio.github.io/myc/)]
       _Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite._
-
-86. **[AtMem](https://github.com/aetna000/atmem)**
-      ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social&label=Star)
-      [[code](https://github.com/aetna000/atmem)]
-      _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
 
 87. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
       ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social&label=Star)
@@ -682,25 +682,25 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tonone-ai/elephant)]
       _Claude Code plugin keeping per-repo memory in a committed `ELEPHANT.md` plus a global cross-repo file; hooks load both at session start and prompt saves._
 
-97. **[hermeneutic](https://hermes-labs.ai/hermeneutic)**
+97. **[adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research)**
+      ![Star](https://img.shields.io/github/stars/krapcys1-maker/adaptive-agent-memory-research.svg?style=social&label=Star)
+      [[code](https://github.com/krapcys1-maker/adaptive-agent-memory-research)]
+      _Open research on experience memory for acting LLM agents: ALFWorld runs against no-memory and placebo controls; includes a dependency-free project-memory MCP server (append-only JSONL log)._
+
+98. **[hermeneutic](https://hermes-labs.ai/hermeneutic)**
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/hermeneutic.svg?style=social&label=Star)
       [[code](https://github.com/hermes-labs-ai/hermeneutic)]
       _Turns corrections from AI agent logs into guidance for similar tasks: local semantic memory with prompt-context hooks and response checks._
 
-98. **[Graphmem](https://github.com/sonic182/graphmem)**
+99. **[Graphmem](https://github.com/sonic182/graphmem)**
       ![Star](https://img.shields.io/github/stars/sonic182/graphmem.svg?style=social&label=Star)
       [[code](https://github.com/sonic182/graphmem)]
       _Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server._
 
-99. **[Synapse](https://github.com/anshulyadav1976/synapse)**
+100. **[Synapse](https://github.com/anshulyadav1976/synapse)**
       ![Star](https://img.shields.io/github/stars/anshulyadav1976/synapse.svg?style=social&label=Star)
       [[code](https://github.com/anshulyadav1976/synapse)]
       _Zero-dependency Markdown memory vault with ChatGPT/Claude imports, SQLite keyword and optional semantic search, linked wiki pages, MCP retrieval, and human-approved agent notes._
-
-100. **[adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research)**
-      ![Star](https://img.shields.io/github/stars/krapcys1-maker/adaptive-agent-memory-research.svg?style=social&label=Star)
-      [[code](https://github.com/krapcys1-maker/adaptive-agent-memory-research)]
-      _Open research on experience memory for acting LLM agents: ALFWorld runs against no-memory and placebo controls; includes a dependency-free project-memory MCP server (append-only JSONL log)._
 
 101. **[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)**
       ![Star](https://img.shields.io/github/stars/linxuhao/ActiveMemoryIndex.svg?style=social&label=Star)
