@@ -2175,6 +2175,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[Neural Subspaces Encode Sequential Working Memory without Detectable Neural Sequences](https://www.nature.com/articles/s41467-026-78895-x)**
+    [[code](https://github.com/asantoangles/geometry_working_memory)]
+
 - **[A Split Attractor Design for Rapidly Writing a Navigational Goal](https://www.nature.com/articles/s41586-026-11144-9)**
     [[code](https://github.com/nagellab/Lanzetal2025)]
 
