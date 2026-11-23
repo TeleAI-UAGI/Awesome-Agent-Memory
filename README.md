@@ -422,16 +422,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/tinqiao-oss/engramory)]
       _General-purpose long-term memory layer for AI agents: one markdown file per memory, a size-capped pointer index read every session, and a read-only validator._
 
-51. **[Memov](https://www.memov.ai/)**
-      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
-      [[code](https://github.com/memovai/memov)]
-      _Git-based, traceable memory layer for Claude Code._
-
-52. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
+51. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
       ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
       [[code](https://github.com/ClickHouse/loom)]
       [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
       _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
+
+52. **[Memov](https://www.memov.ai/)**
+      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+      [[code](https://github.com/memovai/memov)]
+      _Git-based, traceable memory layer for Claude Code._
 
 53. **[ZizkaDB](https://db.zizka.ai/)**
       ![Star](https://img.shields.io/github/stars/ZIZKA-AI-SL/ZizkaDB.svg?style=social&label=Star)
@@ -461,17 +461,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
   <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
 
-57. **[taOSmd](https://github.com/jaylfc/taosmd)**
-      ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
-      [[code](https://github.com/jaylfc/taosmd)]
-      [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
-      _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
-
-58. **[openJiuwen agent-memory](https://gitcode.com/openJiuwen/agent-memory)**
+57. **[openJiuwen agent-memory](https://gitcode.com/openJiuwen/agent-memory)**
       ![Star](https://img.shields.io/github/stars/openJiuwen-ai/agent-memory.svg?style=social&label=Star)
       [[code](https://github.com/openJiuwen-ai/agent-memory)]
       [[docs](https://github.com/openJiuwen-ai/agent-memory/tree/mem2.0/docs/en)]
       _Framework-agnostic long-term memory from openJiuwen: layered extraction into facts, events and profiles, hybrid BM25/vector recall with reranking, scope isolation; Python SDK, HTTP API, CLI, MCP._
+
+58. **[taOSmd](https://github.com/jaylfc/taosmd)**
+      ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
+      [[code](https://github.com/jaylfc/taosmd)]
+      [[eval](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
+      _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
 59. **[Synap](https://maximem.ai)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
@@ -591,22 +591,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/imlrz/ReFind)]
       _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
 
-80. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
-      ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
-      [[code](https://github.com/Das-rebel/a3m-router)]
-      _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
-
-81. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+80. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
       _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
-82. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core)**
+81. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_core.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_core)]
       [[docs](https://docs.maximem.ai/core/quickstart)]
       [[eval](https://github.com/maximem-ai/maximem_synap_core/blob/main/benchmarks/RESULTS.md)]
       _Self-hosted memory server: extracts facts, preferences, events and episodes with the user's LLM, resolves entities, vector + graph retrieval; Docker Compose stack, shares Synap's SDKs._
+
+82. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
+      ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
+      [[code](https://github.com/Das-rebel/a3m-router)]
+      _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
 
 83. **[Lians agent memory](https://www.lians.ai/)**
       ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social&label=Star)
@@ -629,28 +629,28 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/aetna000/atmem)]
       _Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard._
 
-87. **[myc](https://aistastudio.github.io/myc/)**
+87. **[VOOL](https://github.com/Parad0x-Labs/vool)**
+      ![Star](https://img.shields.io/github/stars/Parad0x-Labs/vool.svg?style=social&label=Star)
+      [[code](https://github.com/Parad0x-Labs/vool)]
+      [[eval](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md)]
+      _Local-first personal agent whose cross-session memory is readable files (MEMORY.md plus an entries store), embedded on-device, with verified forgetting; cloud models optional._
+
+88. **[myc](https://aistastudio.github.io/myc/)**
       ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social&label=Star)
       [[code](https://github.com/aistastudio/myc)]
       [[docs](https://aistastudio.github.io/myc/)]
       _Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite._
 
-88. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
+89. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
       ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social&label=Star)
       [[code](https://github.com/voxmastery/FluctlightDB)]
       [[paper](https://doi.org/10.5281/zenodo.20949890)]
       _Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation._
 
-89. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
+90. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)**
       ![Star](https://img.shields.io/github/stars/ashmoonori-afk/birkin-mnemosyne.svg?style=social&label=Star)
       [[code](https://github.com/ashmoonori-afk/birkin-mnemosyne)]
       _Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server._
-
-90. **[VOOL](https://github.com/Parad0x-Labs/vool)**
-      ![Star](https://img.shields.io/github/stars/Parad0x-Labs/vool.svg?style=social&label=Star)
-      [[code](https://github.com/Parad0x-Labs/vool)]
-      [[eval](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md)]
-      _Local-first personal agent whose cross-session memory is readable files (MEMORY.md plus an entries store), embedded on-device, with verified forgetting; cloud models optional._
 
 91. **[Lockstep](https://www.getlockstep.dev)**
       ![Star](https://img.shields.io/github/stars/lockstep-team-agent/lockstep.svg?style=social&label=Star)
