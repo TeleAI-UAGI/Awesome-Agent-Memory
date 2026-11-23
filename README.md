@@ -1736,6 +1736,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2025
 
+- **[VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](https://arxiv.org/abs/2511.11007)**
+    [[code](https://github.com/YU-deep/VisMem)]
+
 - **[WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)**
     [[code](https://github.com/wgcyeo/WorldMM)]
 
