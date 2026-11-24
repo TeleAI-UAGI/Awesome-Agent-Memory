@@ -1684,6 +1684,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- [MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research](https://arxiv.org/abs/2611.30011)
+    [[proj](https://zhangce01.github.io/morse/)]
+
 - **[LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487)**
     [[code](https://github.com/zjunlp/LightMem-Ego)]
 
