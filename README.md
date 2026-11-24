@@ -916,6 +916,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://axonio.xyz/docs/)]
       _Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP._
 
+141. **[Anamnema](https://anamnema.mattexb.net)**
+      ![Star](https://img.shields.io/github/stars/mattexb/Anamnema.svg?style=social&label=Star)
+      [[code](https://github.com/mattexb/Anamnema)]
+      [[paper](https://doi.org/10.5281/zenodo.24438533)]
+      _Claude Code memory whose notes keep their source lines, return through hooks, and are checked and corrected against that source; Neo4j and MongoDB, self-hosted._
+
 </details>
 
 ### Closed-Source
