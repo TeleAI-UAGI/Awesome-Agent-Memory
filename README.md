@@ -417,10 +417,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
       _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
-50. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
+50. **[ClickHouse Loom](https://loom.clickhouse.com/docs)**
       ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
       [[code](https://github.com/ClickHouse/loom)]
-      [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
+      [[eval](https://loom.clickhouse.com/docs/benchmarks/results)]
       _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
 
 51. **[Engramory](https://github.com/tinqiao-oss/engramory)**
