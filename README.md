@@ -1684,9 +1684,6 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
-- [MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research](https://arxiv.org/abs/2611.30011)
-    [[proj](https://zhangce01.github.io/morse/)]
-
 - **[LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487)**
     [[code](https://github.com/zjunlp/LightMem-Ego)]
 
@@ -1729,6 +1726,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 - **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
     [[code](https://github.com/Little-Fridge/M2A)]
+
+- [MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research](https://arxiv.org/abs/2611.30011)
+    [[proj](https://zhangce01.github.io/morse/)]
 
 - [BetaMem: Learning to Remember a Changing World for Embodied Agents](https://arxiv.org/abs/2610.26554)
 
