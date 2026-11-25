@@ -934,6 +934,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://axonio.xyz/docs/)]
       _Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP._
 
+144. **[Orion Handoff](https://github.com/OrionArchitekton/orion-handoff)**
+      ![Star](https://img.shields.io/github/stars/OrionArchitekton/orion-handoff.svg?style=social&label=Star)
+      [[code](https://github.com/OrionArchitekton/orion-handoff)]
+      _Local task-context handoff between agent sessions: immutable revisions, explicit uncertainty, conflicts instead of overwrites; old observations are never presented as current. MIT._
+
 </details>
 
 ### Closed-Source
