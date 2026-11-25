@@ -411,17 +411,17 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
 
-49. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
-      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
-      [[code](https://github.com/bigai-nlco/belief-context-graph)]
-      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
-      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
-
-50. **[ClickHouse Loom](https://loom.clickhouse.com/docs)**
+49. **[ClickHouse Loom](https://loom.clickhouse.com/docs)**
       ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
       [[code](https://github.com/ClickHouse/loom)]
       [[eval](https://loom.clickhouse.com/docs/benchmarks/results)]
       _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
+
+50. **[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)**
+      ![Star](https://img.shields.io/github/stars/bigai-nlco/belief-context-graph.svg?style=social&label=Star)
+      [[code](https://github.com/bigai-nlco/belief-context-graph)]
+      [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
+      _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
 51. **[Engramory](https://github.com/tinqiao-oss/engramory)**
       ![Star](https://img.shields.io/github/stars/tinqiao-oss/engramory.svg?style=social&label=Star)
@@ -451,7 +451,13 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
-56. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
+56. **[openJiuwen agent-memory](https://gitcode.com/openJiuwen/agent-memory)**
+      ![Star](https://img.shields.io/github/stars/openJiuwen-ai/agent-memory.svg?style=social&label=Star)
+      [[code](https://github.com/openJiuwen-ai/agent-memory)]
+      [[docs](https://github.com/openJiuwen-ai/agent-memory/tree/mem2.0/docs/en)]
+      _Framework-agnostic long-term memory from openJiuwen: layered extraction into facts, events and profiles, hybrid BM25/vector recall with reranking, scope isolation; Python SDK, HTTP API, CLI, MCP._
+
+57. **[causal-memory](https://github.com/JingxuanC/causal-memory)**
       ![Star](https://img.shields.io/github/stars/JingxuanC/causal-memory.svg?style=social&label=Star)
       [[code](https://github.com/JingxuanC/causal-memory)]
       [[eval](https://github.com/JingxuanC/causal-memory/tree/main/docs/benchmarks)]
@@ -460,12 +466,6 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 <details>
 
   <summary>🌱 <b>Emerging projects</b> — open-source products with fewer than 100 GitHub stars, same format and ordering (click to expand)</summary>
-
-57. **[openJiuwen agent-memory](https://gitcode.com/openJiuwen/agent-memory)**
-      ![Star](https://img.shields.io/github/stars/openJiuwen-ai/agent-memory.svg?style=social&label=Star)
-      [[code](https://github.com/openJiuwen-ai/agent-memory)]
-      [[docs](https://github.com/openJiuwen-ai/agent-memory/tree/mem2.0/docs/en)]
-      _Framework-agnostic long-term memory from openJiuwen: layered extraction into facts, events and profiles, hybrid BM25/vector recall with reranking, scope isolation; Python SDK, HTTP API, CLI, MCP._
 
 58. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
