@@ -417,16 +417,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://belief-context-graph.docs.buildwithfern.com/)]
       _Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark._
 
-50. **[Engramory](https://github.com/tinqiao-oss/engramory)**
-      ![Star](https://img.shields.io/github/stars/tinqiao-oss/engramory.svg?style=social&label=Star)
-      [[code](https://github.com/tinqiao-oss/engramory)]
-      _General-purpose long-term memory layer for AI agents: one markdown file per memory, a size-capped pointer index read every session, and a read-only validator._
-
-51. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
+50. **[ClickHouse Loom](https://clickhouse.github.io/loom/)**
       ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social&label=Star)
       [[code](https://github.com/ClickHouse/loom)]
       [[eval](https://github.com/ClickHouse/loom/blob/main/docs/benchmarks/results.md)]
       _Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse._
+
+51. **[Engramory](https://github.com/tinqiao-oss/engramory)**
+      ![Star](https://img.shields.io/github/stars/tinqiao-oss/engramory.svg?style=social&label=Star)
+      [[code](https://github.com/tinqiao-oss/engramory)]
+      _General-purpose long-term memory layer for AI agents: one markdown file per memory, a size-capped pointer index read every session, and a read-only validator._
 
 52. **[Memov](https://www.memov.ai/)**
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
@@ -586,22 +586,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://github.com/hjqcan/GoodMemory#quickstart-codex-or-claude-code-memory)]
       _Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback._
 
-79. **[ReFind](https://github.com/imlrz/ReFind)**
-      ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
-      [[code](https://github.com/imlrz/ReFind)]
-      _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
-
-80. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
-      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
-      [[code](https://github.com/renezander030/agentic-task-system)]
-      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
-
-81. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core)**
+79. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core)**
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_core.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_core)]
       [[docs](https://docs.maximem.ai/core/quickstart)]
       [[eval](https://github.com/maximem-ai/maximem_synap_core/blob/main/benchmarks/RESULTS.md)]
       _Self-hosted memory server: extracts facts, preferences, events and episodes with the user's LLM, resolves entities, vector + graph retrieval; Docker Compose stack, shares Synap's SDKs._
+
+80. **[ReFind](https://github.com/imlrz/ReFind)**
+      ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social&label=Star)
+      [[code](https://github.com/imlrz/ReFind)]
+      _Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08)._
+
+81. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
+      [[code](https://github.com/renezander030/agentic-task-system)]
+      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
 82. **[A3M Router](https://github.com/Das-rebel/a3m-router)**
       ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social&label=Star)
@@ -667,31 +667,31 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[code](https://github.com/RooAGI/Lint-AI)]
       _Agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions._
 
-94. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
-      ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
-      [[code](https://github.com/ArcticFox2029/chamnan)]
-      [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
-      _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
-
-95. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
+94. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**
       ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social&label=Star)
       [[code](https://github.com/louis030195/hyperconsciousness)]
       _Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP._
 
-96. **[Pulse](https://github.com/muhammademanaftab/pulse)**
+95. **[Pulse](https://github.com/muhammademanaftab/pulse)**
       ![Star](https://img.shields.io/github/stars/muhammademanaftab/pulse.svg?style=social&label=Star)
       [[code](https://github.com/muhammademanaftab/pulse)]
       _Claude Code Stop hook records sessions to the user's Convex deployment; nightly, Claude writes Markdown daily and project notes that a recall skill keyword-searches._
 
-97. **[elephant](https://github.com/tonone-ai/elephant)**
+96. **[elephant](https://github.com/tonone-ai/elephant)**
       ![Star](https://img.shields.io/github/stars/tonone-ai/elephant.svg?style=social&label=Star)
       [[code](https://github.com/tonone-ai/elephant)]
       _Claude Code plugin keeping per-repo memory in a committed `ELEPHANT.md` plus a global cross-repo file; hooks load both at session start and prompt saves._
 
-98. **[adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research)**
+97. **[adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research)**
       ![Star](https://img.shields.io/github/stars/krapcys1-maker/adaptive-agent-memory-research.svg?style=social&label=Star)
       [[code](https://github.com/krapcys1-maker/adaptive-agent-memory-research)]
       _Open research on experience memory for acting LLM agents: ALFWorld runs against no-memory and placebo controls; includes a dependency-free project-memory MCP server (append-only JSONL log)._
+
+98. **[chamnan](https://github.com/ArcticFox2029/chamnan)**
+      ![Star](https://img.shields.io/github/stars/ArcticFox2029/chamnan.svg?style=social&label=Star)
+      [[code](https://github.com/ArcticFox2029/chamnan)]
+      [[data](https://github.com/ArcticFox2029/chamnan-corpus)]
+      _Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code._
 
 99. **[hermeneutic](https://hermes-labs.ai/hermeneutic)**
       ![Star](https://img.shields.io/github/stars/hermes-labs-ai/hermeneutic.svg?style=social&label=Star)
@@ -725,22 +725,22 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[eval](https://github.com/RonsenbergVI/agent-memory-benchmarks/blob/main/RESULTS.md)]
       _In-memory temporal graph database for agents, queried with remember/recall verbs over HTTP or MCP; hybrid text, graph and optional vector retrieval; no persistence yet (2026-10)._
 
-105. **[kgai](https://kgai.dev)**
-      ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
-      [[code](https://github.com/kgaidev/kgai)]
-      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
-
-106. **[Vicem](https://rakkunn.github.io/vicem/)**
-      ![Star](https://img.shields.io/github/stars/RAKKUNN/vicem.svg?style=social&label=Star)
-      [[code](https://github.com/RAKKUNN/vicem)]
-      _Zero-dependency session handoff between coding agents: transcripts become salience-ranked `.vicem/BATON.md` briefings; skeletonized function bodies are restored on demand from a SHA-256-checked ledger over MCP._
-
-107. **[RE-call](https://giulioder.github.io/RE-call/)**
+105. **[RE-call](https://giulioder.github.io/RE-call/)**
       ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social&label=Star)
       [[code](https://github.com/GiulioDER/RE-call)]
       [[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md)]
       [[eval](https://giulioder.github.io/RE-call/benchmarks.html)]
       _Agent memory on SQLite or PostgreSQL with pgvector, returning verdict, confidence and provenance per result, flagging superseded facts and abstaining when evidence is insufficient._
+
+106. **[kgai](https://kgai.dev)**
+      ![Star](https://img.shields.io/github/stars/kgaidev/kgai.svg?style=social&label=Star)
+      [[code](https://github.com/kgaidev/kgai)]
+      _Local-first immutable knowledge graph of engineering decisions for AI coding agents; superseded decisions and rejected approaches stay queryable; embedded graph DB, opt-in team sync._
+
+107. **[Vicem](https://rakkunn.github.io/vicem/)**
+      ![Star](https://img.shields.io/github/stars/RAKKUNN/vicem.svg?style=social&label=Star)
+      [[code](https://github.com/RAKKUNN/vicem)]
+      _Zero-dependency session handoff between coding agents: transcripts become salience-ranked `.vicem/BATON.md` briefings; skeletonized function bodies are restored on demand from a SHA-256-checked ledger over MCP._
 
 108. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
