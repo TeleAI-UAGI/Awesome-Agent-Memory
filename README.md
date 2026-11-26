@@ -1148,7 +1148,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 
 -  [Nessie](https://nessielabs.com/)
    [[docs](https://nessielabs.com/docs)]
-   _Context layer importing ChatGPT, Claude, Codex and Cursor conversations into a local library; opt-in Cloud Sync adds remote MCP (OAuth) access and team sharing._
+   _Hosted context layer syncing a team's ChatGPT, Claude, Claude Code, Codex and Cursor conversations; agents search and read them over remote MCP (OAuth) or CLI._
 
 ### Archival
 
