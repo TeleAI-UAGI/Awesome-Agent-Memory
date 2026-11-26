@@ -934,6 +934,12 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://axonio.xyz/docs/)]
       _Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP._
 
+144. **[Keepfold](https://github.com/alenissacsam-2/keepfold)**
+      ![Star](https://img.shields.io/github/stars/alenissacsam-2/keepfold.svg?style=social&label=Star)
+      [[code](https://github.com/alenissacsam-2/keepfold)]
+      [[docs](https://github.com/alenissacsam-2/keepfold/blob/main/docs/GUIDE.md)]
+      _Local-first memory that Claude, Cursor, Codex and Gemini CLI share over MCP, kept as plain Markdown and JSONL files in a user-chosen folder; Windows app._
+
 </details>
 
 ### Closed-Source
