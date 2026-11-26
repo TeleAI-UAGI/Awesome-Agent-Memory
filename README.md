@@ -1146,6 +1146,10 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
    [[docs](https://docs.memoryrouter.ai)]
    _Hosted memory vault that ChatGPT, Claude and other MCP clients search and write through tools; hooks recall and capture each Claude Code or Codex turn._
 
+-  [Nessie](https://nessielabs.com/)
+   [[docs](https://nessielabs.com/docs)]
+   _Hosted context layer syncing a team's ChatGPT, Claude, Claude Code, Codex and Cursor conversations; agents search and read them over remote MCP (OAuth) or CLI._
+
 ### Archival
 
 _Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
