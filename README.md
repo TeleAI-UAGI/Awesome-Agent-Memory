@@ -1485,6 +1485,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
     [[data](https://huggingface.co/datasets/Gde05/agent-memory-bench-corpus)]
     _Preregistered harness scoring memory layers for coding agents by executing task checkers rather than judging text; the author's own RE-call is among the arms._
 
+- **[memdrift](https://github.com/AlexEnabled/memdrift)**
+    [[code](https://github.com/AlexEnabled/memdrift)]
+    _Procedurally generated RL environment where facts and support policies drift across hundreds of sessions; tool-only access, exact oracle-checked rewards._
+
 #### 🗓️ 2025
 
 - **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
