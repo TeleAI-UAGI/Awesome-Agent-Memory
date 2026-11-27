@@ -934,6 +934,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://axonio.xyz/docs/)]
       _Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP._
 
+144. **[Just Enough Memory (JEM)](https://github.com/lachlanfairbank/JustEnoughMemory)**
+      ![Star](https://img.shields.io/github/stars/lachlanfairbank/JustEnoughMemory.svg?style=social&label=Star)
+      [[code](https://github.com/lachlanfairbank/JustEnoughMemory)]
+      _Local Markdown memory for agents. One index routes agents to relevant memories. Self-maintaining and designed for vibe-coders, technical hobbyists, and homelabbers._
+
 </details>
 
 ### Closed-Source
