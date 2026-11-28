@@ -1268,6 +1268,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[AI Memory Date Test](https://doi.org/10.5281/zenodo.24500314)**
+    [[code](https://github.com/terracore-kr/ai-memory-date-test)]
+    _Preregistered 360-question test of corrections, dates said, event order, day counts and abstention over 15 synthetic users; by Belcore, whose API it also tests._
+
 - **memory-bench**
     [[code](https://github.com/LF-Labs-Inc/memory-bench)]
     _Assistant-memory benchmark over a fictional user's six months: 2,080 probes (half private) on forgetting, scope leaks, poisoning and recall; from Dawnmere's makers, who score Dawnmere._
